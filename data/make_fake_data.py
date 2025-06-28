@@ -62,5 +62,5 @@ customers['tenure_days'] = np.where(
 
 
 customers.to_csv(
-    'data/faker_chrun_data.csv'
+    'data/faker_churn_data.csv'
 )
