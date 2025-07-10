@@ -1,1001 +1,1001 @@
 ,customer_id,join_date,subscription_plan,payment_method,region,age,gender,churned,date_of_last_login,days_since_last_login,tenure_days
-0,1,2022-09-05,Basic,Credit Card,East,43,Prefer not to answer,0,2023-12-26,5,482
-1,2,2021-02-03,Premium,Debit,North,68,Prefer not to answer,1,2023-08-24,129,932
-2,3,2021-01-13,Premium,PayPal,North,69,Female,0,2023-12-25,6,1082
-3,4,2021-12-18,Free,Debit,East,20,Male,1,2023-05-11,234,509
-4,5,2022-04-23,Basic,PayPal,East,23,Female,0,2023-12-13,18,617
-5,6,2020-03-10,Basic,Credit Card,South,54,Female,0,2023-12-26,5,1391
-6,7,2020-12-24,Free,Debit,West,18,Prefer not to answer,0,2023-12-02,29,1102
-7,8,2022-11-10,Basic,Debit,West,49,Male,0,2023-12-30,1,416
-8,9,2020-03-12,Free,Credit Card,South,31,Prefer not to answer,1,2023-08-10,143,1246
-9,10,2021-10-01,Premium,Credit Card,West,58,Male,0,2023-12-29,2,821
-10,11,2020-10-04,Basic,Debit,East,57,Prefer not to answer,0,2023-12-07,24,1183
-11,12,2020-02-05,Free,Debit,East,30,Female,0,2023-12-28,3,1425
-12,13,2020-02-10,Basic,PayPal,North,25,Male,0,2023-12-09,22,1420
-13,14,2021-08-29,Premium,Debit,North,68,Female,0,2023-12-23,8,854
-14,15,2021-07-03,Free,Credit Card,East,60,Female,0,2023-12-11,20,911
-15,16,2020-04-16,Basic,Credit Card,West,59,Female,1,2021-12-24,737,617
-16,17,2020-12-15,Free,PayPal,North,48,Prefer not to answer,1,2023-07-25,159,952
-17,18,2020-05-17,Basic,Debit,North,30,Prefer not to answer,0,2023-12-15,16,1323
-18,19,2020-10-01,Premium,Debit,South,64,Prefer not to answer,0,2023-12-09,22,1186
-19,20,2020-03-15,Premium,PayPal,East,66,Prefer not to answer,0,2023-12-01,30,1386
-20,21,2022-01-05,Premium,Credit Card,East,38,Female,1,2022-04-29,611,114
-21,22,2020-03-15,Premium,PayPal,West,53,Prefer not to answer,0,2023-12-14,17,1386
-22,23,2020-08-01,Free,Debit,West,50,Male,1,2023-06-22,192,1055
-23,24,2022-06-09,Basic,Credit Card,East,54,Prefer not to answer,0,2023-12-25,6,570
-24,25,2021-04-23,Premium,Debit,North,52,Female,0,2023-12-14,17,982
-25,26,2020-05-07,Basic,PayPal,East,50,Male,0,2023-12-22,9,1333
-26,27,2020-11-29,Free,PayPal,North,54,Female,0,2023-12-08,23,1127
-27,28,2020-09-04,Basic,Debit,North,18,Male,0,2023-12-10,21,1213
-28,29,2022-09-19,Premium,Debit,North,37,Female,0,2023-12-07,24,468
-29,30,2022-02-25,Basic,PayPal,North,46,Female,0,2023-12-29,2,674
-30,31,2022-06-14,Basic,PayPal,North,39,Male,0,2023-12-10,21,565
-31,32,2021-12-02,Basic,Debit,South,68,Male,0,2023-12-19,12,759
-32,33,2021-04-15,Free,Credit Card,East,42,Prefer not to answer,0,2023-12-20,11,990
-33,34,2020-01-16,Free,Debit,South,20,Male,0,2023-12-14,17,1445
-34,35,2022-11-02,Free,Credit Card,East,62,Female,0,2023-12-09,22,424
-35,36,2020-11-15,Basic,Debit,North,33,Male,1,2022-12-05,391,750
-36,37,2021-09-18,Basic,PayPal,North,21,Male,0,2023-12-27,4,834
-37,38,2020-06-04,Basic,PayPal,East,39,Female,0,2023-12-14,17,1305
-38,39,2020-08-09,Basic,Debit,West,59,Female,1,2023-06-25,189,1050
-39,40,2020-12-30,Basic,Credit Card,East,33,Male,1,2021-01-09,1086,10
-40,41,2022-10-17,Free,Credit Card,North,63,Prefer not to answer,0,2023-12-14,17,440
-41,42,2021-12-11,Basic,PayPal,North,69,Female,0,2023-12-06,25,750
-42,43,2021-04-14,Premium,PayPal,North,33,Male,0,2023-12-04,27,991
-43,44,2021-12-22,Premium,Debit,North,44,Male,0,2023-12-28,3,739
-44,45,2021-09-15,Basic,Credit Card,North,54,Prefer not to answer,1,2023-09-03,119,718
-45,46,2020-04-14,Basic,Credit Card,West,40,Prefer not to answer,1,2023-08-20,133,1223
-46,47,2021-01-24,Basic,Debit,East,20,Female,1,2023-09-26,96,975
-47,48,2020-03-30,Basic,PayPal,East,45,Prefer not to answer,1,2023-08-12,141,1230
-48,49,2022-05-16,Premium,PayPal,North,24,Female,0,2023-12-03,28,594
-49,50,2020-05-26,Free,Credit Card,West,69,Female,0,2023-12-06,25,1314
-50,51,2021-04-06,Premium,PayPal,West,58,Female,0,2023-12-09,22,999
-51,52,2021-10-24,Premium,Credit Card,West,58,Female,1,2023-10-05,87,711
-52,53,2020-05-21,Basic,PayPal,West,65,Female,1,2020-11-03,1153,166
-53,54,2022-03-23,Premium,Credit Card,West,31,Male,0,2023-12-31,0,648
-54,55,2022-04-16,Premium,Credit Card,North,67,Male,0,2023-12-18,13,624
-55,56,2020-05-13,Premium,Debit,East,42,Prefer not to answer,1,2023-07-09,175,1152
-56,57,2020-07-04,Premium,Credit Card,North,64,Male,0,2023-12-08,23,1275
-57,58,2021-01-06,Basic,Debit,South,42,Prefer not to answer,0,2023-12-30,1,1089
-58,59,2022-02-27,Premium,Debit,East,61,Female,0,2023-12-20,11,672
-59,60,2022-01-31,Basic,Credit Card,East,48,Female,0,2023-12-25,6,699
-60,61,2022-11-01,Basic,PayPal,East,26,Male,0,2023-12-09,22,425
-61,62,2022-03-24,Premium,Credit Card,West,43,Female,0,2023-12-24,7,647
-62,63,2020-10-13,Premium,Credit Card,East,34,Female,0,2023-12-26,5,1174
-63,64,2021-05-09,Basic,PayPal,East,42,Male,0,2023-12-07,24,966
-64,65,2020-04-19,Basic,Debit,North,51,Female,0,2023-12-11,20,1351
-65,66,2021-04-17,Basic,Credit Card,South,60,Male,1,2022-03-06,665,323
-66,67,2020-06-19,Free,Debit,West,64,Male,0,2023-12-27,4,1290
-67,68,2020-01-26,Basic,Credit Card,East,45,Male,0,2023-12-20,11,1435
-68,69,2020-05-30,Basic,Credit Card,West,62,Prefer not to answer,0,2023-12-16,15,1310
-69,70,2021-04-30,Basic,Credit Card,East,68,Female,0,2023-12-29,2,975
-70,71,2021-10-14,Premium,PayPal,North,53,Prefer not to answer,0,2023-12-29,2,808
-71,72,2020-09-02,Free,Credit Card,West,40,Prefer not to answer,0,2023-12-10,21,1215
-72,73,2022-10-01,Free,Debit,North,49,Female,0,2023-12-26,5,456
-73,74,2022-07-11,Basic,Credit Card,East,57,Male,0,2023-12-17,14,538
-74,75,2021-06-24,Premium,PayPal,South,37,Prefer not to answer,0,2023-12-05,26,920
-75,76,2020-06-02,Basic,Debit,South,34,Male,0,2023-12-27,4,1307
-76,77,2022-12-07,Free,PayPal,East,40,Male,1,2023-01-08,357,32
-77,78,2020-02-10,Premium,Credit Card,East,52,Prefer not to answer,0,2023-12-03,28,1420
-78,79,2020-03-22,Basic,Credit Card,North,61,Male,0,2023-12-19,12,1379
-79,80,2020-11-16,Premium,Credit Card,South,65,Female,0,2023-12-19,12,1140
-80,81,2022-07-09,Basic,PayPal,South,21,Prefer not to answer,1,2023-08-10,143,397
-81,82,2021-04-28,Premium,Credit Card,North,18,Prefer not to answer,0,2023-12-10,21,977
-82,83,2021-11-14,Free,Debit,West,50,Prefer not to answer,0,2023-12-12,19,777
-83,84,2022-10-24,Basic,PayPal,East,28,Female,0,2023-12-11,20,433
-84,85,2021-05-09,Free,Credit Card,East,41,Female,1,2021-09-02,850,116
-85,86,2021-11-28,Basic,Debit,West,27,Male,0,2023-12-29,2,763
-86,87,2021-03-10,Free,PayPal,East,35,Prefer not to answer,0,2023-12-24,7,1026
-87,88,2021-03-30,Premium,Credit Card,South,42,Female,0,2023-12-04,27,1006
-88,89,2022-10-07,Premium,PayPal,North,38,Female,0,2023-12-15,16,450
-89,90,2022-03-12,Basic,PayPal,South,34,Male,0,2023-12-18,13,659
-90,91,2021-05-05,Free,Debit,South,55,Female,1,2022-11-05,421,549
-91,92,2022-10-18,Basic,Debit,East,40,Prefer not to answer,0,2023-12-06,25,439
-92,93,2020-01-28,Premium,Credit Card,South,49,Female,0,2023-12-11,20,1433
-93,94,2020-04-18,Basic,Debit,South,51,Prefer not to answer,0,2023-12-01,30,1352
-94,95,2022-06-27,Basic,PayPal,East,34,Female,0,2023-12-22,9,552
-95,96,2021-09-16,Free,Debit,East,18,Male,0,2023-12-05,26,836
-96,97,2020-12-27,Free,Credit Card,West,30,Female,0,2023-12-01,30,1099
-97,98,2022-01-26,Basic,Credit Card,East,61,Female,1,2022-11-26,400,304
-98,99,2020-01-19,Basic,PayPal,North,26,Female,0,2023-12-04,27,1442
-99,100,2020-02-28,Free,Debit,East,28,Female,0,2023-12-23,8,1402
-100,101,2020-03-26,Basic,Credit Card,East,26,Female,0,2023-12-30,1,1375
-101,102,2021-01-26,Free,Debit,East,39,Prefer not to answer,0,2023-12-24,7,1069
-102,103,2020-06-25,Basic,Debit,East,41,Male,0,2023-12-18,13,1284
-103,104,2021-01-04,Premium,Credit Card,North,40,Prefer not to answer,1,2022-01-22,708,383
-104,105,2022-01-22,Premium,PayPal,South,32,Male,1,2023-01-06,359,349
-105,106,2021-06-06,Free,Credit Card,West,52,Male,1,2023-04-02,273,665
-106,107,2022-06-03,Premium,Debit,North,54,Male,0,2023-12-06,25,576
-107,108,2021-01-26,Basic,PayPal,West,31,Male,0,2023-12-14,17,1069
-108,109,2020-10-20,Basic,PayPal,West,25,Female,0,2023-12-11,20,1167
-109,110,2021-02-01,Basic,Debit,East,40,Female,0,2023-12-06,25,1063
-110,111,2020-11-10,Free,PayPal,East,25,Prefer not to answer,0,2023-12-17,14,1146
-111,112,2022-04-25,Free,Credit Card,West,39,Female,0,2023-12-26,5,615
-112,113,2021-03-25,Premium,Credit Card,North,39,Male,0,2023-12-18,13,1011
-113,114,2021-09-17,Basic,Credit Card,East,58,Female,0,2023-12-30,1,835
-114,115,2021-02-22,Basic,Debit,East,64,Female,0,2023-12-11,20,1042
-115,116,2020-08-12,Basic,Credit Card,East,57,Female,0,2023-12-17,14,1236
-116,117,2021-03-24,Free,Debit,West,22,Female,1,2021-08-29,854,158
-117,118,2020-12-19,Basic,Credit Card,South,59,Female,0,2023-12-07,24,1107
-118,119,2020-05-10,Basic,PayPal,North,18,Male,0,2023-12-25,6,1330
-119,120,2022-04-02,Premium,Debit,South,48,Prefer not to answer,0,2023-12-24,7,638
-120,121,2020-10-04,Free,Credit Card,North,59,Female,0,2023-12-12,19,1183
-121,122,2020-08-19,Basic,Debit,East,65,Male,0,2023-12-14,17,1229
-122,123,2021-08-19,Basic,Credit Card,South,23,Prefer not to answer,0,2023-12-25,6,864
-123,124,2022-07-24,Premium,PayPal,South,38,Prefer not to answer,0,2023-12-13,18,525
-124,125,2022-09-25,Free,Credit Card,West,46,Female,0,2023-12-27,4,462
-125,126,2020-12-28,Premium,Debit,West,66,Male,0,2023-12-30,1,1098
-126,127,2021-01-25,Premium,PayPal,North,39,Prefer not to answer,1,2021-10-12,810,260
-127,128,2020-01-28,Basic,Debit,South,57,Female,0,2023-12-06,25,1433
-128,129,2022-09-27,Basic,PayPal,South,34,Prefer not to answer,0,2023-12-13,18,460
-129,130,2020-11-09,Premium,Credit Card,North,65,Female,1,2023-07-18,166,981
-130,131,2022-12-20,Basic,Credit Card,East,67,Male,0,2023-12-29,2,376
-131,132,2021-01-10,Basic,Debit,West,54,Female,0,2023-12-06,25,1085
-132,133,2020-03-12,Premium,Credit Card,West,52,Male,0,2023-12-08,23,1389
-133,134,2021-04-28,Basic,Credit Card,East,42,Female,0,2023-12-15,16,977
-134,135,2021-05-30,Free,PayPal,North,28,Prefer not to answer,0,2023-12-17,14,945
-135,136,2021-01-12,Free,Debit,East,36,Prefer not to answer,0,2023-12-01,30,1083
-136,137,2020-08-20,Free,Debit,South,68,Male,0,2023-12-04,27,1228
-137,138,2022-07-02,Premium,PayPal,West,43,Female,0,2023-12-15,16,547
-138,139,2021-05-07,Basic,PayPal,North,51,Male,0,2023-12-04,27,968
-139,140,2021-12-16,Premium,Debit,South,19,Prefer not to answer,0,2023-12-01,30,745
-140,141,2021-03-30,Premium,PayPal,West,20,Female,0,2023-12-06,25,1006
-141,142,2021-02-08,Basic,PayPal,West,31,Female,1,2023-05-11,234,822
-142,143,2022-11-14,Basic,Debit,North,66,Male,0,2023-12-03,28,412
-143,144,2020-07-09,Premium,PayPal,North,34,Female,1,2022-07-05,544,726
-144,145,2020-02-23,Basic,Credit Card,North,43,Prefer not to answer,0,2023-12-30,1,1407
-145,146,2020-08-04,Premium,Credit Card,South,28,Prefer not to answer,0,2023-12-03,28,1244
-146,147,2021-11-17,Basic,Debit,South,45,Prefer not to answer,0,2023-12-12,19,774
-147,148,2020-08-31,Basic,Credit Card,West,38,Female,0,2023-12-27,4,1217
-148,149,2021-07-06,Basic,PayPal,West,59,Prefer not to answer,0,2023-12-05,26,908
-149,150,2020-07-17,Free,Debit,South,31,Male,0,2023-12-15,16,1262
-150,151,2021-05-04,Basic,Credit Card,West,30,Male,0,2023-12-25,6,971
-151,152,2020-07-02,Premium,Debit,North,55,Female,1,2023-06-18,196,1081
-152,153,2020-09-26,Premium,PayPal,West,58,Female,1,2022-04-07,633,558
-153,154,2021-09-07,Premium,Credit Card,West,68,Prefer not to answer,0,2023-12-20,11,845
-154,155,2022-04-23,Basic,Debit,South,54,Prefer not to answer,0,2023-12-02,29,617
-155,156,2022-10-02,Premium,PayPal,North,18,Prefer not to answer,0,2023-12-21,10,455
-156,157,2021-12-01,Basic,Credit Card,North,66,Prefer not to answer,1,2023-04-11,264,496
-157,158,2020-05-27,Basic,Debit,East,30,Male,1,2023-06-19,195,1118
-158,159,2022-05-03,Basic,Credit Card,West,30,Prefer not to answer,0,2023-12-03,28,607
-159,160,2020-03-07,Premium,Debit,South,59,Male,0,2023-12-08,23,1394
-160,161,2022-10-09,Premium,Credit Card,South,58,Prefer not to answer,0,2023-12-10,21,448
-161,162,2022-07-30,Basic,PayPal,West,59,Prefer not to answer,0,2023-12-10,21,519
-162,163,2022-02-09,Premium,PayPal,South,40,Female,0,2023-12-27,4,690
-163,164,2022-10-26,Basic,PayPal,South,40,Male,1,2023-11-24,37,394
-164,165,2022-01-08,Basic,Credit Card,West,35,Prefer not to answer,0,2023-12-19,12,722
-165,166,2021-03-01,Premium,PayPal,North,26,Male,1,2021-12-16,745,290
-166,167,2020-05-26,Basic,Credit Card,South,42,Male,0,2023-12-19,12,1314
-167,168,2020-04-13,Basic,Debit,West,23,Male,0,2023-12-24,7,1357
-168,169,2022-12-22,Basic,Debit,South,32,Male,0,2023-12-30,1,374
-169,170,2021-11-26,Premium,Debit,South,59,Male,0,2023-12-09,22,765
-170,171,2022-12-19,Premium,Credit Card,South,31,Prefer not to answer,1,2023-11-13,48,329
-171,172,2021-08-06,Basic,PayPal,North,47,Prefer not to answer,0,2023-12-20,11,877
-172,173,2022-01-10,Basic,PayPal,North,20,Female,0,2023-12-25,6,720
-173,174,2022-09-22,Premium,Credit Card,North,64,Female,0,2023-12-08,23,465
-174,175,2021-12-13,Premium,PayPal,North,69,Male,0,2023-12-17,14,748
-175,176,2022-09-08,Premium,PayPal,East,57,Prefer not to answer,0,2023-12-03,28,479
-176,177,2022-11-14,Premium,Debit,South,60,Female,0,2023-12-24,7,412
-177,178,2022-03-10,Free,Debit,West,29,Male,0,2023-12-10,21,661
-178,179,2022-01-01,Free,PayPal,South,48,Female,1,2022-06-13,566,163
-179,180,2020-02-23,Basic,PayPal,North,61,Female,1,2021-12-19,742,665
-180,181,2021-05-31,Basic,Credit Card,North,39,Male,0,2023-12-18,13,944
-181,182,2022-11-07,Premium,Debit,North,21,Prefer not to answer,0,2023-12-19,12,419
-182,183,2022-01-09,Basic,Credit Card,North,67,Prefer not to answer,1,2023-12-12,19,702
-183,184,2022-01-13,Premium,Debit,North,35,Female,0,2023-12-31,0,717
-184,185,2020-07-31,Free,PayPal,East,24,Male,0,2023-12-18,13,1248
-185,186,2021-05-18,Basic,PayPal,East,19,Male,0,2023-12-29,2,957
-186,187,2020-05-07,Basic,PayPal,West,20,Female,0,2023-12-20,11,1333
-187,188,2020-06-04,Premium,Debit,West,56,Female,0,2023-12-16,15,1305
-188,189,2022-02-13,Basic,PayPal,East,60,Male,0,2023-12-16,15,686
-189,190,2020-08-10,Free,Debit,South,22,Female,0,2023-12-20,11,1238
-190,191,2021-07-18,Premium,Credit Card,East,41,Female,0,2023-12-27,4,896
-191,192,2021-04-14,Premium,Debit,North,64,Male,0,2023-12-03,28,991
-192,193,2021-12-10,Basic,Credit Card,North,64,Female,0,2023-12-05,26,751
-193,194,2020-10-18,Basic,Debit,North,46,Male,1,2021-06-13,931,238
-194,195,2022-03-14,Basic,Credit Card,West,40,Female,1,2023-05-06,239,418
-195,196,2021-04-20,Premium,Debit,North,67,Male,1,2021-08-21,862,123
-196,197,2022-09-15,Basic,Debit,East,33,Female,1,2023-09-01,121,351
-197,198,2022-09-26,Basic,Debit,West,22,Male,1,2022-11-07,419,42
-198,199,2022-02-28,Free,Credit Card,East,18,Prefer not to answer,0,2023-12-04,27,671
-199,200,2021-10-06,Basic,Debit,North,20,Female,0,2023-12-12,19,816
-200,201,2020-01-06,Basic,PayPal,South,67,Male,0,2023-12-24,7,1455
-201,202,2021-11-04,Basic,PayPal,East,47,Male,0,2023-12-12,19,787
-202,203,2021-05-23,Free,Debit,West,63,Prefer not to answer,0,2023-12-08,23,952
-203,204,2021-12-12,Free,Debit,South,42,Prefer not to answer,0,2023-12-24,7,749
-204,205,2020-02-24,Basic,Credit Card,East,44,Female,0,2023-12-28,3,1406
-205,206,2020-05-07,Basic,Debit,East,59,Female,0,2023-12-13,18,1333
-206,207,2022-10-03,Basic,PayPal,South,40,Female,0,2023-12-07,24,454
-207,208,2022-04-22,Premium,Debit,West,42,Prefer not to answer,0,2023-12-30,1,618
-208,209,2021-07-14,Basic,PayPal,South,42,Female,0,2023-12-27,4,900
-209,210,2021-11-17,Basic,PayPal,South,38,Female,0,2023-12-08,23,774
-210,211,2022-04-25,Basic,PayPal,West,40,Male,1,2022-07-09,540,75
-211,212,2022-01-28,Basic,Credit Card,North,33,Prefer not to answer,0,2023-12-24,7,702
-212,213,2022-04-01,Basic,PayPal,South,39,Female,0,2023-12-16,15,639
-213,214,2020-04-25,Free,PayPal,East,30,Female,0,2023-12-13,18,1345
-214,215,2021-06-27,Premium,Credit Card,East,32,Male,1,2022-08-03,515,402
-215,216,2020-03-22,Basic,Credit Card,West,34,Female,0,2023-12-02,29,1379
-216,217,2021-11-17,Premium,Debit,South,35,Female,0,2023-12-24,7,774
-217,218,2021-10-19,Basic,PayPal,South,33,Male,1,2023-11-29,32,771
-218,219,2021-02-01,Premium,Credit Card,South,45,Prefer not to answer,0,2023-12-29,2,1063
-219,220,2021-10-15,Premium,Debit,South,48,Prefer not to answer,0,2023-12-20,11,807
-220,221,2020-08-03,Basic,Credit Card,North,51,Prefer not to answer,1,2021-05-28,947,298
-221,222,2020-01-05,Free,Debit,North,46,Male,0,2023-12-21,10,1456
-222,223,2020-07-31,Free,Debit,East,61,Male,0,2023-12-10,21,1248
-223,224,2022-09-07,Basic,Credit Card,West,54,Female,0,2023-12-28,3,480
-224,225,2022-12-20,Premium,Credit Card,North,36,Prefer not to answer,0,2023-12-08,23,376
-225,226,2021-07-28,Basic,Debit,North,35,Prefer not to answer,0,2023-12-22,9,886
-226,227,2020-06-10,Basic,PayPal,West,62,Male,0,2023-12-02,29,1299
-227,228,2021-04-21,Premium,PayPal,East,52,Female,0,2023-12-22,9,984
-228,229,2022-12-19,Basic,Debit,East,60,Male,1,2023-04-13,262,115
-229,230,2020-02-15,Basic,Debit,North,38,Male,0,2023-12-24,7,1415
-230,231,2022-11-28,Basic,Debit,South,64,Female,0,2023-12-14,17,398
-231,232,2022-12-28,Free,Debit,North,48,Prefer not to answer,1,2023-09-13,109,259
-232,233,2021-05-15,Basic,Debit,North,58,Prefer not to answer,1,2023-11-18,43,917
-233,234,2022-11-09,Premium,Credit Card,North,64,Female,0,2023-12-07,24,417
-234,235,2021-08-22,Basic,Credit Card,South,68,Male,1,2022-10-16,441,420
-235,236,2022-05-01,Basic,Debit,West,23,Female,0,2023-12-11,20,609
-236,237,2022-10-13,Premium,PayPal,South,48,Prefer not to answer,0,2023-12-11,20,444
-237,238,2022-09-24,Premium,Debit,West,38,Prefer not to answer,1,2023-11-15,46,417
-238,239,2022-01-24,Basic,PayPal,South,35,Male,0,2023-12-19,12,706
-239,240,2021-04-25,Basic,PayPal,East,50,Female,0,2023-12-03,28,980
-240,241,2021-01-12,Free,Debit,East,55,Prefer not to answer,0,2023-12-01,30,1083
-241,242,2021-08-09,Basic,PayPal,North,27,Male,1,2023-01-01,364,510
-242,243,2022-01-03,Basic,PayPal,North,58,Female,0,2023-12-30,1,727
-243,244,2022-10-20,Premium,PayPal,North,42,Male,0,2023-12-23,8,437
-244,245,2020-04-05,Basic,Credit Card,South,22,Prefer not to answer,0,2023-12-07,24,1365
-245,246,2022-05-02,Premium,Credit Card,North,41,Male,1,2023-10-10,82,526
-246,247,2021-09-28,Basic,Credit Card,South,35,Female,0,2023-12-19,12,824
-247,248,2020-05-05,Basic,PayPal,North,35,Male,1,2021-07-16,898,437
-248,249,2021-06-15,Free,PayPal,South,69,Female,0,2023-12-08,23,929
-249,250,2020-12-04,Free,Debit,South,21,Prefer not to answer,0,2023-12-02,29,1122
-250,251,2022-05-31,Free,Credit Card,North,23,Female,0,2023-12-12,19,579
-251,252,2021-03-23,Basic,PayPal,South,40,Male,0,2023-12-04,27,1013
-252,253,2020-12-08,Basic,PayPal,East,69,Male,1,2023-03-19,287,831
-253,254,2022-01-17,Free,Debit,North,28,Prefer not to answer,1,2023-09-08,114,599
-254,255,2021-12-08,Basic,Debit,West,57,Female,0,2023-12-02,29,753
-255,256,2020-12-23,Basic,Debit,North,69,Male,0,2023-12-31,0,1103
-256,257,2021-11-03,Premium,Credit Card,West,18,Prefer not to answer,1,2022-03-14,657,131
-257,258,2022-10-21,Basic,PayPal,South,66,Female,0,2023-12-13,18,436
-258,259,2022-05-02,Premium,Debit,North,20,Male,1,2022-05-20,590,18
-259,260,2021-08-14,Premium,Debit,West,33,Prefer not to answer,0,2023-12-29,2,869
-260,261,2021-09-04,Free,Credit Card,South,27,Female,0,2023-12-09,22,848
-261,262,2021-07-13,Premium,Credit Card,West,21,Male,1,2021-08-11,872,29
-262,263,2022-11-22,Basic,Credit Card,South,45,Prefer not to answer,0,2023-12-13,18,404
-263,264,2021-05-17,Basic,PayPal,North,19,Prefer not to answer,0,2023-12-12,19,958
-264,265,2021-12-18,Basic,PayPal,West,53,Male,0,2023-12-12,19,743
-265,266,2022-12-02,Basic,Debit,North,37,Female,0,2023-12-26,5,394
-266,267,2021-04-04,Premium,Debit,South,31,Male,0,2023-12-12,19,1001
-267,268,2020-07-23,Basic,PayPal,North,33,Male,0,2023-12-14,17,1256
-268,269,2021-08-06,Free,Debit,East,51,Prefer not to answer,0,2023-12-14,17,877
-269,270,2020-05-09,Premium,Debit,South,36,Prefer not to answer,0,2023-12-07,24,1331
-270,271,2022-06-16,Free,PayPal,South,34,Male,0,2023-12-18,13,563
-271,272,2021-09-06,Basic,Credit Card,West,35,Male,0,2023-12-21,10,846
-272,273,2020-06-10,Basic,Credit Card,West,59,Female,0,2023-12-01,30,1299
-273,274,2021-09-04,Premium,Debit,South,20,Male,0,2023-12-16,15,848
-274,275,2020-06-14,Basic,Debit,South,67,Prefer not to answer,0,2023-12-31,0,1295
-275,276,2021-08-15,Premium,Debit,South,28,Female,0,2023-12-30,1,868
-276,277,2020-03-10,Basic,Debit,West,41,Female,1,2022-11-16,410,981
-277,278,2021-02-25,Premium,Credit Card,East,57,Female,0,2023-12-21,10,1039
-278,279,2020-02-16,Premium,Credit Card,East,45,Male,0,2023-12-26,5,1414
-279,280,2020-03-28,Premium,Credit Card,West,53,Prefer not to answer,0,2023-12-27,4,1373
-280,281,2020-07-23,Free,PayPal,West,64,Female,0,2023-12-22,9,1256
-281,282,2020-10-17,Basic,Credit Card,East,31,Female,0,2023-12-28,3,1170
-282,283,2020-08-18,Premium,Credit Card,East,49,Female,0,2023-12-24,7,1230
-283,284,2020-03-10,Premium,Credit Card,East,25,Prefer not to answer,0,2023-12-16,15,1391
-284,285,2021-09-23,Premium,Credit Card,West,24,Female,0,2023-12-24,7,829
-285,286,2020-07-11,Basic,Debit,North,28,Female,0,2023-12-24,7,1268
-286,287,2022-02-28,Premium,Credit Card,West,40,Male,0,2023-12-13,18,671
-287,288,2021-02-20,Premium,Debit,East,37,Male,0,2023-12-09,22,1044
-288,289,2020-12-30,Premium,PayPal,East,55,Prefer not to answer,0,2023-12-13,18,1096
-289,290,2022-08-17,Premium,Debit,South,50,Prefer not to answer,0,2023-12-25,6,501
-290,291,2021-04-11,Premium,Credit Card,North,33,Female,1,2022-05-12,598,396
-291,292,2021-11-25,Basic,PayPal,South,67,Prefer not to answer,0,2023-12-03,28,766
-292,293,2021-10-24,Free,PayPal,West,47,Female,0,2023-12-15,16,798
-293,294,2021-07-06,Premium,Debit,West,44,Male,1,2023-12-26,5,903
-294,295,2021-05-08,Basic,Credit Card,East,47,Male,0,2023-12-06,25,967
-295,296,2021-12-19,Basic,Credit Card,North,58,Prefer not to answer,1,2023-03-22,284,458
-296,297,2022-08-22,Premium,Debit,West,51,Prefer not to answer,0,2023-12-03,28,496
-297,298,2021-05-06,Basic,Debit,West,34,Prefer not to answer,0,2023-12-05,26,969
-298,299,2021-02-14,Free,PayPal,North,33,Female,1,2021-10-14,808,242
-299,300,2020-04-15,Basic,Credit Card,South,60,Male,0,2023-12-12,19,1355
-300,301,2020-11-18,Basic,Credit Card,East,21,Female,0,2023-12-10,21,1138
-301,302,2020-08-22,Free,Credit Card,East,58,Prefer not to answer,0,2023-12-03,28,1226
-302,303,2022-03-03,Free,Debit,North,49,Male,1,2023-07-15,169,499
-303,304,2020-12-11,Free,PayPal,North,54,Female,0,2023-12-03,28,1115
-304,305,2022-12-25,Basic,Credit Card,North,36,Male,0,2023-12-09,22,371
-305,306,2022-06-25,Free,PayPal,East,45,Prefer not to answer,0,2023-12-30,1,554
-306,307,2022-07-27,Premium,PayPal,North,69,Female,0,2023-12-22,9,522
-307,308,2020-11-15,Free,Debit,West,48,Prefer not to answer,1,2022-05-04,606,535
-308,309,2022-02-17,Basic,Credit Card,East,68,Prefer not to answer,0,2023-12-04,27,682
-309,310,2022-06-16,Free,Credit Card,South,22,Female,0,2023-12-22,9,563
-310,311,2020-05-26,Basic,Credit Card,South,48,Prefer not to answer,0,2023-12-17,14,1314
-311,312,2020-07-27,Premium,Debit,East,69,Male,0,2023-12-23,8,1252
-312,313,2022-02-23,Premium,PayPal,East,26,Male,0,2023-12-26,5,676
-313,314,2021-10-29,Basic,Debit,East,44,Female,1,2021-11-26,765,28
-314,315,2021-05-19,Basic,PayPal,East,47,Female,0,2023-12-29,2,956
-315,316,2021-12-28,Free,Credit Card,North,20,Prefer not to answer,1,2022-06-01,578,155
-316,317,2021-06-24,Free,Debit,East,28,Female,0,2023-12-28,3,920
-317,318,2020-01-21,Premium,PayPal,North,68,Male,0,2023-12-29,2,1440
-318,319,2022-05-20,Basic,PayPal,North,28,Prefer not to answer,0,2023-12-05,26,590
-319,320,2021-07-31,Free,Credit Card,North,20,Female,0,2023-12-29,2,883
-320,321,2020-03-06,Premium,PayPal,South,26,Prefer not to answer,1,2022-04-26,614,781
-321,322,2021-02-25,Free,Credit Card,East,35,Female,0,2023-12-23,8,1039
-322,323,2021-10-08,Basic,Credit Card,North,46,Male,1,2022-06-07,572,242
-323,324,2021-06-19,Basic,PayPal,North,33,Prefer not to answer,0,2023-12-14,17,925
-324,325,2022-02-07,Premium,PayPal,South,57,Prefer not to answer,1,2023-03-06,300,392
-325,326,2022-06-22,Free,Debit,South,58,Female,0,2023-12-23,8,557
-326,327,2020-09-19,Free,PayPal,West,25,Male,0,2023-12-05,26,1198
-327,328,2021-03-21,Basic,Credit Card,East,34,Female,0,2023-12-09,22,1015
-328,329,2021-03-14,Basic,PayPal,South,31,Prefer not to answer,0,2023-12-01,30,1022
-329,330,2022-08-27,Basic,PayPal,North,32,Prefer not to answer,0,2023-12-01,30,491
-330,331,2022-10-05,Basic,PayPal,East,35,Prefer not to answer,0,2023-12-06,25,452
-331,332,2022-09-02,Free,Credit Card,South,34,Female,0,2023-12-06,25,485
-332,333,2020-07-03,Basic,Credit Card,East,23,Male,0,2023-12-09,22,1276
-333,334,2022-07-18,Premium,Debit,North,30,Prefer not to answer,1,2022-12-08,388,143
-334,335,2021-12-01,Basic,Debit,South,57,Female,0,2023-12-24,7,760
-335,336,2020-11-14,Basic,Credit Card,North,54,Female,0,2023-12-17,14,1142
-336,337,2021-05-17,Basic,Debit,West,49,Female,0,2023-12-04,27,958
-337,338,2022-02-23,Basic,Debit,West,35,Male,0,2023-12-26,5,676
-338,339,2020-03-13,Basic,Debit,East,25,Female,0,2023-12-24,7,1388
-339,340,2021-06-06,Premium,Debit,East,39,Female,0,2023-12-17,14,938
-340,341,2020-01-20,Basic,Credit Card,South,58,Female,0,2023-12-07,24,1441
-341,342,2020-04-08,Basic,PayPal,South,53,Male,1,2022-02-16,683,679
-342,343,2020-03-04,Free,Debit,West,32,Prefer not to answer,0,2023-12-20,11,1397
-343,344,2020-03-18,Basic,PayPal,North,43,Male,1,2020-10-17,1170,213
-344,345,2021-11-04,Basic,PayPal,West,41,Female,1,2021-12-05,756,31
-345,346,2022-09-01,Basic,Debit,North,27,Female,0,2023-12-01,30,486
-346,347,2022-03-09,Premium,Debit,South,53,Male,0,2023-12-28,3,662
-347,348,2020-01-15,Premium,Credit Card,South,44,Female,0,2023-12-26,5,1446
-348,349,2020-07-03,Basic,PayPal,West,65,Female,0,2023-12-26,5,1276
-349,350,2020-05-23,Basic,Debit,North,47,Female,0,2023-12-23,8,1317
-350,351,2022-10-25,Free,Credit Card,East,46,Male,0,2023-12-02,29,432
-351,352,2021-05-03,Basic,Credit Card,East,41,Female,0,2023-12-28,3,972
-352,353,2021-10-06,Basic,PayPal,North,60,Male,0,2023-12-30,1,816
-353,354,2022-12-26,Basic,Debit,West,21,Female,0,2023-12-08,23,370
-354,355,2021-02-27,Basic,PayPal,North,29,Prefer not to answer,0,2023-12-02,29,1037
-355,356,2022-04-15,Free,Debit,West,23,Male,0,2023-12-14,17,625
-356,357,2021-07-01,Basic,Debit,South,56,Female,0,2023-12-01,30,913
-357,358,2020-08-12,Premium,Credit Card,South,38,Prefer not to answer,1,2022-10-04,453,783
-358,359,2020-10-09,Basic,Debit,West,49,Female,0,2023-12-11,20,1178
-359,360,2020-02-12,Basic,Credit Card,South,68,Male,0,2023-12-05,26,1418
-360,361,2022-04-17,Basic,Credit Card,East,68,Female,0,2023-12-09,22,623
-361,362,2022-01-07,Premium,Credit Card,South,23,Male,0,2023-12-11,20,723
-362,363,2021-05-18,Basic,PayPal,South,45,Male,0,2023-12-19,12,957
-363,364,2022-11-29,Basic,Credit Card,North,19,Male,0,2023-12-05,26,397
-364,365,2020-10-14,Premium,Credit Card,West,52,Female,0,2023-12-30,1,1173
-365,366,2020-10-08,Basic,Debit,North,48,Male,0,2023-12-26,5,1179
-366,367,2022-06-27,Free,Debit,West,40,Male,0,2023-12-14,17,552
-367,368,2022-01-18,Premium,Credit Card,East,65,Female,0,2023-12-19,12,712
-368,369,2020-08-07,Premium,Debit,West,22,Male,1,2020-09-19,1198,43
-369,370,2020-11-30,Premium,PayPal,East,49,Female,0,2023-12-01,30,1126
-370,371,2022-09-03,Premium,Debit,North,35,Prefer not to answer,0,2023-12-11,20,484
-371,372,2020-04-09,Basic,Credit Card,North,31,Prefer not to answer,0,2023-12-11,20,1361
-372,373,2021-03-05,Premium,PayPal,East,18,Male,0,2023-12-20,11,1031
-373,374,2020-06-04,Basic,PayPal,South,21,Prefer not to answer,0,2023-12-17,14,1305
-374,375,2021-11-03,Basic,Credit Card,West,39,Male,0,2023-12-08,23,788
-375,376,2020-01-18,Basic,PayPal,West,32,Male,0,2023-12-21,10,1443
-376,377,2020-02-26,Premium,Credit Card,West,31,Male,0,2023-12-26,5,1404
-377,378,2020-05-24,Premium,PayPal,West,29,Male,1,2022-06-30,549,767
-378,379,2020-08-31,Premium,PayPal,South,62,Male,0,2023-12-05,26,1217
-379,380,2020-07-04,Premium,Credit Card,East,58,Female,0,2023-12-17,14,1275
-380,381,2020-09-27,Premium,Debit,South,62,Prefer not to answer,0,2023-12-13,18,1190
-381,382,2021-04-28,Basic,Debit,West,38,Prefer not to answer,1,2021-12-22,739,238
-382,383,2020-04-06,Premium,Debit,East,26,Prefer not to answer,1,2022-02-06,693,671
-383,384,2022-07-18,Basic,Debit,North,50,Prefer not to answer,0,2023-12-10,21,531
-384,385,2021-02-25,Premium,Credit Card,North,46,Female,0,2023-12-31,0,1039
-385,386,2021-10-10,Free,Debit,North,65,Prefer not to answer,0,2023-12-09,22,812
-386,387,2020-02-20,Premium,PayPal,East,65,Female,0,2023-12-22,9,1410
-387,388,2020-06-19,Free,Credit Card,West,67,Prefer not to answer,0,2023-12-17,14,1290
-388,389,2022-12-26,Basic,Credit Card,South,57,Male,0,2023-12-13,18,370
-389,390,2021-04-30,Free,PayPal,West,62,Prefer not to answer,1,2022-03-24,647,328
-390,391,2020-05-25,Free,Credit Card,North,26,Male,0,2023-12-14,17,1315
-391,392,2021-03-18,Free,PayPal,East,21,Prefer not to answer,0,2023-12-20,11,1018
-392,393,2021-06-05,Basic,PayPal,South,23,Female,0,2023-12-06,25,939
-393,394,2020-04-03,Basic,Credit Card,West,29,Male,0,2023-12-19,12,1367
-394,395,2021-12-14,Premium,Credit Card,West,49,Male,0,2023-12-30,1,747
-395,396,2021-05-25,Premium,PayPal,West,36,Prefer not to answer,0,2023-12-14,17,950
-396,397,2021-01-30,Premium,Credit Card,West,29,Male,0,2023-12-09,22,1065
-397,398,2022-11-11,Premium,PayPal,South,31,Male,1,2022-12-05,391,24
-398,399,2021-12-30,Basic,PayPal,East,27,Prefer not to answer,0,2023-12-08,23,731
-399,400,2022-06-29,Premium,Credit Card,North,49,Female,0,2023-12-19,12,550
-400,401,2022-10-10,Basic,Debit,East,41,Male,0,2023-12-11,20,447
-401,402,2021-03-11,Basic,Debit,South,63,Female,1,2023-05-31,214,811
-402,403,2020-11-04,Premium,Credit Card,North,23,Prefer not to answer,0,2023-12-09,22,1152
-403,404,2021-09-01,Free,Credit Card,East,43,Male,0,2023-12-04,27,851
-404,405,2021-09-03,Basic,Credit Card,East,26,Male,0,2023-12-07,24,849
-405,406,2020-01-24,Premium,PayPal,West,61,Female,0,2023-12-29,2,1437
-406,407,2022-09-29,Premium,PayPal,East,24,Male,1,2023-07-08,176,282
-407,408,2022-08-22,Premium,PayPal,South,63,Prefer not to answer,0,2023-12-14,17,496
-408,409,2021-03-17,Basic,Credit Card,East,69,Female,0,2023-12-17,14,1019
-409,410,2021-03-17,Premium,Debit,South,43,Female,0,2023-12-26,5,1019
-410,411,2022-11-08,Premium,Credit Card,West,51,Male,0,2023-12-20,11,418
-411,412,2022-08-14,Basic,Debit,North,40,Male,1,2023-10-24,68,436
-412,413,2022-04-19,Basic,PayPal,North,30,Prefer not to answer,0,2023-12-14,17,621
-413,414,2021-03-30,Premium,Debit,South,62,Female,0,2023-12-18,13,1006
-414,415,2022-03-26,Basic,Debit,West,18,Male,0,2023-12-06,25,645
-415,416,2020-06-08,Premium,Debit,East,52,Prefer not to answer,1,2021-06-08,936,365
-416,417,2022-10-19,Basic,Credit Card,West,50,Female,0,2023-12-09,22,438
-417,418,2020-03-31,Basic,Credit Card,West,56,Female,1,2020-09-20,1197,173
-418,419,2020-12-23,Premium,PayPal,West,55,Male,1,2022-11-02,424,679
-419,420,2022-10-07,Premium,PayPal,South,40,Male,0,2023-12-03,28,450
-420,421,2021-01-11,Premium,Debit,South,34,Male,1,2021-02-13,1051,33
-421,422,2022-07-22,Basic,Debit,South,31,Male,1,2023-07-23,161,366
-422,423,2022-11-11,Free,PayPal,West,69,Prefer not to answer,0,2023-12-30,1,415
-423,424,2021-07-22,Basic,Credit Card,South,51,Male,0,2023-12-31,0,892
-424,425,2021-05-05,Premium,PayPal,East,22,Prefer not to answer,0,2023-12-19,12,970
-425,426,2022-03-12,Basic,PayPal,North,67,Male,0,2023-12-31,0,659
-426,427,2021-06-12,Premium,Credit Card,East,22,Prefer not to answer,0,2023-12-24,7,932
-427,428,2022-04-05,Basic,PayPal,West,54,Prefer not to answer,1,2023-07-11,173,462
-428,429,2022-12-12,Premium,Debit,South,34,Female,0,2023-12-01,30,384
-429,430,2020-03-25,Basic,Debit,North,18,Male,0,2023-12-24,7,1376
-430,431,2022-04-24,Premium,Debit,East,46,Female,0,2023-12-13,18,616
-431,432,2021-12-23,Basic,PayPal,South,45,Prefer not to answer,0,2023-12-20,11,738
-432,433,2022-10-21,Basic,Credit Card,West,66,Female,0,2023-12-30,1,436
-433,434,2021-01-03,Free,Credit Card,South,20,Male,0,2023-12-27,4,1092
-434,435,2022-12-22,Premium,PayPal,East,31,Prefer not to answer,0,2023-12-03,28,374
-435,436,2022-09-22,Premium,Debit,South,43,Female,0,2023-12-21,10,465
-436,437,2021-10-09,Premium,Credit Card,North,19,Prefer not to answer,0,2023-12-18,13,813
-437,438,2021-09-15,Basic,Debit,North,50,Female,0,2023-12-16,15,837
-438,439,2021-09-14,Basic,Debit,North,56,Male,0,2023-12-26,5,838
-439,440,2020-01-09,Basic,Debit,East,23,Male,0,2023-12-04,27,1452
-440,441,2022-08-11,Basic,Debit,North,46,Male,0,2023-12-28,3,507
-441,442,2022-02-02,Free,Debit,South,50,Female,0,2023-12-14,17,697
-442,443,2020-12-23,Free,Debit,East,37,Male,0,2023-12-01,30,1103
-443,444,2022-09-07,Premium,PayPal,East,18,Male,0,2023-12-06,25,480
-444,445,2022-07-15,Basic,Credit Card,North,23,Male,0,2023-12-07,24,534
-445,446,2021-05-30,Basic,PayPal,North,42,Male,0,2023-12-30,1,945
-446,447,2021-12-13,Basic,PayPal,East,54,Male,0,2023-12-28,3,748
-447,448,2022-09-17,Basic,PayPal,North,63,Male,0,2023-12-18,13,470
-448,449,2021-08-08,Free,Credit Card,South,40,Prefer not to answer,0,2023-12-29,2,875
-449,450,2021-03-13,Basic,Credit Card,East,46,Female,0,2023-12-01,30,1023
-450,451,2021-06-23,Basic,Credit Card,West,42,Female,0,2023-12-30,1,921
-451,452,2021-01-13,Basic,Debit,West,29,Male,0,2023-12-17,14,1082
-452,453,2021-05-26,Premium,Debit,South,25,Prefer not to answer,0,2023-12-13,18,949
-453,454,2020-12-25,Basic,Debit,South,34,Male,1,2021-05-08,967,134
-454,455,2020-09-12,Premium,Debit,South,51,Female,0,2023-12-14,17,1205
-455,456,2021-08-21,Premium,Debit,West,44,Male,1,2022-04-14,626,236
-456,457,2021-03-03,Premium,Debit,South,47,Male,1,2021-06-15,929,104
-457,458,2020-04-29,Free,Debit,North,54,Female,0,2023-12-22,9,1341
-458,459,2021-05-26,Basic,Debit,East,61,Prefer not to answer,0,2023-12-21,10,949
-459,460,2022-11-18,Basic,Debit,West,19,Male,1,2022-12-01,395,13
-460,461,2020-04-25,Basic,Debit,South,66,Female,1,2021-06-01,943,402
-461,462,2020-10-02,Basic,Credit Card,North,45,Prefer not to answer,0,2023-12-17,14,1185
-462,463,2020-06-01,Premium,PayPal,South,65,Male,1,2022-01-21,709,599
-463,464,2022-12-28,Premium,Debit,North,64,Female,1,2023-12-14,17,351
-464,465,2020-08-19,Basic,Credit Card,North,62,Prefer not to answer,0,2023-12-21,10,1229
-465,466,2021-10-23,Free,Credit Card,North,32,Prefer not to answer,0,2023-12-18,13,799
-466,467,2021-05-14,Free,Credit Card,South,49,Prefer not to answer,0,2023-12-19,12,961
-467,468,2020-11-05,Basic,Debit,East,44,Male,0,2023-12-20,11,1151
-468,469,2022-03-30,Free,Credit Card,East,38,Prefer not to answer,0,2023-12-25,6,641
-469,470,2020-04-26,Basic,Debit,North,45,Male,1,2023-10-27,65,1279
-470,471,2022-01-01,Premium,Credit Card,North,28,Female,0,2023-12-28,3,729
-471,472,2021-12-25,Premium,PayPal,West,68,Male,1,2022-09-06,481,255
-472,473,2021-11-06,Premium,Debit,North,52,Female,0,2023-12-16,15,785
-473,474,2021-07-17,Basic,PayPal,South,19,Male,0,2023-12-16,15,897
-474,475,2020-04-10,Basic,Credit Card,North,38,Male,0,2023-12-17,14,1360
-475,476,2021-12-22,Basic,PayPal,North,45,Prefer not to answer,0,2023-12-14,17,739
-476,477,2020-09-25,Basic,Debit,West,48,Male,0,2023-12-03,28,1192
-477,478,2021-08-02,Basic,Debit,East,34,Female,0,2023-12-24,7,881
-478,479,2020-05-24,Basic,Credit Card,North,44,Male,0,2023-12-01,30,1316
-479,480,2022-03-29,Basic,PayPal,South,61,Male,1,2023-12-30,1,641
-480,481,2021-03-28,Basic,Credit Card,North,18,Prefer not to answer,0,2023-12-08,23,1008
-481,482,2022-01-03,Basic,Credit Card,South,59,Prefer not to answer,0,2023-12-05,26,727
-482,483,2021-04-15,Free,Credit Card,South,42,Prefer not to answer,0,2023-12-02,29,990
-483,484,2020-12-30,Basic,Credit Card,West,29,Female,0,2023-12-16,15,1096
-484,485,2022-05-27,Basic,PayPal,North,34,Female,1,2022-10-17,440,143
-485,486,2022-12-19,Premium,PayPal,South,51,Prefer not to answer,1,2023-05-24,221,156
-486,487,2020-02-17,Premium,Credit Card,South,24,Prefer not to answer,0,2023-12-26,5,1413
-487,488,2020-06-06,Basic,PayPal,West,22,Male,0,2023-12-15,16,1303
-488,489,2021-06-13,Premium,Credit Card,West,49,Male,0,2023-12-01,30,931
-489,490,2020-09-21,Premium,PayPal,South,58,Male,1,2022-02-06,693,503
-490,491,2021-09-29,Basic,PayPal,East,22,Prefer not to answer,1,2022-05-28,582,241
-491,492,2022-12-03,Basic,Credit Card,East,56,Male,0,2023-12-05,26,393
-492,493,2020-01-28,Basic,Debit,East,40,Prefer not to answer,0,2023-12-19,12,1433
-493,494,2020-10-17,Basic,Debit,North,25,Male,0,2023-12-18,13,1170
-494,495,2021-10-12,Basic,Credit Card,South,27,Prefer not to answer,1,2022-11-10,416,394
-495,496,2021-12-02,Premium,PayPal,South,18,Female,0,2023-12-06,25,759
-496,497,2022-08-30,Basic,Credit Card,East,32,Male,0,2023-12-16,15,488
-497,498,2020-06-24,Basic,Credit Card,North,48,Male,0,2023-12-09,22,1285
-498,499,2022-05-15,Basic,Credit Card,East,36,Prefer not to answer,0,2023-12-20,11,595
-499,500,2020-01-30,Basic,Debit,West,43,Female,0,2023-12-13,18,1431
-500,501,2020-05-26,Basic,PayPal,West,68,Female,0,2023-12-13,18,1314
-501,502,2022-02-18,Basic,PayPal,East,19,Male,0,2023-12-15,16,681
-502,503,2021-07-23,Free,PayPal,South,34,Prefer not to answer,0,2023-12-09,22,891
-503,504,2022-05-01,Basic,Credit Card,North,55,Prefer not to answer,1,2023-10-17,75,534
-504,505,2020-04-03,Basic,PayPal,West,62,Male,0,2023-12-14,17,1367
-505,506,2022-02-01,Free,Debit,West,44,Female,0,2023-12-06,25,698
-506,507,2022-06-13,Basic,PayPal,East,64,Prefer not to answer,1,2023-05-20,225,341
-507,508,2020-03-06,Basic,Debit,North,26,Female,0,2023-12-19,12,1395
-508,509,2020-02-18,Basic,PayPal,East,45,Female,1,2021-09-12,840,572
-509,510,2021-03-21,Basic,Debit,North,42,Male,0,2023-12-01,30,1015
-510,511,2021-11-21,Basic,Credit Card,South,44,Female,1,2022-03-12,659,111
-511,512,2021-06-06,Basic,PayPal,North,20,Female,1,2022-10-09,448,490
-512,513,2020-09-09,Free,Credit Card,North,30,Male,1,2022-04-04,636,572
-513,514,2022-05-26,Premium,Debit,East,38,Male,0,2023-12-14,17,584
-514,515,2021-09-20,Free,Debit,East,68,Male,1,2022-10-16,441,391
-515,516,2022-04-27,Premium,PayPal,North,42,Female,0,2023-12-03,28,613
-516,517,2020-12-21,Premium,Debit,West,36,Female,1,2022-05-17,593,512
-517,518,2020-11-10,Premium,PayPal,East,36,Male,1,2023-08-18,135,1011
-518,519,2022-02-21,Basic,Debit,West,43,Male,1,2022-12-22,374,304
-519,520,2020-07-31,Premium,Debit,South,31,Prefer not to answer,0,2023-12-25,6,1248
-520,521,2022-06-01,Premium,PayPal,South,46,Female,0,2023-12-11,20,578
-521,522,2020-03-15,Basic,Credit Card,East,44,Female,1,2020-04-26,1344,42
-522,523,2020-04-24,Premium,PayPal,North,36,Prefer not to answer,1,2022-04-17,623,723
-523,524,2022-04-02,Premium,PayPal,East,48,Prefer not to answer,0,2023-12-28,3,638
-524,525,2021-12-30,Basic,PayPal,North,26,Male,0,2023-12-14,17,731
-525,526,2021-11-04,Basic,Debit,West,45,Male,0,2023-12-04,27,787
-526,527,2020-02-17,Basic,PayPal,South,47,Prefer not to answer,0,2023-12-10,21,1413
-527,528,2022-08-27,Basic,Credit Card,West,19,Male,0,2023-12-22,9,491
-528,529,2022-09-19,Premium,Credit Card,West,20,Male,0,2023-12-26,5,468
-529,530,2020-10-25,Premium,Debit,South,69,Female,0,2023-12-29,2,1162
-530,531,2021-12-21,Basic,Debit,East,41,Male,1,2022-07-17,532,208
-531,532,2022-05-15,Free,Debit,South,23,Prefer not to answer,0,2023-12-11,20,595
-532,533,2021-08-30,Free,Credit Card,South,26,Female,0,2023-12-05,26,853
-533,534,2022-06-30,Premium,PayPal,South,69,Prefer not to answer,0,2023-12-01,30,549
-534,535,2021-03-31,Basic,Debit,North,37,Prefer not to answer,0,2023-12-02,29,1005
-535,536,2020-05-17,Premium,Credit Card,South,23,Male,0,2023-12-22,9,1323
-536,537,2021-11-16,Basic,PayPal,North,47,Male,0,2023-12-04,27,775
-537,538,2021-10-28,Free,Debit,North,61,Female,1,2021-11-21,770,24
-538,539,2022-04-15,Premium,Debit,West,68,Female,1,2023-10-14,78,547
-539,540,2022-08-29,Free,Credit Card,East,68,Female,1,2023-02-06,328,161
-540,541,2022-07-08,Basic,Credit Card,West,27,Prefer not to answer,0,2023-12-10,21,541
-541,542,2021-10-10,Premium,Credit Card,West,57,Prefer not to answer,1,2022-12-07,389,423
-542,543,2020-02-13,Premium,PayPal,North,39,Female,0,2023-12-30,1,1417
-543,544,2022-03-29,Premium,Credit Card,East,67,Prefer not to answer,1,2023-09-29,93,549
-544,545,2022-05-08,Basic,Debit,West,18,Female,0,2023-12-28,3,602
-545,546,2021-12-29,Basic,PayPal,West,22,Female,1,2023-01-21,344,388
-546,547,2022-03-06,Basic,Credit Card,South,33,Male,1,2023-09-17,105,560
-547,548,2020-08-11,Basic,Debit,East,26,Prefer not to answer,0,2023-12-29,2,1237
-548,549,2022-12-12,Basic,PayPal,West,52,Male,0,2023-12-12,19,384
-549,550,2020-11-29,Basic,Credit Card,West,29,Female,0,2023-12-03,28,1127
-550,551,2021-02-17,Basic,PayPal,West,53,Male,0,2023-12-31,0,1047
-551,552,2022-12-10,Free,Credit Card,South,26,Female,0,2023-12-03,28,386
-552,553,2022-07-28,Basic,Credit Card,East,55,Female,0,2023-12-13,18,521
-553,554,2022-10-31,Basic,Credit Card,North,46,Male,0,2023-12-28,3,426
-554,555,2021-02-18,Premium,Debit,West,20,Prefer not to answer,0,2023-12-12,19,1046
-555,556,2022-09-24,Premium,Debit,North,67,Prefer not to answer,0,2023-12-02,29,463
-556,557,2020-11-03,Basic,Credit Card,North,25,Prefer not to answer,0,2023-12-28,3,1153
-557,558,2021-08-07,Basic,PayPal,East,24,Male,1,2021-12-01,760,116
-558,559,2021-10-23,Premium,PayPal,South,20,Male,0,2023-12-05,26,799
-559,560,2022-03-10,Free,Debit,South,62,Female,0,2023-12-12,19,661
-560,561,2021-03-28,Premium,PayPal,East,24,Male,1,2022-04-22,618,390
-561,562,2021-02-03,Premium,Credit Card,East,45,Male,0,2023-12-23,8,1061
-562,563,2022-11-06,Basic,Debit,West,41,Male,0,2023-12-17,14,420
-563,564,2021-02-07,Basic,PayPal,East,41,Male,0,2023-12-12,19,1057
-564,565,2022-06-08,Basic,PayPal,East,52,Male,0,2023-12-31,0,571
-565,566,2021-02-27,Basic,Credit Card,East,32,Female,1,2023-08-04,149,888
-566,567,2020-02-20,Basic,Credit Card,North,67,Prefer not to answer,0,2023-12-01,30,1410
-567,568,2020-05-12,Basic,Credit Card,West,30,Prefer not to answer,0,2023-12-01,30,1328
-568,569,2020-03-26,Basic,PayPal,East,36,Male,0,2023-12-24,7,1375
-569,570,2022-08-26,Premium,Debit,North,60,Female,0,2023-12-19,12,492
-570,571,2020-12-16,Basic,Credit Card,East,45,Prefer not to answer,0,2023-12-24,7,1110
-571,572,2020-06-23,Premium,Credit Card,East,41,Male,0,2023-12-07,24,1286
-572,573,2021-06-11,Premium,Debit,North,47,Female,0,2023-12-21,10,933
-573,574,2020-04-24,Premium,Credit Card,North,62,Prefer not to answer,0,2023-12-21,10,1346
-574,575,2020-11-25,Basic,PayPal,North,29,Female,0,2023-12-17,14,1131
-575,576,2020-12-20,Premium,Credit Card,North,52,Female,0,2023-12-03,28,1106
-576,577,2022-12-03,Basic,PayPal,West,58,Male,0,2023-12-16,15,393
-577,578,2021-10-14,Basic,PayPal,West,24,Female,0,2023-12-24,7,808
-578,579,2021-04-24,Premium,Credit Card,East,34,Male,0,2023-12-10,21,981
-579,580,2020-03-08,Basic,Credit Card,North,52,Prefer not to answer,0,2023-12-22,9,1393
-580,581,2021-03-25,Free,Credit Card,West,51,Prefer not to answer,0,2023-12-25,6,1011
-581,582,2021-12-02,Premium,Credit Card,East,49,Female,0,2023-12-04,27,759
-582,583,2022-10-04,Basic,PayPal,East,64,Prefer not to answer,0,2023-12-22,9,453
-583,584,2021-03-17,Free,Debit,North,41,Male,0,2023-12-20,11,1019
-584,585,2022-11-14,Premium,Debit,East,43,Male,0,2023-12-25,6,412
-585,586,2021-07-18,Basic,Credit Card,East,58,Male,1,2022-05-02,608,288
-586,587,2022-02-11,Basic,Credit Card,West,60,Female,0,2023-12-13,18,688
-587,588,2021-05-16,Basic,Debit,North,54,Male,0,2023-12-03,28,959
-588,589,2022-11-11,Premium,PayPal,West,42,Male,1,2022-12-19,377,38
-589,590,2021-11-26,Premium,Credit Card,East,58,Prefer not to answer,0,2023-12-10,21,765
-590,591,2022-01-31,Free,Debit,North,69,Prefer not to answer,1,2022-10-06,451,248
-591,592,2022-04-21,Premium,Credit Card,North,59,Male,0,2023-12-16,15,619
-592,593,2022-03-07,Free,PayPal,North,62,Female,1,2022-09-19,468,196
-593,594,2022-05-28,Premium,Credit Card,North,52,Female,0,2023-12-08,23,582
-594,595,2021-01-27,Free,Credit Card,West,36,Prefer not to answer,0,2023-12-31,0,1068
-595,596,2020-08-13,Basic,Credit Card,South,59,Male,0,2023-12-05,26,1235
-596,597,2022-08-11,Basic,PayPal,North,37,Female,1,2023-12-04,27,480
-597,598,2022-09-19,Free,PayPal,West,44,Prefer not to answer,0,2023-12-15,16,468
-598,599,2020-12-16,Premium,Debit,South,28,Female,0,2023-12-11,20,1110
-599,600,2021-11-30,Free,Debit,East,29,Female,0,2023-12-12,19,761
-600,601,2021-09-13,Basic,Credit Card,South,55,Male,1,2023-12-08,23,816
-601,602,2020-07-31,Basic,PayPal,East,53,Prefer not to answer,0,2023-12-29,2,1248
-602,603,2021-02-01,Premium,PayPal,North,55,Female,1,2021-07-18,896,167
-603,604,2022-06-28,Basic,Debit,South,23,Male,0,2023-12-07,24,551
-604,605,2022-06-03,Basic,Debit,South,20,Prefer not to answer,0,2023-12-17,14,576
-605,606,2022-12-10,Basic,Credit Card,North,20,Female,0,2023-12-07,24,386
-606,607,2021-08-23,Basic,Debit,South,47,Prefer not to answer,0,2023-12-25,6,860
-607,608,2020-07-12,Basic,Credit Card,East,55,Female,0,2023-12-21,10,1267
-608,609,2021-06-16,Basic,Debit,East,56,Male,0,2023-12-28,3,928
-609,610,2021-06-11,Basic,Debit,South,68,Prefer not to answer,1,2022-06-03,576,357
-610,611,2020-12-21,Free,PayPal,West,54,Male,0,2023-12-25,6,1105
-611,612,2020-01-19,Free,Debit,North,48,Prefer not to answer,0,2023-12-04,27,1442
-612,613,2022-03-22,Free,Credit Card,North,63,Male,0,2023-12-18,13,649
-613,614,2022-02-19,Premium,PayPal,East,53,Prefer not to answer,0,2023-12-23,8,680
-614,615,2021-01-27,Premium,Debit,West,60,Female,0,2023-12-13,18,1068
-615,616,2022-08-31,Basic,PayPal,East,38,Female,0,2023-12-21,10,487
-616,617,2022-02-09,Premium,Credit Card,East,69,Prefer not to answer,0,2023-12-24,7,690
-617,618,2022-04-17,Basic,PayPal,West,29,Female,0,2023-12-22,9,623
-618,619,2020-03-11,Basic,Debit,East,25,Prefer not to answer,0,2023-12-23,8,1390
-619,620,2021-03-14,Basic,Credit Card,West,22,Prefer not to answer,1,2021-10-17,805,217
-620,621,2020-01-18,Basic,Credit Card,East,19,Female,0,2023-12-10,21,1443
-621,622,2022-05-16,Basic,Credit Card,South,64,Prefer not to answer,0,2023-12-29,2,594
-622,623,2021-03-23,Free,PayPal,East,20,Male,0,2023-12-06,25,1013
-623,624,2021-06-22,Basic,Debit,West,26,Female,0,2023-12-24,7,922
-624,625,2022-08-25,Basic,Debit,North,43,Prefer not to answer,0,2023-12-04,27,493
-625,626,2020-06-28,Premium,Debit,West,38,Prefer not to answer,0,2023-12-17,14,1281
-626,627,2021-12-15,Free,PayPal,North,40,Female,0,2023-12-18,13,746
-627,628,2021-02-19,Free,Debit,South,23,Female,0,2023-12-14,17,1045
-628,629,2020-01-15,Basic,PayPal,East,18,Prefer not to answer,0,2023-12-12,19,1446
-629,630,2020-04-12,Premium,Credit Card,East,59,Female,1,2021-06-29,915,443
-630,631,2020-01-16,Free,Credit Card,North,32,Prefer not to answer,0,2023-12-12,19,1445
-631,632,2021-12-22,Basic,Credit Card,East,47,Male,0,2023-12-15,16,739
-632,633,2022-12-07,Basic,PayPal,West,34,Female,1,2023-04-02,273,116
-633,634,2022-11-21,Basic,PayPal,North,56,Female,0,2023-12-15,16,405
-634,635,2021-02-15,Premium,Credit Card,North,18,Male,0,2023-12-02,29,1049
-635,636,2021-01-29,Basic,Credit Card,East,65,Male,0,2023-12-24,7,1066
-636,637,2022-07-21,Free,PayPal,East,24,Male,0,2023-12-25,6,528
-637,638,2022-08-31,Premium,PayPal,North,49,Male,1,2023-03-13,293,194
-638,639,2022-02-05,Basic,Credit Card,East,32,Female,0,2023-12-06,25,694
-639,640,2021-07-05,Free,PayPal,East,34,Female,0,2023-12-13,18,909
-640,641,2022-06-19,Basic,Credit Card,South,18,Prefer not to answer,0,2023-12-03,28,560
-641,642,2021-12-13,Premium,Credit Card,North,30,Male,0,2023-12-10,21,748
-642,643,2020-05-23,Premium,Credit Card,West,48,Female,0,2023-12-14,17,1317
-643,644,2020-07-03,Basic,Debit,West,44,Prefer not to answer,0,2023-12-02,29,1276
-644,645,2022-09-12,Basic,PayPal,West,50,Female,0,2023-12-06,25,475
-645,646,2022-08-06,Free,PayPal,South,23,Female,0,2023-12-14,17,512
-646,647,2022-02-21,Premium,Credit Card,East,24,Female,0,2023-12-24,7,678
-647,648,2021-05-08,Basic,PayPal,South,20,Female,0,2023-12-04,27,967
-648,649,2021-06-28,Basic,PayPal,West,62,Male,1,2023-06-11,203,713
-649,650,2022-08-30,Free,Debit,South,36,Prefer not to answer,0,2023-12-27,4,488
-650,651,2020-07-21,Premium,Credit Card,East,63,Prefer not to answer,1,2023-04-27,248,1010
-651,652,2020-02-22,Free,Debit,East,45,Prefer not to answer,0,2023-12-02,29,1408
-652,653,2022-07-09,Basic,PayPal,West,57,Prefer not to answer,1,2023-02-20,314,226
-653,654,2021-12-08,Free,PayPal,North,66,Male,0,2023-12-24,7,753
-654,655,2020-11-10,Basic,PayPal,South,48,Male,1,2023-10-26,66,1080
-655,656,2021-09-19,Basic,PayPal,West,50,Female,0,2023-12-12,19,833
-656,657,2022-02-15,Free,Debit,South,29,Female,0,2023-12-26,5,684
-657,658,2022-06-27,Premium,Credit Card,East,44,Prefer not to answer,0,2023-12-05,26,552
-658,659,2020-08-08,Basic,Credit Card,East,67,Prefer not to answer,0,2023-12-09,22,1240
-659,660,2021-09-19,Premium,Debit,West,34,Male,0,2023-12-31,0,833
-660,661,2022-12-28,Basic,Debit,North,30,Male,1,2023-02-08,326,42
-661,662,2021-11-17,Premium,PayPal,North,18,Male,0,2023-12-18,13,774
-662,663,2020-11-27,Basic,Debit,South,45,Prefer not to answer,0,2023-12-20,11,1129
-663,664,2020-03-15,Basic,Credit Card,East,59,Male,0,2023-12-31,0,1386
-664,665,2020-05-05,Premium,Credit Card,North,31,Prefer not to answer,0,2023-12-17,14,1335
-665,666,2020-07-05,Free,Credit Card,East,39,Female,0,2023-12-19,12,1274
-666,667,2021-07-31,Premium,Debit,North,58,Prefer not to answer,0,2023-12-17,14,883
-667,668,2022-05-29,Premium,Debit,East,58,Prefer not to answer,1,2023-04-24,251,330
-668,669,2022-09-07,Free,PayPal,West,37,Male,0,2023-12-10,21,480
-669,670,2021-06-14,Free,PayPal,West,31,Prefer not to answer,0,2023-12-13,18,930
-670,671,2022-02-25,Basic,Credit Card,North,66,Female,0,2023-12-28,3,674
-671,672,2020-03-03,Premium,Debit,East,62,Male,0,2023-12-24,7,1398
-672,673,2021-11-13,Premium,Credit Card,North,46,Male,0,2023-12-20,11,778
-673,674,2022-05-16,Free,Credit Card,South,18,Prefer not to answer,1,2022-07-11,538,56
-674,675,2020-05-20,Basic,Debit,South,66,Male,0,2023-12-31,0,1320
-675,676,2022-10-12,Premium,Debit,North,32,Prefer not to answer,0,2023-12-20,11,445
-676,677,2020-10-05,Basic,Credit Card,East,29,Male,0,2023-12-31,0,1182
-677,678,2020-02-13,Basic,PayPal,North,19,Female,0,2023-12-06,25,1417
-678,679,2022-01-15,Basic,Credit Card,East,45,Female,0,2023-12-23,8,715
-679,680,2022-04-08,Basic,PayPal,East,52,Prefer not to answer,0,2023-12-19,12,632
-680,681,2021-09-09,Basic,Credit Card,East,60,Prefer not to answer,0,2023-12-13,18,843
-681,682,2022-07-12,Premium,PayPal,West,40,Male,0,2023-12-20,11,537
-682,683,2022-11-10,Basic,Debit,North,60,Prefer not to answer,1,2023-09-02,120,296
-683,684,2021-05-19,Free,Debit,West,56,Male,1,2021-08-17,866,90
-684,685,2022-03-22,Basic,Credit Card,South,42,Prefer not to answer,0,2023-12-14,17,649
-685,686,2022-12-17,Basic,Debit,North,62,Male,0,2023-12-20,11,379
-686,687,2020-09-04,Basic,PayPal,East,63,Prefer not to answer,1,2021-10-22,800,413
-687,688,2020-01-05,Premium,Credit Card,South,29,Male,0,2023-12-17,14,1456
-688,689,2021-10-24,Basic,Credit Card,South,36,Male,0,2023-12-26,5,798
-689,690,2021-12-26,Basic,Credit Card,South,39,Male,0,2023-12-22,9,735
-690,691,2020-03-18,Basic,PayPal,North,21,Female,0,2023-12-12,19,1383
-691,692,2020-04-05,Premium,Debit,North,25,Female,0,2023-12-05,26,1365
-692,693,2022-03-20,Basic,Credit Card,West,68,Male,0,2023-12-03,28,651
-693,694,2021-03-01,Basic,Credit Card,South,19,Female,0,2023-12-29,2,1035
-694,695,2021-12-17,Basic,Debit,East,68,Female,0,2023-12-18,13,744
-695,696,2020-09-06,Premium,PayPal,West,59,Female,0,2023-12-22,9,1211
-696,697,2021-11-14,Basic,Credit Card,East,24,Male,0,2023-12-02,29,777
-697,698,2020-05-27,Free,Debit,South,41,Male,1,2021-06-14,930,383
-698,699,2020-09-23,Premium,Debit,East,43,Female,0,2023-12-19,12,1194
-699,700,2020-10-05,Premium,PayPal,North,42,Prefer not to answer,0,2023-12-29,2,1182
-700,701,2021-09-15,Basic,Debit,West,27,Male,0,2023-12-27,4,837
-701,702,2020-12-19,Basic,Credit Card,West,30,Male,0,2023-12-16,15,1107
-702,703,2022-02-03,Basic,PayPal,West,60,Male,1,2022-09-28,459,237
-703,704,2020-01-14,Basic,Debit,East,26,Male,0,2023-12-02,29,1447
-704,705,2022-10-28,Basic,Credit Card,East,46,Male,0,2023-12-12,19,429
-705,706,2020-12-13,Premium,PayPal,North,33,Male,0,2023-12-04,27,1113
-706,707,2021-09-19,Premium,Debit,West,65,Female,0,2023-12-27,4,833
-707,708,2022-10-25,Basic,Debit,North,35,Male,0,2023-12-31,0,432
-708,709,2020-03-21,Premium,Debit,West,56,Female,0,2023-12-27,4,1380
-709,710,2020-06-20,Basic,Credit Card,West,66,Prefer not to answer,0,2023-12-29,2,1289
-710,711,2022-03-04,Premium,Debit,North,51,Prefer not to answer,0,2023-12-11,20,667
-711,712,2022-11-14,Premium,Credit Card,North,39,Male,0,2023-12-06,25,412
-712,713,2020-11-05,Basic,Credit Card,South,66,Male,0,2023-12-22,9,1151
-713,714,2020-06-11,Basic,PayPal,North,37,Male,0,2023-12-14,17,1298
-714,715,2021-07-29,Free,Credit Card,North,54,Female,0,2023-12-31,0,885
-715,716,2021-09-25,Basic,Credit Card,South,65,Prefer not to answer,0,2023-12-04,27,827
-716,717,2020-10-20,Basic,Credit Card,East,60,Male,0,2023-12-30,1,1167
-717,718,2020-12-04,Basic,Credit Card,South,22,Female,0,2023-12-06,25,1122
-718,719,2020-10-25,Basic,Credit Card,East,45,Female,0,2023-12-09,22,1162
-719,720,2020-04-11,Basic,Debit,North,19,Prefer not to answer,1,2022-08-25,493,866
-720,721,2022-04-27,Basic,Credit Card,South,67,Male,0,2023-12-16,15,613
-721,722,2020-05-13,Basic,Credit Card,North,19,Prefer not to answer,0,2023-12-23,8,1327
-722,723,2022-01-09,Basic,Credit Card,North,54,Male,0,2023-12-20,11,721
-723,724,2022-03-14,Basic,Debit,South,22,Male,1,2023-11-16,45,612
-724,725,2020-05-05,Basic,Debit,South,34,Male,0,2023-12-16,15,1335
-725,726,2021-09-30,Premium,Credit Card,North,36,Female,0,2023-12-11,20,822
-726,727,2021-08-27,Free,Debit,East,19,Male,0,2023-12-24,7,856
-727,728,2022-09-20,Basic,PayPal,West,57,Prefer not to answer,0,2023-12-29,2,467
-728,729,2022-12-23,Basic,PayPal,East,19,Male,0,2023-12-08,23,373
-729,730,2022-06-08,Premium,Debit,East,64,Male,0,2023-12-31,0,571
-730,731,2022-05-10,Basic,Debit,North,56,Prefer not to answer,0,2023-12-26,5,600
-731,732,2021-09-18,Premium,Credit Card,North,28,Male,0,2023-12-05,26,834
-732,733,2021-08-01,Basic,Credit Card,West,59,Prefer not to answer,0,2023-12-15,16,882
-733,734,2021-09-07,Premium,PayPal,West,46,Female,0,2023-12-09,22,845
-734,735,2020-07-26,Premium,PayPal,East,22,Female,0,2023-12-23,8,1253
-735,736,2020-08-09,Free,Debit,West,47,Prefer not to answer,0,2023-12-31,0,1239
-736,737,2021-10-01,Premium,Credit Card,West,19,Prefer not to answer,0,2023-12-26,5,821
-737,738,2021-12-31,Basic,PayPal,North,53,Prefer not to answer,0,2023-12-26,5,730
-738,739,2021-08-20,Basic,Credit Card,South,23,Female,0,2023-12-13,18,863
-739,740,2021-03-19,Premium,Debit,North,67,Male,0,2023-12-11,20,1017
-740,741,2021-12-18,Basic,PayPal,West,30,Prefer not to answer,1,2022-09-11,476,267
-741,742,2022-02-23,Basic,Credit Card,East,63,Female,0,2023-12-19,12,676
-742,743,2022-07-16,Premium,Debit,South,53,Prefer not to answer,0,2023-12-06,25,533
-743,744,2022-09-20,Basic,Debit,South,59,Male,0,2023-12-26,5,467
-744,745,2021-07-09,Premium,PayPal,North,22,Prefer not to answer,0,2023-12-22,9,905
-745,746,2020-03-03,Basic,PayPal,South,51,Male,0,2023-12-07,24,1398
-746,747,2020-10-11,Free,Credit Card,South,50,Prefer not to answer,0,2023-12-11,20,1176
-747,748,2022-11-03,Basic,PayPal,West,59,Female,0,2023-12-27,4,423
-748,749,2022-02-01,Basic,Debit,North,46,Male,0,2023-12-10,21,698
-749,750,2020-01-25,Basic,PayPal,South,18,Male,0,2023-12-20,11,1436
-750,751,2021-12-02,Free,PayPal,North,55,Male,0,2023-12-06,25,759
-751,752,2020-08-30,Basic,Credit Card,South,39,Prefer not to answer,0,2023-12-02,29,1218
-752,753,2020-06-01,Premium,Credit Card,West,53,Prefer not to answer,0,2023-12-16,15,1308
-753,754,2021-02-24,Free,PayPal,South,69,Female,1,2021-10-13,809,231
-754,755,2022-06-19,Premium,PayPal,South,69,Female,0,2023-12-03,28,560
-755,756,2022-08-10,Free,Credit Card,North,51,Prefer not to answer,0,2023-12-09,22,508
-756,757,2020-11-18,Free,PayPal,South,53,Female,0,2023-12-15,16,1138
-757,758,2020-09-02,Premium,PayPal,East,30,Male,0,2023-12-03,28,1215
-758,759,2021-02-10,Basic,Debit,North,28,Prefer not to answer,0,2023-12-25,6,1054
-759,760,2020-12-05,Premium,Debit,South,51,Prefer not to answer,0,2023-12-03,28,1121
-760,761,2020-12-26,Premium,Credit Card,South,23,Male,1,2023-01-28,337,763
-761,762,2021-07-08,Premium,Debit,East,46,Male,0,2023-12-24,7,906
-762,763,2020-08-12,Basic,Credit Card,North,19,Female,0,2023-12-24,7,1236
-763,764,2020-08-21,Premium,Credit Card,South,61,Male,0,2023-12-31,0,1227
-764,765,2020-11-11,Basic,Debit,West,57,Female,1,2022-12-04,392,753
-765,766,2022-08-19,Premium,Credit Card,West,27,Prefer not to answer,0,2023-12-02,29,499
-766,767,2020-07-28,Premium,Debit,South,61,Male,0,2023-12-17,14,1251
-767,768,2022-04-21,Free,Debit,West,57,Male,0,2023-12-17,14,619
-768,769,2022-09-12,Free,PayPal,South,49,Female,0,2023-12-31,0,475
-769,770,2020-02-12,Basic,Debit,East,57,Male,0,2023-12-03,28,1418
-770,771,2022-07-15,Basic,Debit,South,35,Female,0,2023-12-29,2,534
-771,772,2020-08-06,Premium,PayPal,North,53,Male,0,2023-12-18,13,1242
-772,773,2021-08-02,Premium,Debit,North,69,Male,0,2023-12-19,12,881
-773,774,2022-02-07,Premium,Credit Card,South,18,Prefer not to answer,0,2023-12-01,30,692
-774,775,2021-01-29,Free,Debit,East,24,Female,0,2023-12-12,19,1066
-775,776,2021-01-24,Basic,Debit,East,36,Female,0,2023-12-18,13,1071
-776,777,2020-12-10,Basic,PayPal,East,48,Female,0,2023-12-20,11,1116
-777,778,2022-07-21,Basic,Debit,North,32,Male,1,2023-01-23,342,186
-778,779,2020-09-01,Basic,Credit Card,North,53,Male,0,2023-12-23,8,1216
-779,780,2020-10-08,Basic,PayPal,East,58,Male,0,2023-12-09,22,1179
-780,781,2022-08-27,Basic,PayPal,North,59,Female,0,2023-12-03,28,491
-781,782,2021-05-28,Basic,PayPal,South,48,Male,0,2023-12-23,8,947
-782,783,2021-01-12,Basic,PayPal,South,36,Female,1,2023-02-28,306,777
-783,784,2022-08-15,Basic,Debit,North,20,Prefer not to answer,0,2023-12-22,9,503
-784,785,2021-05-31,Basic,Credit Card,North,32,Female,0,2023-12-11,20,944
-785,786,2020-12-07,Premium,Credit Card,South,51,Prefer not to answer,0,2023-12-24,7,1119
-786,787,2021-01-26,Basic,Credit Card,South,19,Female,0,2023-12-11,20,1069
-787,788,2020-06-21,Premium,PayPal,West,66,Male,0,2023-12-18,13,1288
-788,789,2020-11-03,Basic,PayPal,North,63,Prefer not to answer,0,2023-12-26,5,1153
-789,790,2020-12-14,Basic,Debit,East,48,Male,0,2023-12-27,4,1112
-790,791,2020-04-26,Premium,Debit,West,51,Prefer not to answer,0,2023-12-28,3,1344
-791,792,2020-02-23,Basic,Credit Card,North,41,Female,1,2022-10-02,455,952
-792,793,2021-02-03,Basic,Credit Card,West,64,Prefer not to answer,0,2023-12-15,16,1061
-793,794,2021-11-13,Basic,Debit,West,47,Female,0,2023-12-02,29,778
-794,795,2021-03-02,Basic,PayPal,West,21,Female,1,2021-07-17,897,137
-795,796,2022-05-13,Basic,PayPal,South,44,Female,0,2023-12-05,26,597
-796,797,2020-02-07,Basic,Debit,South,44,Male,0,2023-12-12,19,1423
-797,798,2022-05-22,Basic,Credit Card,West,53,Female,0,2023-12-25,6,588
-798,799,2021-03-06,Basic,Credit Card,North,29,Male,1,2023-07-18,166,864
-799,800,2022-10-10,Free,Debit,South,48,Female,1,2022-12-31,365,82
-800,801,2020-04-21,Basic,Debit,South,28,Male,0,2023-12-06,25,1349
-801,802,2022-06-10,Basic,PayPal,West,44,Prefer not to answer,1,2023-08-14,139,430
-802,803,2021-11-25,Basic,Debit,West,57,Female,0,2023-12-20,11,766
-803,804,2021-03-28,Basic,Credit Card,West,58,Prefer not to answer,0,2023-12-15,16,1008
-804,805,2021-10-04,Basic,Credit Card,South,33,Male,0,2023-12-12,19,818
-805,806,2022-05-01,Premium,Credit Card,South,19,Prefer not to answer,0,2023-12-19,12,609
-806,807,2022-08-11,Premium,Debit,East,29,Prefer not to answer,0,2023-12-09,22,507
-807,808,2022-01-14,Premium,Debit,North,67,Female,0,2023-12-12,19,716
-808,809,2022-09-30,Free,Debit,East,42,Male,0,2023-12-01,30,457
-809,810,2022-07-09,Premium,Debit,North,27,Prefer not to answer,0,2023-12-20,11,540
-810,811,2021-01-16,Basic,PayPal,East,61,Male,0,2023-12-10,21,1079
-811,812,2020-06-09,Basic,PayPal,East,18,Prefer not to answer,1,2022-01-14,716,584
-812,813,2022-04-14,Premium,PayPal,East,35,Male,1,2022-11-29,397,229
-813,814,2020-12-11,Basic,PayPal,North,43,Male,0,2023-12-31,0,1115
-814,815,2021-09-27,Free,Credit Card,South,23,Prefer not to answer,0,2023-12-13,18,825
-815,816,2020-01-17,Premium,Credit Card,North,54,Female,0,2023-12-08,23,1444
-816,817,2022-09-15,Premium,Debit,West,67,Prefer not to answer,0,2023-12-01,30,472
-817,818,2020-10-12,Premium,Debit,North,21,Male,0,2023-12-21,10,1175
-818,819,2021-09-10,Free,PayPal,West,33,Prefer not to answer,0,2023-12-01,30,842
-819,820,2022-03-31,Premium,Debit,East,32,Female,0,2023-12-02,29,640
-820,821,2020-04-28,Premium,Credit Card,West,22,Male,0,2023-12-08,23,1342
-821,822,2020-12-31,Basic,PayPal,West,43,Male,1,2022-12-10,386,709
-822,823,2022-03-30,Premium,PayPal,West,21,Female,0,2023-12-12,19,641
-823,824,2021-12-30,Basic,Debit,West,57,Prefer not to answer,1,2022-05-02,608,123
-824,825,2021-02-01,Basic,PayPal,West,30,Male,0,2023-12-15,16,1063
-825,826,2022-06-18,Premium,Debit,South,35,Male,0,2023-12-29,2,561
-826,827,2022-04-27,Basic,PayPal,South,22,Female,0,2023-12-18,13,613
-827,828,2021-01-05,Basic,Credit Card,North,53,Male,1,2021-08-27,856,234
-828,829,2020-06-13,Basic,Credit Card,South,50,Male,1,2021-05-27,948,348
-829,830,2021-06-12,Basic,Credit Card,South,45,Prefer not to answer,1,2021-10-23,799,133
-830,831,2021-11-09,Free,PayPal,North,56,Male,1,2022-04-12,628,154
-831,832,2022-07-08,Free,Credit Card,West,40,Prefer not to answer,1,2023-02-26,308,233
-832,833,2021-04-06,Basic,Credit Card,West,31,Prefer not to answer,0,2023-12-09,22,999
-833,834,2020-12-23,Basic,Debit,North,47,Male,0,2023-12-26,5,1103
-834,835,2021-09-10,Basic,Credit Card,North,32,Prefer not to answer,1,2022-07-20,529,313
-835,836,2022-12-12,Free,PayPal,East,48,Male,1,2023-12-04,27,357
-836,837,2021-02-21,Basic,Debit,North,58,Prefer not to answer,0,2023-12-02,29,1043
-837,838,2021-06-20,Basic,Credit Card,South,35,Female,0,2023-12-09,22,924
-838,839,2021-04-24,Basic,Credit Card,South,33,Prefer not to answer,0,2023-12-17,14,981
-839,840,2020-03-17,Basic,Debit,North,24,Male,0,2023-12-29,2,1384
-840,841,2020-01-01,Basic,Debit,East,55,Female,0,2023-12-23,8,1460
-841,842,2022-10-15,Basic,Credit Card,North,32,Male,0,2023-12-26,5,442
-842,843,2020-09-21,Basic,Credit Card,West,35,Male,0,2023-12-22,9,1196
-843,844,2021-08-09,Basic,Credit Card,South,61,Male,0,2023-12-23,8,874
-844,845,2022-05-27,Basic,Credit Card,North,38,Prefer not to answer,0,2023-12-29,2,583
-845,846,2020-04-01,Premium,Credit Card,South,55,Male,0,2023-12-16,15,1369
-846,847,2020-09-09,Free,Debit,East,46,Prefer not to answer,0,2023-12-20,11,1208
-847,848,2022-06-01,Premium,Debit,North,36,Male,0,2023-12-12,19,578
-848,849,2022-06-08,Basic,Credit Card,West,24,Prefer not to answer,1,2023-06-26,188,383
-849,850,2022-10-30,Basic,Credit Card,North,45,Prefer not to answer,1,2022-12-18,378,49
-850,851,2020-12-03,Premium,PayPal,South,23,Male,0,2023-12-17,14,1123
-851,852,2022-10-26,Basic,Debit,East,59,Female,0,2023-12-09,22,431
-852,853,2020-03-21,Free,PayPal,West,68,Female,1,2022-04-08,632,748
-853,854,2022-07-27,Premium,Credit Card,East,63,Female,1,2023-09-08,114,408
-854,855,2022-03-25,Free,PayPal,South,68,Male,0,2023-12-18,13,646
-855,856,2020-05-31,Premium,PayPal,West,51,Prefer not to answer,0,2023-12-26,5,1309
-856,857,2020-04-10,Basic,PayPal,South,50,Prefer not to answer,0,2023-12-23,8,1360
-857,858,2022-09-11,Basic,Credit Card,North,63,Prefer not to answer,0,2023-12-03,28,476
-858,859,2022-01-10,Basic,PayPal,East,46,Prefer not to answer,0,2023-12-25,6,720
-859,860,2020-06-06,Basic,Credit Card,South,33,Female,1,2023-08-16,137,1166
-860,861,2021-05-14,Premium,Debit,South,35,Prefer not to answer,0,2023-12-09,22,961
-861,862,2021-10-05,Premium,Credit Card,West,49,Male,1,2023-12-05,26,791
-862,863,2022-06-25,Premium,Debit,North,57,Male,0,2023-12-15,16,554
-863,864,2020-02-02,Premium,Credit Card,South,23,Prefer not to answer,1,2023-02-28,306,1122
-864,865,2022-08-22,Basic,Debit,West,31,Male,0,2023-12-18,13,496
-865,866,2021-02-03,Basic,Debit,South,61,Male,0,2023-12-11,20,1061
-866,867,2020-08-27,Premium,Credit Card,South,19,Male,1,2023-06-20,194,1027
-867,868,2021-11-27,Free,Debit,West,55,Female,0,2023-12-05,26,764
-868,869,2022-07-18,Free,Debit,North,68,Male,1,2023-04-10,265,266
-869,870,2021-06-11,Premium,Credit Card,North,55,Female,0,2023-12-05,26,933
-870,871,2022-10-08,Premium,PayPal,North,68,Female,0,2023-12-10,21,449
-871,872,2020-04-23,Basic,Credit Card,East,19,Female,1,2021-03-10,1026,321
-872,873,2022-12-25,Basic,PayPal,West,19,Prefer not to answer,0,2023-12-22,9,371
-873,874,2020-07-19,Basic,Credit Card,West,29,Prefer not to answer,0,2023-12-24,7,1260
-874,875,2020-09-24,Basic,PayPal,West,27,Male,0,2023-12-29,2,1193
-875,876,2021-02-04,Basic,PayPal,North,68,Male,1,2021-12-21,740,320
-876,877,2022-05-05,Basic,Credit Card,North,36,Prefer not to answer,0,2023-12-01,30,605
-877,878,2022-03-23,Premium,Credit Card,North,65,Male,0,2023-12-14,17,648
-878,879,2022-09-17,Basic,PayPal,West,56,Female,0,2023-12-14,17,470
-879,880,2020-04-21,Free,Credit Card,North,25,Female,0,2023-12-06,25,1349
-880,881,2021-10-01,Basic,PayPal,South,25,Female,0,2023-12-17,14,821
-881,882,2020-09-11,Basic,Credit Card,East,61,Female,0,2023-12-19,12,1206
-882,883,2022-07-04,Free,PayPal,West,32,Female,0,2023-12-20,11,545
-883,884,2022-07-31,Basic,PayPal,East,63,Male,0,2023-12-25,6,518
-884,885,2021-01-22,Free,Debit,East,47,Male,0,2023-12-30,1,1073
-885,886,2022-03-30,Basic,PayPal,North,60,Female,0,2023-12-10,21,641
-886,887,2021-02-23,Basic,Debit,South,64,Female,1,2021-05-24,951,90
-887,888,2020-04-28,Basic,Credit Card,South,45,Female,0,2023-12-19,12,1342
-888,889,2021-10-03,Free,PayPal,East,37,Prefer not to answer,0,2023-12-25,6,819
-889,890,2020-03-31,Basic,Debit,East,30,Female,0,2023-12-01,30,1370
-890,891,2020-03-19,Basic,Credit Card,North,49,Male,0,2023-12-05,26,1382
-891,892,2020-11-24,Basic,Credit Card,North,30,Female,0,2023-12-03,28,1132
-892,893,2020-09-07,Premium,PayPal,East,30,Prefer not to answer,0,2023-12-31,0,1210
-893,894,2020-04-26,Basic,Credit Card,West,58,Female,1,2023-08-24,129,1215
-894,895,2022-03-08,Basic,Debit,West,21,Female,0,2023-12-23,8,663
-895,896,2022-01-07,Free,Credit Card,West,34,Female,0,2023-12-03,28,723
-896,897,2020-09-25,Premium,Credit Card,North,22,Prefer not to answer,0,2023-12-01,30,1192
-897,898,2021-03-07,Basic,Credit Card,South,28,Female,0,2023-12-11,20,1029
-898,899,2021-01-19,Premium,Debit,South,43,Male,0,2023-12-29,2,1076
-899,900,2022-12-12,Free,Debit,South,60,Male,0,2023-12-29,2,384
-900,901,2021-02-24,Basic,Credit Card,West,64,Female,0,2023-12-29,2,1040
-901,902,2020-09-09,Free,PayPal,West,43,Female,0,2023-12-03,28,1208
-902,903,2020-08-29,Basic,PayPal,East,54,Prefer not to answer,0,2023-12-13,18,1219
-903,904,2020-07-31,Basic,PayPal,South,67,Female,1,2023-03-11,295,953
-904,905,2020-02-13,Free,PayPal,West,38,Male,0,2023-12-26,5,1417
-905,906,2020-12-21,Basic,Debit,South,64,Male,0,2023-12-02,29,1105
-906,907,2020-11-06,Premium,Debit,South,36,Prefer not to answer,0,2023-12-18,13,1150
-907,908,2020-01-19,Premium,Debit,West,45,Male,1,2023-10-21,71,1371
-908,909,2021-07-23,Basic,Credit Card,North,27,Prefer not to answer,0,2023-12-19,12,891
-909,910,2020-02-16,Premium,PayPal,West,34,Female,1,2021-08-08,875,539
-910,911,2022-02-02,Premium,Debit,East,41,Male,0,2023-12-27,4,697
-911,912,2021-12-17,Premium,Debit,West,37,Female,0,2023-12-22,9,744
-912,913,2021-12-22,Free,Debit,South,67,Prefer not to answer,0,2023-12-11,20,739
-913,914,2021-09-15,Free,PayPal,South,53,Female,0,2023-12-04,27,837
-914,915,2022-01-15,Premium,Credit Card,West,34,Female,0,2023-12-08,23,715
-915,916,2020-05-02,Premium,PayPal,East,40,Female,0,2023-12-09,22,1338
-916,917,2022-12-16,Premium,Credit Card,East,56,Prefer not to answer,0,2023-12-03,28,380
-917,918,2020-10-26,Free,Credit Card,South,58,Prefer not to answer,1,2021-02-03,1061,100
-918,919,2022-05-17,Premium,Debit,West,51,Prefer not to answer,0,2023-12-08,23,593
-919,920,2022-02-26,Premium,Credit Card,West,56,Male,1,2022-03-30,641,32
-920,921,2021-02-25,Basic,PayPal,South,26,Female,0,2023-12-08,23,1039
-921,922,2022-09-24,Free,Debit,West,41,Male,1,2023-07-26,158,305
-922,923,2020-05-30,Basic,Credit Card,West,31,Male,0,2023-12-22,9,1310
-923,924,2020-11-06,Basic,Debit,West,35,Male,0,2023-12-14,17,1150
-924,925,2022-11-13,Basic,Credit Card,East,56,Prefer not to answer,0,2023-12-08,23,413
-925,926,2022-12-02,Premium,PayPal,South,34,Prefer not to answer,1,2023-10-02,90,304
-926,927,2021-01-08,Free,PayPal,North,46,Prefer not to answer,0,2023-12-20,11,1087
-927,928,2022-11-11,Free,PayPal,West,68,Female,1,2022-12-29,367,48
-928,929,2021-05-05,Basic,PayPal,East,28,Female,0,2023-12-14,17,970
-929,930,2022-01-17,Premium,Credit Card,East,60,Prefer not to answer,0,2023-12-04,27,713
-930,931,2021-02-18,Free,Debit,South,28,Female,0,2023-12-09,22,1046
-931,932,2021-01-09,Premium,Debit,South,54,Male,0,2023-12-16,15,1086
-932,933,2020-05-14,Basic,PayPal,South,37,Male,0,2023-12-07,24,1326
-933,934,2022-06-14,Basic,PayPal,North,21,Female,0,2023-12-21,10,565
-934,935,2020-02-29,Basic,Credit Card,West,27,Prefer not to answer,0,2023-12-18,13,1401
-935,936,2022-01-09,Basic,Debit,West,53,Male,0,2023-12-14,17,721
-936,937,2021-07-14,Basic,PayPal,West,36,Male,0,2023-12-24,7,900
-937,938,2020-05-10,Premium,Debit,East,29,Female,0,2023-12-21,10,1330
-938,939,2022-04-24,Premium,Debit,East,67,Prefer not to answer,0,2023-12-21,10,616
-939,940,2020-09-04,Basic,Debit,South,34,Prefer not to answer,0,2023-12-21,10,1213
-940,941,2021-05-31,Basic,PayPal,South,49,Prefer not to answer,1,2022-05-20,590,354
-941,942,2022-11-16,Premium,Debit,North,65,Prefer not to answer,0,2023-12-09,22,410
-942,943,2020-02-23,Basic,Debit,North,44,Prefer not to answer,0,2023-12-08,23,1407
-943,944,2020-03-14,Basic,Credit Card,West,26,Male,0,2023-12-20,11,1387
-944,945,2021-11-16,Premium,PayPal,West,27,Male,0,2023-12-18,13,775
-945,946,2020-12-18,Basic,PayPal,South,53,Male,0,2023-12-01,30,1108
-946,947,2022-01-24,Basic,PayPal,South,63,Male,1,2022-12-20,376,330
-947,948,2021-08-18,Free,Credit Card,North,62,Female,0,2023-12-31,0,865
-948,949,2020-09-06,Free,PayPal,West,23,Prefer not to answer,0,2023-12-15,16,1211
-949,950,2021-02-17,Basic,Credit Card,North,64,Female,0,2023-12-16,15,1047
-950,951,2020-05-13,Basic,Debit,South,46,Prefer not to answer,1,2022-10-04,453,874
-951,952,2021-01-23,Basic,Debit,East,69,Male,0,2023-12-31,0,1072
-952,953,2022-05-13,Free,Debit,East,55,Female,0,2023-12-25,6,597
-953,954,2022-04-08,Premium,PayPal,West,57,Male,1,2022-08-14,504,128
-954,955,2022-07-11,Free,Debit,East,34,Male,0,2023-12-08,23,538
-955,956,2021-04-08,Premium,PayPal,East,37,Female,0,2023-12-13,18,997
-956,957,2021-09-26,Basic,Credit Card,South,58,Female,0,2023-12-15,16,826
-957,958,2020-03-31,Premium,Debit,West,40,Prefer not to answer,0,2023-12-20,11,1370
-958,959,2021-03-17,Free,Credit Card,South,26,Female,0,2023-12-14,17,1019
-959,960,2020-05-16,Basic,Debit,West,56,Prefer not to answer,0,2023-12-07,24,1324
-960,961,2021-01-10,Premium,PayPal,North,50,Female,0,2023-12-22,9,1085
-961,962,2020-04-02,Free,Credit Card,West,61,Female,0,2023-12-18,13,1368
-962,963,2022-04-09,Basic,Debit,West,66,Female,1,2022-10-14,443,188
-963,964,2022-01-16,Basic,PayPal,South,35,Male,0,2023-12-06,25,714
-964,965,2020-02-25,Basic,Credit Card,South,58,Female,0,2023-12-29,2,1405
-965,966,2020-09-07,Premium,PayPal,South,26,Prefer not to answer,0,2023-12-29,2,1210
-966,967,2020-07-20,Free,PayPal,South,37,Male,0,2023-12-08,23,1259
-967,968,2022-01-25,Basic,PayPal,West,59,Prefer not to answer,0,2023-12-21,10,705
-968,969,2021-11-03,Free,Credit Card,South,42,Female,0,2023-12-28,3,788
-969,970,2020-08-23,Basic,Credit Card,South,27,Prefer not to answer,0,2023-12-18,13,1225
-970,971,2021-03-19,Premium,Debit,East,62,Female,0,2023-12-30,1,1017
-971,972,2020-10-18,Premium,Debit,South,49,Prefer not to answer,0,2023-12-22,9,1169
-972,973,2021-05-20,Basic,PayPal,East,60,Prefer not to answer,1,2023-04-16,259,696
-973,974,2022-04-02,Premium,PayPal,West,57,Female,1,2022-08-31,487,151
-974,975,2022-04-05,Basic,Debit,South,26,Female,0,2023-12-18,13,635
-975,976,2020-10-06,Basic,PayPal,North,56,Male,0,2023-12-12,19,1181
-976,977,2021-03-29,Premium,Credit Card,South,47,Female,0,2023-12-13,18,1007
-977,978,2021-11-05,Premium,Credit Card,West,65,Female,0,2023-12-23,8,786
-978,979,2020-11-30,Free,PayPal,North,49,Female,0,2023-12-06,25,1126
-979,980,2020-11-18,Free,Credit Card,East,67,Prefer not to answer,0,2023-12-26,5,1138
-980,981,2020-01-13,Premium,PayPal,North,65,Prefer not to answer,0,2023-12-11,20,1448
-981,982,2020-05-15,Free,Credit Card,West,29,Male,0,2023-12-14,17,1325
-982,983,2020-05-02,Free,Debit,South,33,Prefer not to answer,1,2021-01-28,1067,271
-983,984,2021-08-01,Basic,PayPal,East,40,Female,0,2023-12-05,26,882
-984,985,2021-02-22,Premium,Debit,West,40,Prefer not to answer,0,2023-12-15,16,1042
-985,986,2021-05-15,Basic,Debit,South,62,Prefer not to answer,1,2021-08-24,859,101
-986,987,2021-05-24,Basic,Credit Card,South,57,Male,0,2023-12-04,27,951
-987,988,2020-04-23,Free,Credit Card,East,63,Prefer not to answer,0,2023-12-25,6,1347
-988,989,2020-11-03,Basic,Credit Card,West,40,Female,0,2023-12-16,15,1153
-989,990,2020-05-01,Basic,Debit,North,39,Prefer not to answer,0,2023-12-11,20,1339
-990,991,2020-07-26,Free,Debit,West,29,Male,0,2023-12-20,11,1253
-991,992,2020-03-14,Basic,Credit Card,North,40,Female,1,2020-11-15,1141,246
-992,993,2020-06-20,Basic,PayPal,East,33,Prefer not to answer,0,2023-12-04,27,1289
-993,994,2022-07-06,Basic,Debit,West,57,Male,0,2023-12-21,10,543
-994,995,2022-02-18,Basic,PayPal,West,34,Male,0,2023-12-10,21,681
-995,996,2022-10-03,Free,PayPal,East,60,Male,0,2023-12-21,10,454
-996,997,2022-01-03,Free,Debit,South,61,Male,0,2023-12-18,13,727
-997,998,2021-01-19,Basic,PayPal,North,27,Female,0,2023-12-13,18,1076
-998,999,2022-01-17,Basic,PayPal,South,67,Female,0,2023-12-02,29,713
-999,1000,2021-02-15,Premium,Debit,West,43,Prefer not to answer,0,2023-12-23,8,1049
+0,1,2022-09-05,Free,Credit Card,West,39,Prefer not to answer,1,2023-11-20,41,441
+1,2,2023-12-02,Premium,Credit Card,North,34,Prefer not to answer,0,2023-12-07,24,29
+2,3,2021-02-03,Basic,Credit Card,East,67,Male,1,2022-06-18,561,500
+3,4,2021-01-13,Free,Credit Card,South,18,Prefer not to answer,0,2023-12-01,30,1082
+4,5,2021-12-18,Basic,Debit,South,29,Female,0,2023-12-13,18,743
+5,6,2023-01-20,Premium,Debit,North,28,Male,1,2023-04-13,262,83
+6,7,2023-08-06,Basic,Debit,South,33,Male,0,2023-12-26,5,147
+7,8,2022-04-23,Basic,Credit Card,South,65,Prefer not to answer,1,2023-08-05,148,469
+8,9,2020-03-10,Premium,Credit Card,West,22,Female,0,2023-12-25,6,1391
+9,10,2020-12-24,Basic,PayPal,East,60,Male,0,2023-12-28,3,1102
+10,11,2022-11-10,Basic,Debit,West,61,Female,0,2023-12-21,10,416
+11,12,2020-03-12,Premium,PayPal,West,19,Prefer not to answer,0,2023-12-25,6,1389
+12,13,2021-10-01,Free,Credit Card,North,57,Female,0,2023-12-26,5,821
+13,14,2020-10-04,Basic,Debit,East,37,Male,0,2023-12-11,20,1183
+14,15,2020-02-05,Basic,Debit,South,69,Prefer not to answer,0,2023-12-21,10,1425
+15,16,2020-02-10,Premium,Debit,South,55,Male,0,2023-12-07,24,1420
+16,17,2021-08-29,Basic,Credit Card,South,40,Prefer not to answer,0,2023-12-06,25,854
+17,18,2021-07-03,Free,PayPal,South,38,Prefer not to answer,0,2023-12-31,0,911
+18,19,2020-04-16,Basic,Debit,East,21,Prefer not to answer,1,2022-05-03,607,747
+19,20,2020-12-15,Basic,Credit Card,West,58,Male,0,2023-12-25,6,1111
+20,21,2023-05-28,Basic,PayPal,North,26,Male,1,2023-12-30,1,216
+21,22,2020-05-17,Basic,Credit Card,West,43,Male,0,2023-12-11,20,1323
+22,23,2020-10-01,Basic,Credit Card,West,27,Prefer not to answer,0,2023-12-17,14,1186
+23,24,2023-08-30,Premium,Debit,North,64,Male,1,2023-11-13,48,75
+24,25,2020-03-15,Premium,Credit Card,East,32,Prefer not to answer,0,2023-12-19,12,1386
+25,26,2022-01-05,Basic,Debit,East,24,Male,0,2023-12-10,21,725
+26,27,2020-03-15,Free,PayPal,South,28,Female,0,2023-12-22,9,1386
+27,28,2023-08-03,Premium,Credit Card,East,29,Prefer not to answer,1,2023-09-24,98,52
+28,29,2020-08-01,Free,Debit,North,44,Prefer not to answer,0,2023-12-07,24,1247
+29,30,2022-06-09,Premium,PayPal,North,62,Female,0,2023-12-29,2,570
+30,31,2021-04-23,Basic,Debit,West,20,Male,1,2022-11-04,422,560
+31,32,2020-05-07,Basic,Credit Card,North,56,Prefer not to answer,1,2021-01-13,1082,251
+32,33,2020-11-29,Free,PayPal,East,50,Female,0,2023-12-18,13,1127
+33,34,2023-10-13,Free,PayPal,West,58,Prefer not to answer,0,2023-12-10,21,79
+34,35,2020-09-04,Premium,PayPal,East,30,Male,0,2023-12-21,10,1213
+35,36,2022-09-19,Basic,Credit Card,West,62,Prefer not to answer,0,2023-12-22,9,468
+36,37,2023-12-30,Premium,Credit Card,West,49,Male,1,2024-01-09,-9,10
+37,38,2023-02-16,Premium,PayPal,South,60,Prefer not to answer,0,2023-12-19,12,318
+38,39,2022-02-25,Basic,PayPal,South,66,Female,0,2023-12-21,10,674
+39,40,2022-06-14,Premium,Debit,North,49,Male,0,2023-12-14,17,565
+40,41,2021-12-02,Basic,PayPal,West,58,Male,0,2023-12-17,14,759
+41,42,2021-04-15,Basic,PayPal,East,20,Male,0,2023-12-21,10,990
+42,43,2020-01-16,Basic,PayPal,North,44,Prefer not to answer,1,2021-06-01,943,502
+43,44,2022-11-02,Premium,Debit,North,61,Female,0,2023-12-16,15,424
+44,45,2020-11-15,Free,Debit,East,49,Female,0,2023-12-19,12,1141
+45,46,2021-09-18,Basic,Debit,East,68,Female,0,2023-12-13,18,834
+46,47,2020-06-04,Premium,Debit,North,30,Male,0,2023-12-04,27,1305
+47,48,2023-10-05,Basic,PayPal,South,62,Male,0,2023-12-19,12,87
+48,49,2020-08-09,Basic,Credit Card,West,18,Female,0,2023-12-11,20,1239
+49,50,2020-12-30,Basic,PayPal,North,29,Male,0,2023-12-18,13,1096
+50,51,2023-06-19,Basic,Debit,South,23,Male,0,2023-12-09,22,195
+51,52,2022-10-17,Free,Credit Card,North,29,Male,1,2023-01-13,352,88
+52,53,2021-12-11,Basic,PayPal,South,55,Male,0,2023-12-20,11,750
+53,54,2021-04-14,Basic,Debit,East,24,Male,0,2023-12-03,28,991
+54,55,2021-12-22,Premium,Credit Card,East,56,Female,0,2023-12-26,5,739
+55,56,2021-09-15,Basic,PayPal,North,62,Prefer not to answer,0,2023-12-31,0,837
+56,57,2020-04-14,Basic,PayPal,East,23,Male,0,2023-12-30,1,1356
+57,58,2021-01-24,Basic,Debit,West,67,Female,0,2023-12-25,6,1071
+58,59,2020-03-30,Basic,PayPal,South,58,Prefer not to answer,1,2022-07-07,542,829
+59,60,2022-05-16,Basic,Credit Card,North,19,Prefer not to answer,0,2023-12-06,25,594
+60,61,2020-05-26,Basic,Debit,North,52,Prefer not to answer,1,2020-06-11,1298,16
+61,62,2023-04-04,Premium,PayPal,North,36,Prefer not to answer,0,2023-12-01,30,271
+62,63,2021-04-06,Basic,PayPal,South,33,Prefer not to answer,0,2023-12-15,16,999
+63,64,2023-03-30,Premium,PayPal,West,38,Female,0,2023-12-14,17,276
+64,65,2021-10-24,Free,PayPal,East,18,Male,0,2023-12-30,1,798
+65,66,2020-05-21,Premium,Credit Card,North,49,Male,1,2022-03-11,660,659
+66,67,2022-03-23,Basic,Credit Card,North,56,Female,1,2023-08-15,138,510
+67,68,2022-04-16,Basic,Credit Card,East,68,Male,0,2023-12-18,13,624
+68,69,2020-05-13,Basic,Debit,South,57,Prefer not to answer,0,2023-12-28,3,1327
+69,70,2023-12-02,Basic,PayPal,North,28,Female,0,2023-12-31,0,29
+70,71,2020-07-04,Premium,Debit,East,65,Prefer not to answer,0,2023-12-15,16,1275
+71,72,2023-04-22,Basic,Debit,East,28,Female,1,2023-09-12,110,143
+72,73,2021-01-06,Premium,PayPal,South,52,Prefer not to answer,0,2023-12-29,2,1089
+73,74,2022-02-27,Basic,PayPal,West,25,Female,0,2023-12-25,6,672
+74,75,2022-01-31,Basic,PayPal,East,26,Prefer not to answer,1,2023-09-09,113,586
+75,76,2023-01-14,Basic,Debit,North,45,Female,1,2023-03-05,301,50
+76,77,2022-11-01,Premium,PayPal,West,38,Male,0,2023-12-25,6,425
+77,78,2022-03-24,Basic,Debit,South,64,Male,0,2023-12-25,6,647
+78,79,2020-10-13,Free,Credit Card,East,24,Female,0,2023-12-14,17,1174
+79,80,2023-11-14,Basic,Credit Card,North,58,Male,0,2023-12-10,21,47
+80,81,2021-05-09,Basic,Credit Card,South,20,Prefer not to answer,0,2023-12-30,1,966
+81,82,2020-04-19,Basic,PayPal,East,21,Male,0,2023-12-17,14,1351
+82,83,2021-04-17,Free,Credit Card,East,38,Male,1,2022-05-27,583,405
+83,84,2020-06-19,Premium,Debit,East,28,Female,1,2022-11-12,414,876
+84,85,2020-01-26,Basic,PayPal,North,44,Prefer not to answer,0,2023-12-08,23,1435
+85,86,2020-05-30,Free,Debit,West,24,Male,0,2023-12-24,7,1310
+86,87,2023-07-19,Basic,Credit Card,East,31,Female,0,2023-12-02,29,165
+87,88,2021-04-30,Basic,Credit Card,North,66,Female,1,2023-09-24,98,877
+88,89,2023-11-14,Premium,PayPal,North,25,Male,0,2023-12-28,3,47
+89,90,2023-12-23,Basic,Credit Card,South,49,Male,0,2023-12-27,4,8
+90,91,2021-10-14,Premium,Debit,North,51,Female,0,2023-12-22,9,808
+91,92,2020-09-02,Basic,Debit,West,44,Prefer not to answer,0,2023-12-08,23,1215
+92,93,2023-03-22,Basic,Debit,West,19,Prefer not to answer,0,2023-12-20,11,284
+93,94,2022-10-01,Basic,Credit Card,North,39,Male,1,2023-02-13,321,135
+94,95,2022-07-11,Free,Credit Card,North,40,Male,0,2023-12-27,4,538
+95,96,2021-06-24,Premium,Credit Card,North,52,Female,0,2023-12-16,15,920
+96,97,2020-06-02,Premium,Credit Card,North,41,Female,0,2023-12-02,29,1307
+97,98,2023-07-06,Basic,Credit Card,East,58,Female,1,2023-11-20,41,137
+98,99,2022-12-07,Premium,PayPal,West,21,Male,0,2023-12-04,27,389
+99,100,2023-06-22,Premium,Credit Card,North,31,Prefer not to answer,1,2023-10-15,77,115
+100,101,2023-11-10,Basic,Credit Card,West,32,Male,1,2023-12-29,2,49
+101,102,2020-02-10,Premium,Debit,West,64,Male,0,2023-12-17,14,1420
+102,103,2023-03-14,Basic,Credit Card,West,61,Prefer not to answer,1,2023-10-22,70,222
+103,104,2023-03-13,Free,Credit Card,West,62,Female,0,2023-12-01,30,293
+104,105,2023-04-16,Premium,PayPal,North,58,Female,0,2023-12-18,13,259
+105,106,2020-03-22,Free,PayPal,West,55,Prefer not to answer,0,2023-12-16,15,1379
+106,107,2023-08-13,Free,PayPal,North,52,Prefer not to answer,0,2023-12-17,14,140
+107,108,2020-11-16,Premium,Credit Card,East,66,Prefer not to answer,0,2023-12-18,13,1140
+108,109,2023-04-08,Premium,Credit Card,East,52,Prefer not to answer,0,2023-12-22,9,267
+109,110,2022-07-09,Free,Credit Card,North,34,Female,1,2023-07-18,166,374
+110,111,2021-04-28,Free,Debit,West,20,Male,0,2023-12-26,5,977
+111,112,2021-11-14,Basic,PayPal,East,25,Male,0,2023-12-09,22,777
+112,113,2023-08-15,Basic,PayPal,South,34,Female,0,2023-12-31,0,138
+113,114,2023-12-18,Premium,Credit Card,South,62,Female,0,2023-12-22,9,13
+114,115,2022-10-24,Premium,Debit,West,23,Male,0,2023-12-16,15,433
+115,116,2021-05-09,Free,Debit,East,59,Female,0,2023-12-16,15,966
+116,117,2021-11-28,Premium,Credit Card,East,62,Female,0,2023-12-24,7,763
+117,118,2021-03-10,Basic,PayPal,North,48,Male,0,2023-12-18,13,1026
+118,119,2021-03-30,Premium,PayPal,West,56,Female,0,2023-12-30,1,1006
+119,120,2022-10-07,Basic,PayPal,North,24,Female,0,2023-12-15,16,450
+120,121,2022-03-12,Free,Debit,South,48,Male,0,2023-12-15,16,659
+121,122,2021-05-05,Basic,Credit Card,South,62,Female,0,2023-12-13,18,970
+122,123,2023-03-11,Basic,Debit,East,21,Male,0,2023-12-19,12,295
+123,124,2022-10-18,Basic,PayPal,North,63,Female,0,2023-12-01,30,439
+124,125,2020-01-28,Premium,PayPal,West,42,Female,1,2023-08-26,127,1306
+125,126,2020-04-18,Premium,Credit Card,South,28,Male,0,2023-12-08,23,1352
+126,127,2022-06-27,Basic,PayPal,North,63,Male,1,2023-01-09,356,196
+127,128,2023-03-12,Basic,Debit,East,59,Female,0,2023-12-07,24,294
+128,129,2023-09-16,Premium,Credit Card,South,34,Prefer not to answer,1,2023-12-26,5,101
+129,130,2023-08-07,Basic,Credit Card,North,18,Female,1,2023-10-13,79,67
+130,131,2023-10-04,Basic,Credit Card,West,29,Male,1,2023-12-06,25,63
+131,132,2021-09-16,Premium,Credit Card,East,63,Female,0,2023-12-21,10,836
+132,133,2020-12-27,Basic,Credit Card,East,44,Male,1,2021-04-15,990,109
+133,134,2023-12-01,Free,Debit,South,49,Prefer not to answer,1,2023-12-16,15,15
+134,135,2022-01-26,Basic,Debit,South,52,Female,0,2023-12-06,25,704
+135,136,2020-01-19,Basic,Debit,West,31,Female,0,2023-12-23,8,1442
+136,137,2023-12-22,Basic,Credit Card,West,28,Male,1,2024-01-01,-1,10
+137,138,2023-04-13,Free,Debit,North,66,Female,0,2023-12-04,27,262
+138,139,2020-02-28,Basic,PayPal,South,49,Female,0,2023-12-14,17,1402
+139,140,2020-03-26,Basic,PayPal,East,45,Female,0,2023-12-18,13,1375
+140,141,2021-01-26,Basic,PayPal,South,52,Prefer not to answer,0,2023-12-04,27,1069
+141,142,2020-06-25,Basic,Credit Card,South,48,Male,0,2023-12-24,7,1284
+142,143,2021-01-04,Premium,Debit,North,50,Female,0,2023-12-04,27,1091
+143,144,2023-11-01,Free,PayPal,North,69,Male,1,2023-11-18,43,17
+144,145,2022-01-22,Basic,Debit,West,29,Prefer not to answer,0,2023-12-30,1,708
+145,146,2021-06-06,Basic,Credit Card,South,26,Prefer not to answer,0,2023-12-08,23,938
+146,147,2022-06-03,Premium,Credit Card,West,39,Prefer not to answer,0,2023-12-25,6,576
+147,148,2021-01-26,Premium,Credit Card,South,26,Prefer not to answer,0,2023-12-27,4,1069
+148,149,2020-10-20,Basic,Credit Card,North,26,Male,0,2023-12-28,3,1167
+149,150,2021-02-01,Basic,Credit Card,South,55,Female,0,2023-12-29,2,1063
+150,151,2023-12-02,Premium,PayPal,South,44,Prefer not to answer,0,2023-12-24,7,29
+151,152,2020-11-10,Basic,PayPal,West,54,Prefer not to answer,0,2023-12-06,25,1146
+152,153,2023-04-17,Basic,Credit Card,East,39,Prefer not to answer,1,2023-07-25,159,99
+153,154,2022-04-25,Basic,PayPal,East,31,Prefer not to answer,1,2023-08-19,134,481
+154,155,2021-03-25,Basic,Credit Card,North,45,Prefer not to answer,0,2023-12-20,11,1011
+155,156,2023-02-25,Basic,Debit,East,28,Female,1,2023-08-20,133,176
+156,157,2021-09-17,Premium,Credit Card,North,36,Female,0,2023-12-08,23,835
+157,158,2021-02-22,Premium,Credit Card,North,26,Male,0,2023-12-22,9,1042
+158,159,2023-07-28,Free,PayPal,West,21,Female,1,2023-08-12,141,15
+159,160,2020-08-12,Basic,Credit Card,East,41,Prefer not to answer,0,2023-12-22,9,1236
+160,161,2021-03-24,Basic,Debit,West,44,Female,0,2023-12-07,24,1012
+161,162,2020-12-19,Premium,PayPal,North,61,Female,0,2023-12-16,15,1107
+162,163,2023-10-27,Free,PayPal,East,46,Female,1,2023-11-22,39,26
+163,164,2020-05-10,Premium,PayPal,West,31,Prefer not to answer,0,2023-12-19,12,1330
+164,165,2022-04-02,Premium,Debit,East,62,Female,1,2023-07-27,157,481
+165,166,2020-10-04,Basic,Debit,South,57,Prefer not to answer,0,2023-12-12,19,1183
+166,167,2023-05-04,Premium,PayPal,East,68,Prefer not to answer,1,2023-10-18,74,167
+167,168,2020-08-19,Free,Debit,East,55,Prefer not to answer,1,2023-01-20,345,884
+168,169,2021-08-19,Premium,Credit Card,South,63,Prefer not to answer,1,2022-11-09,417,447
+169,170,2022-07-24,Basic,Credit Card,West,35,Male,0,2023-12-11,20,525
+170,171,2022-09-25,Free,PayPal,East,19,Prefer not to answer,0,2023-12-25,6,462
+171,172,2020-12-28,Basic,Debit,North,58,Male,0,2023-12-28,3,1098
+172,173,2023-03-06,Basic,Credit Card,East,23,Female,0,2023-12-02,29,300
+173,174,2021-01-25,Premium,PayPal,East,53,Female,0,2023-12-18,13,1070
+174,175,2020-01-28,Basic,Debit,South,35,Male,1,2020-06-21,1288,145
+175,176,2022-09-27,Premium,Credit Card,East,47,Female,0,2023-12-08,23,460
+176,177,2023-04-10,Premium,Credit Card,North,18,Male,0,2023-12-20,11,265
+177,178,2020-11-09,Basic,Credit Card,South,22,Female,1,2021-10-02,820,327
+178,179,2022-12-20,Premium,PayPal,South,55,Female,0,2023-12-21,10,376
+179,180,2021-01-10,Premium,Credit Card,South,40,Female,0,2023-12-01,30,1085
+180,181,2023-07-17,Premium,Debit,South,54,Female,1,2023-08-11,142,25
+181,182,2023-04-05,Basic,Debit,East,19,Male,0,2023-12-27,4,270
+182,183,2023-09-20,Basic,Credit Card,North,61,Female,1,2023-10-10,82,20
+183,184,2020-03-12,Premium,Debit,North,41,Prefer not to answer,0,2023-12-15,16,1389
+184,185,2023-07-11,Basic,PayPal,North,31,Male,1,2023-11-24,37,136
+185,186,2021-04-28,Basic,Debit,South,45,Female,0,2023-12-03,28,977
+186,187,2021-05-30,Basic,Credit Card,South,19,Male,0,2023-12-13,18,945
+187,188,2023-02-16,Premium,Credit Card,East,40,Prefer not to answer,0,2023-12-28,3,318
+188,189,2023-09-08,Premium,PayPal,West,47,Female,0,2023-12-31,0,114
+189,190,2021-01-12,Basic,Debit,West,38,Male,0,2023-12-19,12,1083
+190,191,2020-08-20,Basic,Debit,East,38,Female,0,2023-12-13,18,1228
+191,192,2022-07-02,Basic,PayPal,West,67,Male,0,2023-12-28,3,547
+192,193,2021-05-07,Premium,Debit,North,40,Prefer not to answer,1,2023-08-14,139,829
+193,194,2021-12-16,Premium,Credit Card,North,20,Male,0,2023-12-27,4,745
+194,195,2021-03-30,Premium,PayPal,East,66,Prefer not to answer,0,2023-12-24,7,1006
+195,196,2021-02-08,Basic,PayPal,South,18,Prefer not to answer,0,2023-12-03,28,1056
+196,197,2022-11-14,Basic,PayPal,South,60,Female,0,2023-12-26,5,412
+197,198,2023-04-26,Basic,Debit,East,66,Female,0,2023-12-14,17,249
+198,199,2020-07-09,Premium,PayPal,West,19,Male,0,2023-12-02,29,1270
+199,200,2023-10-25,Free,PayPal,North,35,Prefer not to answer,0,2023-12-04,27,67
+200,201,2020-02-23,Premium,Credit Card,North,58,Prefer not to answer,0,2023-12-17,14,1407
+201,202,2020-08-04,Basic,PayPal,East,22,Male,0,2023-12-31,0,1244
+202,203,2023-07-11,Basic,PayPal,East,55,Female,1,2023-12-09,22,151
+203,204,2021-11-17,Free,Debit,South,30,Prefer not to answer,0,2023-12-24,7,774
+204,205,2020-08-31,Basic,Debit,East,66,Female,1,2022-10-10,447,770
+205,206,2021-07-06,Basic,PayPal,North,37,Prefer not to answer,0,2023-12-04,27,908
+206,207,2023-06-30,Premium,PayPal,North,57,Female,0,2023-12-11,20,184
+207,208,2020-07-17,Basic,Credit Card,North,21,Male,1,2021-02-08,1056,206
+208,209,2021-05-04,Premium,Debit,West,31,Female,0,2023-12-31,0,971
+209,210,2020-07-02,Basic,Credit Card,West,27,Male,1,2022-05-14,596,681
+210,211,2020-09-26,Basic,Debit,East,50,Prefer not to answer,0,2023-12-07,24,1191
+211,212,2023-03-24,Basic,PayPal,East,19,Prefer not to answer,0,2023-12-20,11,282
+212,213,2021-09-07,Basic,PayPal,East,21,Female,0,2023-12-28,3,845
+213,214,2022-04-23,Basic,Credit Card,East,33,Female,0,2023-12-20,11,617
+214,215,2022-10-02,Premium,Debit,South,57,Female,0,2023-12-20,11,455
+215,216,2021-12-01,Premium,Debit,South,67,Female,0,2023-12-09,22,760
+216,217,2020-05-27,Premium,PayPal,West,55,Prefer not to answer,0,2023-12-07,24,1313
+217,218,2022-05-03,Basic,Debit,West,24,Female,0,2023-12-01,30,607
+218,219,2020-03-07,Basic,Credit Card,West,46,Prefer not to answer,0,2023-12-27,4,1394
+219,220,2022-10-09,Free,Debit,South,40,Female,0,2023-12-21,10,448
+220,221,2022-07-30,Basic,PayPal,South,66,Male,0,2023-12-14,17,519
+221,222,2023-02-10,Basic,PayPal,North,48,Female,0,2023-12-01,30,324
+222,223,2022-02-09,Premium,PayPal,North,68,Male,0,2023-12-07,24,690
+223,224,2023-09-23,Free,Credit Card,East,54,Male,0,2023-12-31,0,99
+224,225,2022-10-26,Basic,Debit,East,51,Female,1,2023-03-24,282,149
+225,226,2022-01-08,Premium,Credit Card,South,57,Female,0,2023-12-07,24,722
+226,227,2021-03-01,Basic,PayPal,East,58,Female,1,2022-09-02,485,550
+227,228,2023-10-23,Premium,PayPal,North,65,Female,0,2023-12-09,22,69
+228,229,2020-05-26,Premium,PayPal,South,60,Female,1,2020-07-28,1251,63
+229,230,2020-04-13,Basic,Debit,South,41,Prefer not to answer,0,2023-12-03,28,1357
+230,231,2023-08-24,Premium,PayPal,East,21,Female,1,2023-10-10,82,47
+231,232,2022-12-22,Free,Debit,South,65,Prefer not to answer,0,2023-12-21,10,374
+232,233,2023-08-08,Free,Credit Card,East,55,Female,1,2023-12-27,4,141
+233,234,2021-11-26,Premium,Credit Card,South,19,Female,0,2023-12-18,13,765
+234,235,2023-06-10,Premium,Debit,North,67,Female,1,2023-10-31,61,143
+235,236,2022-12-19,Basic,Credit Card,West,26,Prefer not to answer,0,2023-12-26,5,377
+236,237,2021-08-06,Free,PayPal,North,61,Male,0,2023-12-15,16,877
+237,238,2022-01-10,Free,PayPal,North,46,Prefer not to answer,0,2023-12-28,3,720
+238,239,2023-07-04,Basic,Credit Card,South,44,Prefer not to answer,0,2023-12-30,1,180
+239,240,2022-09-22,Premium,Credit Card,West,66,Female,0,2023-12-21,10,465
+240,241,2021-12-13,Free,Credit Card,North,55,Prefer not to answer,1,2023-10-23,69,679
+241,242,2022-09-08,Basic,PayPal,North,58,Female,0,2023-12-07,24,479
+242,243,2022-11-14,Free,Debit,East,28,Female,0,2023-12-20,11,412
+243,244,2022-03-10,Premium,Credit Card,North,38,Prefer not to answer,1,2023-02-17,317,344
+244,245,2023-09-16,Free,Credit Card,South,25,Prefer not to answer,0,2023-12-12,19,106
+245,246,2023-01-29,Basic,Credit Card,East,42,Male,0,2023-12-19,12,336
+246,247,2022-01-01,Premium,Credit Card,North,19,Male,0,2023-12-13,18,729
+247,248,2020-02-23,Free,PayPal,North,30,Male,0,2023-12-14,17,1407
+248,249,2021-05-31,Premium,PayPal,West,58,Male,0,2023-12-01,30,944
+249,250,2022-11-07,Premium,Debit,East,47,Male,0,2023-12-15,16,419
+250,251,2022-01-09,Premium,PayPal,East,49,Female,1,2022-11-13,413,308
+251,252,2023-04-18,Basic,Credit Card,North,28,Male,0,2023-12-11,20,257
+252,253,2022-01-13,Basic,PayPal,West,47,Female,0,2023-12-11,20,717
+253,254,2020-07-31,Basic,Credit Card,North,57,Male,0,2023-12-19,12,1248
+254,255,2021-05-18,Basic,Debit,North,47,Prefer not to answer,0,2023-12-15,16,957
+255,256,2023-10-28,Premium,Debit,North,30,Female,0,2023-12-24,7,64
+256,257,2020-05-07,Basic,PayPal,North,56,Prefer not to answer,0,2023-12-17,14,1333
+257,258,2020-06-04,Basic,PayPal,West,31,Male,0,2023-12-18,13,1305
+258,259,2023-11-27,Premium,Credit Card,West,19,Prefer not to answer,0,2023-12-09,22,34
+259,260,2022-02-13,Free,Debit,East,54,Female,1,2022-07-26,523,163
+260,261,2020-08-10,Basic,PayPal,East,47,Male,0,2023-12-12,19,1238
+261,262,2021-07-18,Basic,Credit Card,North,65,Male,1,2023-07-13,171,725
+262,263,2021-04-14,Free,Debit,West,63,Female,0,2023-12-28,3,991
+263,264,2023-04-26,Premium,Credit Card,West,67,Male,0,2023-12-27,4,249
+264,265,2023-06-02,Basic,Credit Card,West,26,Prefer not to answer,1,2023-09-19,103,109
+265,266,2023-12-02,Basic,Credit Card,West,62,Prefer not to answer,0,2023-12-14,17,29
+266,267,2021-12-10,Basic,Credit Card,North,22,Female,0,2023-12-20,11,751
+267,268,2020-10-18,Premium,PayPal,West,56,Prefer not to answer,1,2023-12-26,5,1164
+268,269,2022-03-14,Free,Credit Card,South,25,Female,0,2023-12-04,27,657
+269,270,2021-04-20,Premium,Debit,West,53,Male,0,2023-12-22,9,985
+270,271,2022-09-15,Premium,PayPal,East,29,Female,0,2023-12-16,15,472
+271,272,2023-07-16,Basic,Credit Card,West,30,Male,1,2023-11-27,34,134
+272,273,2023-07-04,Premium,Credit Card,South,38,Prefer not to answer,0,2023-12-08,23,180
+273,274,2022-09-26,Premium,PayPal,North,46,Prefer not to answer,0,2023-12-03,28,461
+274,275,2022-02-28,Basic,Debit,South,54,Male,0,2023-12-26,5,671
+275,276,2023-06-02,Basic,Debit,South,39,Female,1,2023-11-17,44,168
+276,277,2021-10-06,Premium,PayPal,South,68,Prefer not to answer,1,2022-11-17,409,407
+277,278,2020-01-06,Basic,Credit Card,North,33,Male,0,2023-12-17,14,1455
+278,279,2021-11-04,Basic,Debit,South,60,Female,0,2023-12-22,9,787
+279,280,2021-05-23,Basic,Debit,West,44,Female,0,2023-12-19,12,952
+280,281,2021-12-12,Premium,PayPal,North,26,Prefer not to answer,0,2023-12-12,19,749
+281,282,2020-02-24,Basic,PayPal,East,31,Male,0,2023-12-01,30,1406
+282,283,2020-05-07,Premium,Debit,North,55,Male,1,2022-05-13,597,736
+283,284,2022-10-03,Free,PayPal,West,28,Prefer not to answer,0,2023-12-24,7,454
+284,285,2022-04-22,Premium,Credit Card,East,68,Prefer not to answer,0,2023-12-23,8,618
+285,286,2021-07-14,Basic,Debit,North,50,Prefer not to answer,0,2023-12-09,22,900
+286,287,2021-11-17,Basic,PayPal,East,34,Prefer not to answer,0,2023-12-10,21,774
+287,288,2022-04-25,Free,Credit Card,East,32,Prefer not to answer,0,2023-12-28,3,615
+288,289,2022-01-28,Basic,Credit Card,North,33,Male,0,2023-12-12,19,702
+289,290,2022-04-01,Premium,Debit,East,61,Female,0,2023-12-27,4,639
+290,291,2023-11-16,Free,Debit,East,25,Female,1,2023-12-03,28,17
+291,292,2020-04-25,Premium,Credit Card,West,26,Prefer not to answer,1,2021-12-19,742,603
+292,293,2021-06-27,Premium,Credit Card,North,27,Female,0,2023-12-23,8,917
+293,294,2023-08-26,Basic,PayPal,South,55,Prefer not to answer,0,2023-12-13,18,127
+294,295,2020-03-22,Premium,Credit Card,West,59,Male,0,2023-12-05,26,1379
+295,296,2021-11-17,Basic,Credit Card,West,53,Male,0,2023-12-11,20,774
+296,297,2021-10-19,Basic,Debit,North,28,Prefer not to answer,0,2023-12-10,21,803
+297,298,2021-02-01,Basic,Credit Card,South,67,Prefer not to answer,0,2023-12-20,11,1063
+298,299,2021-10-15,Free,PayPal,North,69,Prefer not to answer,0,2023-12-13,18,807
+299,300,2020-08-03,Free,Debit,South,59,Male,0,2023-12-03,28,1245
+300,301,2020-01-05,Basic,Debit,South,63,Female,0,2023-12-30,1,1456
+301,302,2020-07-31,Basic,Credit Card,North,29,Female,0,2023-12-01,30,1248
+302,303,2022-09-07,Premium,PayPal,West,34,Male,1,2023-01-12,353,127
+303,304,2022-12-20,Basic,Debit,West,33,Female,0,2023-12-24,7,376
+304,305,2021-07-28,Basic,Debit,North,20,Prefer not to answer,0,2023-12-31,0,886
+305,306,2023-05-04,Basic,PayPal,South,59,Male,0,2023-12-20,11,241
+306,307,2020-06-10,Premium,Debit,North,41,Female,1,2020-11-03,1153,146
+307,308,2021-04-21,Basic,Credit Card,South,47,Female,0,2023-12-18,13,984
+308,309,2022-12-19,Premium,PayPal,North,65,Prefer not to answer,1,2023-05-03,242,135
+309,310,2023-08-25,Basic,Credit Card,West,45,Male,1,2023-12-20,11,117
+310,311,2023-05-14,Free,PayPal,South,27,Male,0,2023-12-05,26,231
+311,312,2020-02-15,Premium,Debit,South,69,Prefer not to answer,1,2020-03-15,1386,29
+312,313,2022-11-28,Free,Debit,East,57,Male,1,2022-12-29,367,31
+313,314,2022-12-28,Free,PayPal,South,41,Prefer not to answer,1,2023-06-23,191,177
+314,315,2021-05-15,Premium,PayPal,East,44,Male,0,2023-12-27,4,960
+315,316,2022-11-09,Basic,Debit,West,59,Male,0,2023-12-08,23,417
+316,317,2021-08-22,Basic,Credit Card,North,18,Male,0,2023-12-23,8,861
+317,318,2022-05-01,Basic,PayPal,West,25,Female,1,2023-06-28,186,423
+318,319,2023-06-29,Basic,PayPal,South,44,Male,0,2023-12-31,0,185
+319,320,2022-10-13,Premium,Debit,East,24,Male,0,2023-12-05,26,444
+320,321,2022-09-24,Basic,PayPal,North,39,Female,0,2023-12-11,20,463
+321,322,2023-08-21,Premium,Debit,North,27,Male,0,2023-12-16,15,132
+322,323,2022-01-24,Free,PayPal,South,51,Female,0,2023-12-31,0,706
+323,324,2021-04-25,Basic,Credit Card,North,58,Prefer not to answer,0,2023-12-03,28,980
+324,325,2023-01-25,Basic,Credit Card,East,33,Male,0,2023-12-14,17,340
+325,326,2021-01-12,Basic,PayPal,North,29,Prefer not to answer,0,2023-12-08,23,1083
+326,327,2021-08-09,Premium,Credit Card,North,32,Male,1,2023-01-30,335,539
+327,328,2022-01-03,Basic,Debit,North,48,Male,0,2023-12-11,20,727
+328,329,2022-10-20,Free,Debit,East,23,Prefer not to answer,1,2023-11-10,51,386
+329,330,2020-04-05,Basic,Credit Card,West,67,Male,0,2023-12-24,7,1365
+330,331,2022-05-02,Basic,PayPal,East,46,Female,0,2023-12-07,24,608
+331,332,2023-03-10,Premium,PayPal,North,26,Female,0,2023-12-04,27,296
+332,333,2021-09-28,Basic,Debit,West,29,Prefer not to answer,1,2021-11-07,784,40
+333,334,2020-05-05,Basic,Credit Card,South,21,Prefer not to answer,0,2023-12-26,5,1335
+334,335,2021-06-15,Basic,Debit,South,67,Female,0,2023-12-03,28,929
+335,336,2020-12-04,Basic,PayPal,South,46,Male,0,2023-12-23,8,1122
+336,337,2022-05-31,Premium,Credit Card,West,41,Female,1,2023-02-20,314,265
+337,338,2021-03-23,Basic,Debit,South,55,Prefer not to answer,0,2023-12-22,9,1013
+338,339,2023-11-03,Premium,Credit Card,East,24,Male,1,2023-12-19,12,46
+339,340,2020-12-08,Basic,Credit Card,East,56,Female,0,2023-12-04,27,1118
+340,341,2022-01-17,Premium,PayPal,East,40,Female,1,2023-12-28,3,710
+341,342,2021-12-08,Premium,Debit,West,36,Prefer not to answer,0,2023-12-20,11,753
+342,343,2020-12-23,Free,Credit Card,North,35,Male,0,2023-12-08,23,1103
+343,344,2021-11-03,Premium,Debit,South,53,Male,0,2023-12-03,28,788
+344,345,2022-10-21,Basic,Debit,West,59,Prefer not to answer,0,2023-12-08,23,436
+345,346,2022-05-02,Premium,Debit,East,41,Female,0,2023-12-27,4,608
+346,347,2021-08-14,Basic,Debit,East,30,Female,1,2023-02-16,318,551
+347,348,2021-09-04,Premium,PayPal,West,53,Female,0,2023-12-10,21,848
+348,349,2021-07-13,Basic,Credit Card,East,25,Prefer not to answer,0,2023-12-27,4,901
+349,350,2022-11-22,Basic,Credit Card,South,43,Prefer not to answer,1,2023-07-21,163,241
+350,351,2021-05-17,Free,Credit Card,North,51,Female,1,2022-02-13,686,272
+351,352,2023-12-15,Basic,PayPal,South,47,Male,0,2023-12-31,0,16
+352,353,2021-12-18,Basic,PayPal,North,47,Female,0,2023-12-24,7,743
+353,354,2022-12-02,Premium,PayPal,North,41,Female,0,2023-12-05,26,394
+354,355,2023-12-27,Basic,PayPal,East,39,Prefer not to answer,0,2023-12-22,9,4
+355,356,2023-08-10,Basic,Credit Card,North,47,Male,1,2023-10-18,74,69
+356,357,2021-04-04,Basic,PayPal,South,60,Prefer not to answer,0,2023-12-20,11,1001
+357,358,2020-07-23,Basic,Debit,East,51,Male,0,2023-12-21,10,1256
+358,359,2021-08-06,Premium,Credit Card,North,69,Prefer not to answer,0,2023-12-27,4,877
+359,360,2020-05-09,Premium,Debit,East,27,Female,0,2023-12-14,17,1331
+360,361,2022-06-16,Premium,PayPal,North,55,Male,1,2022-07-19,530,33
+361,362,2021-09-06,Basic,Debit,South,37,Female,0,2023-12-26,5,846
+362,363,2020-06-10,Premium,PayPal,South,34,Female,0,2023-12-06,25,1299
+363,364,2021-09-04,Free,Credit Card,South,28,Female,0,2023-12-05,26,848
+364,365,2023-06-05,Premium,Debit,South,60,Prefer not to answer,0,2023-12-03,28,209
+365,366,2020-06-14,Premium,Debit,North,65,Prefer not to answer,0,2023-12-03,28,1295
+366,367,2023-06-29,Premium,Credit Card,West,39,Prefer not to answer,0,2023-12-25,6,185
+367,368,2021-08-15,Premium,Credit Card,East,36,Prefer not to answer,0,2023-12-01,30,868
+368,369,2020-03-10,Premium,Debit,West,25,Female,0,2023-12-26,5,1391
+369,370,2021-02-25,Basic,Debit,West,38,Prefer not to answer,0,2023-12-16,15,1039
+370,371,2023-04-09,Basic,PayPal,West,33,Male,1,2023-05-03,242,24
+371,372,2023-02-17,Basic,Debit,West,30,Prefer not to answer,0,2023-12-19,12,317
+372,373,2020-02-16,Free,Credit Card,East,32,Female,1,2022-12-01,395,1019
+373,374,2020-03-28,Basic,Credit Card,South,25,Male,0,2023-12-05,26,1373
+374,375,2020-07-23,Premium,PayPal,West,25,Female,0,2023-12-17,14,1256
+375,376,2020-10-17,Premium,Debit,South,43,Male,0,2023-12-28,3,1170
+376,377,2020-08-18,Premium,Debit,North,66,Female,0,2023-12-11,20,1230
+377,378,2023-08-01,Premium,PayPal,East,27,Female,0,2023-12-08,23,152
+378,379,2023-07-04,Premium,Credit Card,South,53,Male,0,2023-12-10,21,180
+379,380,2020-03-10,Free,PayPal,East,43,Male,0,2023-12-08,23,1391
+380,381,2021-09-23,Free,Debit,West,68,Prefer not to answer,0,2023-12-12,19,829
+381,382,2020-07-11,Free,Credit Card,West,69,Male,1,2023-09-22,100,1168
+382,383,2023-02-26,Premium,Debit,East,20,Female,0,2023-12-16,15,308
+383,384,2023-09-23,Free,PayPal,East,23,Male,0,2023-12-31,0,99
+384,385,2022-02-28,Basic,PayPal,South,54,Male,1,2022-07-19,530,141
+385,386,2023-12-12,Basic,Debit,East,18,Female,0,2023-12-06,25,19
+386,387,2021-02-20,Basic,Debit,East,49,Female,0,2023-12-17,14,1044
+387,388,2020-12-30,Basic,PayPal,North,31,Male,0,2023-12-04,27,1096
+388,389,2022-08-17,Basic,PayPal,South,58,Prefer not to answer,0,2023-12-19,12,501
+389,390,2021-04-11,Premium,Debit,South,57,Female,0,2023-12-21,10,994
+390,391,2021-11-25,Premium,Credit Card,South,30,Male,0,2023-12-02,29,766
+391,392,2023-01-29,Premium,Debit,West,25,Male,0,2023-12-04,27,336
+392,393,2023-11-04,Free,Credit Card,West,68,Prefer not to answer,1,2023-11-19,42,15
+393,394,2021-10-24,Free,Debit,West,60,Prefer not to answer,0,2023-12-07,24,798
+394,395,2023-01-24,Basic,PayPal,North,59,Female,0,2023-12-11,20,341
+395,396,2021-07-06,Premium,PayPal,West,48,Prefer not to answer,0,2023-12-09,22,908
+396,397,2021-05-08,Basic,Debit,South,30,Female,0,2023-12-24,7,967
+397,398,2021-12-19,Basic,Credit Card,West,64,Female,1,2022-10-02,455,287
+398,399,2022-08-22,Basic,Credit Card,West,66,Female,1,2023-06-22,192,304
+399,400,2021-05-06,Premium,PayPal,North,38,Female,0,2023-12-31,0,969
+400,401,2023-03-29,Basic,PayPal,East,53,Female,0,2023-12-31,0,277
+401,402,2021-02-14,Basic,Debit,East,50,Male,1,2023-12-21,10,1040
+402,403,2020-04-15,Premium,Credit Card,East,54,Male,0,2023-12-29,2,1355
+403,404,2023-10-11,Premium,Credit Card,South,52,Prefer not to answer,1,2023-10-26,66,15
+404,405,2020-11-18,Premium,Debit,West,50,Male,0,2023-12-14,17,1138
+405,406,2020-08-22,Free,PayPal,East,54,Prefer not to answer,0,2023-12-10,21,1226
+406,407,2023-01-06,Basic,PayPal,South,18,Female,1,2023-01-25,340,19
+407,408,2022-03-03,Basic,Credit Card,North,37,Female,0,2023-12-02,29,668
+408,409,2020-12-11,Premium,PayPal,East,46,Male,0,2023-12-13,18,1115
+409,410,2022-12-25,Basic,Credit Card,West,39,Female,0,2023-12-02,29,371
+410,411,2023-07-04,Free,PayPal,North,68,Female,0,2023-12-14,17,180
+411,412,2022-06-25,Premium,Credit Card,East,42,Male,1,2022-11-14,412,142
+412,413,2022-07-27,Free,Credit Card,South,20,Female,0,2023-12-13,18,522
+413,414,2020-11-15,Free,Debit,North,62,Male,0,2023-12-04,27,1141
+414,415,2022-02-17,Basic,Credit Card,West,33,Male,0,2023-12-01,30,682
+415,416,2023-03-26,Premium,Debit,East,21,Male,1,2023-10-31,61,219
+416,417,2023-11-30,Basic,Debit,South,39,Prefer not to answer,1,2023-12-11,20,11
+417,418,2022-06-16,Basic,Credit Card,North,59,Female,0,2023-12-12,19,563
+418,419,2020-05-26,Basic,PayPal,South,33,Prefer not to answer,0,2023-12-11,20,1314
+419,420,2020-07-27,Basic,Credit Card,South,63,Prefer not to answer,0,2023-12-28,3,1252
+420,421,2022-02-23,Free,Credit Card,South,69,Female,0,2023-12-26,5,676
+421,422,2021-10-29,Premium,PayPal,West,33,Male,0,2023-12-07,24,793
+422,423,2021-05-19,Free,Debit,North,44,Prefer not to answer,0,2023-12-01,30,956
+423,424,2021-12-28,Premium,Credit Card,North,54,Male,1,2023-10-15,77,656
+424,425,2021-06-24,Premium,Debit,West,40,Male,1,2023-12-14,17,903
+425,426,2020-01-21,Basic,Credit Card,West,20,Prefer not to answer,0,2023-12-12,19,1440
+426,427,2022-05-20,Premium,Credit Card,East,45,Male,1,2023-04-01,274,316
+427,428,2021-07-31,Premium,Credit Card,East,24,Female,0,2023-12-26,5,883
+428,429,2020-03-06,Basic,PayPal,West,69,Prefer not to answer,1,2023-07-16,168,1227
+429,430,2023-10-28,Basic,Credit Card,South,58,Prefer not to answer,1,2023-11-27,34,30
+430,431,2021-02-25,Basic,Debit,South,58,Prefer not to answer,0,2023-12-29,2,1039
+431,432,2021-10-08,Basic,Credit Card,East,65,Female,0,2023-12-07,24,814
+432,433,2023-09-13,Free,PayPal,South,31,Female,1,2023-10-28,64,45
+433,434,2021-06-19,Basic,Debit,North,67,Male,1,2021-12-28,733,192
+434,435,2023-03-02,Premium,PayPal,North,42,Prefer not to answer,0,2023-12-23,8,304
+435,436,2022-02-07,Basic,Credit Card,South,64,Female,0,2023-12-11,20,692
+436,437,2022-06-22,Basic,Credit Card,West,42,Female,0,2023-12-17,14,557
+437,438,2020-09-19,Premium,Credit Card,North,61,Male,0,2023-12-15,16,1198
+438,439,2021-03-21,Basic,PayPal,West,48,Female,0,2023-12-09,22,1015
+439,440,2021-03-14,Premium,Credit Card,West,26,Prefer not to answer,0,2023-12-01,30,1022
+440,441,2022-08-27,Premium,Debit,South,43,Female,1,2022-12-19,377,114
+441,442,2022-10-05,Premium,PayPal,North,34,Prefer not to answer,0,2023-12-14,17,452
+442,443,2022-09-02,Basic,Credit Card,West,42,Female,0,2023-12-11,20,485
+443,444,2020-07-03,Free,Debit,East,51,Male,0,2023-12-10,21,1276
+444,445,2023-04-13,Free,PayPal,South,60,Female,0,2023-12-19,12,262
+445,446,2022-07-18,Basic,Credit Card,East,64,Female,0,2023-12-10,21,531
+446,447,2021-12-01,Basic,PayPal,East,45,Female,0,2023-12-25,6,760
+447,448,2020-11-14,Free,PayPal,West,62,Female,0,2023-12-14,17,1142
+448,449,2021-05-17,Premium,Debit,North,68,Female,0,2023-12-22,9,958
+449,450,2023-06-13,Premium,Debit,North,53,Prefer not to answer,0,2023-12-08,23,201
+450,451,2022-02-23,Premium,Credit Card,North,40,Male,0,2023-12-10,21,676
+451,452,2020-03-13,Basic,Debit,West,49,Prefer not to answer,0,2023-12-07,24,1388
+452,453,2023-10-13,Premium,PayPal,West,57,Male,0,2023-12-29,2,79
+453,454,2021-06-06,Free,Debit,West,37,Male,0,2023-12-10,21,938
+454,455,2023-09-29,Premium,Credit Card,East,34,Male,0,2023-12-19,12,93
+455,456,2020-01-20,Basic,Credit Card,West,40,Male,0,2023-12-20,11,1441
+456,457,2020-04-08,Basic,PayPal,East,52,Female,0,2023-12-14,17,1362
+457,458,2023-08-28,Free,Debit,North,61,Female,1,2023-09-29,93,32
+458,459,2020-03-04,Basic,Credit Card,South,65,Prefer not to answer,0,2023-12-27,4,1397
+459,460,2020-03-18,Premium,Debit,West,21,Female,0,2023-12-27,4,1383
+460,461,2021-11-04,Premium,Debit,East,18,Male,0,2023-12-14,17,787
+461,462,2022-09-01,Free,Credit Card,South,50,Female,0,2023-12-15,16,486
+462,463,2022-03-09,Basic,PayPal,South,28,Female,0,2023-12-31,0,662
+463,464,2020-01-15,Free,Credit Card,East,41,Female,1,2022-07-26,523,923
+464,465,2020-07-03,Basic,Debit,South,27,Female,0,2023-12-06,25,1276
+465,466,2020-05-23,Free,PayPal,South,35,Female,1,2023-06-22,192,1125
+466,467,2022-10-25,Free,PayPal,East,42,Male,1,2023-12-28,3,429
+467,468,2023-10-05,Premium,Debit,East,38,Prefer not to answer,0,2023-12-27,4,87
+468,469,2021-05-03,Free,PayPal,North,34,Female,0,2023-12-02,29,972
+469,470,2021-10-06,Free,Credit Card,North,55,Male,0,2023-12-22,9,816
+470,471,2022-12-26,Basic,Credit Card,East,40,Prefer not to answer,0,2023-12-26,5,370
+471,472,2021-02-27,Premium,Credit Card,East,49,Prefer not to answer,0,2023-12-27,4,1037
+472,473,2022-04-15,Basic,Debit,South,51,Female,0,2023-12-03,28,625
+473,474,2023-03-10,Free,Credit Card,West,34,Male,1,2023-07-16,168,128
+474,475,2021-07-01,Premium,Debit,West,18,Prefer not to answer,0,2023-12-02,29,913
+475,476,2023-09-21,Basic,Credit Card,South,30,Female,1,2023-12-23,8,93
+476,477,2020-08-12,Premium,PayPal,West,61,Prefer not to answer,0,2023-12-03,28,1236
+477,478,2020-10-09,Basic,Debit,East,26,Female,0,2023-12-31,0,1178
+478,479,2020-02-12,Free,Credit Card,East,28,Male,0,2023-12-18,13,1418
+479,480,2022-04-17,Basic,Debit,North,26,Female,0,2023-12-09,22,623
+480,481,2022-01-07,Basic,Credit Card,North,39,Male,0,2023-12-08,23,723
+481,482,2021-05-18,Basic,PayPal,East,41,Female,0,2023-12-30,1,957
+482,483,2022-11-29,Premium,Credit Card,West,40,Prefer not to answer,0,2023-12-20,11,397
+483,484,2023-01-31,Premium,Debit,North,32,Prefer not to answer,0,2023-12-25,6,334
+484,485,2020-10-14,Basic,PayPal,North,52,Male,0,2023-12-09,22,1173
+485,486,2023-12-25,Premium,Debit,South,54,Female,1,2024-01-04,-4,10
+486,487,2020-10-08,Basic,PayPal,East,31,Male,0,2023-12-24,7,1179
+487,488,2023-03-06,Basic,Credit Card,East,25,Prefer not to answer,0,2023-12-26,5,300
+488,489,2022-06-27,Basic,Credit Card,West,40,Female,1,2023-10-22,70,482
+489,490,2023-06-22,Premium,Debit,West,25,Female,0,2023-12-11,20,192
+490,491,2022-01-18,Premium,Credit Card,East,39,Male,0,2023-12-06,25,712
+491,492,2020-08-07,Free,Credit Card,North,39,Female,0,2023-12-27,4,1241
+492,493,2020-11-30,Basic,PayPal,East,58,Prefer not to answer,0,2023-12-20,11,1126
+493,494,2022-09-03,Basic,Debit,North,64,Prefer not to answer,1,2023-04-08,267,217
+494,495,2020-04-09,Basic,Debit,North,57,Prefer not to answer,1,2021-02-03,1061,300
+495,496,2021-03-05,Basic,PayPal,North,22,Female,1,2023-02-19,315,716
+496,497,2020-06-04,Premium,PayPal,North,59,Prefer not to answer,0,2023-12-10,21,1305
+497,498,2023-10-25,Basic,Debit,North,18,Male,0,2023-12-26,5,67
+498,499,2021-11-03,Basic,PayPal,South,48,Male,0,2023-12-17,14,788
+499,500,2023-05-15,Free,PayPal,East,59,Female,0,2023-12-05,26,230
+500,501,2023-09-06,Basic,Debit,South,65,Female,0,2023-12-27,4,116
+501,502,2020-01-18,Basic,PayPal,East,23,Prefer not to answer,1,2020-02-19,1411,32
+502,503,2020-02-26,Basic,Credit Card,North,38,Prefer not to answer,0,2023-12-03,28,1404
+503,504,2020-05-24,Basic,Credit Card,North,46,Prefer not to answer,1,2022-09-25,462,854
+504,505,2020-08-31,Basic,Debit,East,66,Prefer not to answer,0,2023-12-28,3,1217
+505,506,2023-06-13,Basic,Credit Card,West,39,Male,0,2023-12-10,21,201
+506,507,2020-07-04,Basic,PayPal,East,57,Prefer not to answer,1,2020-10-28,1159,116
+507,508,2020-09-27,Basic,Debit,North,34,Male,0,2023-12-29,2,1190
+508,509,2021-04-28,Premium,Credit Card,North,65,Prefer not to answer,0,2023-12-24,7,977
+509,510,2020-04-06,Premium,Debit,North,67,Prefer not to answer,0,2023-12-04,27,1364
+510,511,2023-05-14,Premium,PayPal,North,54,Female,0,2023-12-15,16,231
+511,512,2022-07-18,Premium,Credit Card,North,52,Male,0,2023-12-18,13,531
+512,513,2021-02-25,Basic,Debit,West,42,Prefer not to answer,0,2023-12-04,27,1039
+513,514,2023-04-03,Premium,PayPal,East,28,Male,1,2023-09-13,109,163
+514,515,2023-06-18,Basic,Credit Card,East,36,Male,0,2023-12-11,20,196
+515,516,2021-10-10,Basic,Debit,North,68,Male,0,2023-12-01,30,812
+516,517,2020-02-20,Premium,Credit Card,West,43,Male,1,2022-12-19,377,1033
+517,518,2020-06-19,Premium,Debit,West,51,Male,1,2023-06-16,198,1092
+518,519,2022-12-26,Free,Credit Card,West,19,Prefer not to answer,0,2023-12-01,30,370
+519,520,2021-04-30,Premium,PayPal,West,20,Prefer not to answer,1,2022-02-28,671,304
+520,521,2020-05-25,Basic,PayPal,West,31,Female,0,2023-12-04,27,1315
+521,522,2021-03-18,Basic,PayPal,North,66,Female,1,2021-08-11,872,146
+522,523,2021-06-05,Premium,Credit Card,East,34,Male,0,2023-12-30,1,939
+523,524,2023-11-01,Basic,PayPal,North,43,Prefer not to answer,1,2023-12-20,11,49
+524,525,2020-04-03,Basic,Credit Card,South,28,Female,0,2023-12-18,13,1367
+525,526,2021-12-14,Basic,Debit,East,45,Male,1,2023-02-15,319,428
+526,527,2023-08-23,Premium,Debit,East,38,Female,0,2023-12-17,14,130
+527,528,2023-05-18,Basic,Debit,East,59,Female,1,2023-09-22,100,127
+528,529,2023-02-07,Free,Credit Card,West,31,Male,1,2023-07-10,174,153
+529,530,2023-01-07,Premium,PayPal,East,30,Prefer not to answer,0,2023-12-06,25,358
+530,531,2023-10-20,Free,PayPal,East,55,Prefer not to answer,1,2023-12-18,13,59
+531,532,2021-05-25,Free,Credit Card,North,58,Female,0,2023-12-11,20,950
+532,533,2021-01-30,Basic,PayPal,South,68,Male,1,2023-12-13,18,1047
+533,534,2022-11-11,Basic,PayPal,West,54,Male,0,2023-12-30,1,415
+534,535,2023-02-26,Basic,Debit,East,18,Female,1,2023-04-08,267,41
+535,536,2021-12-30,Premium,Debit,West,66,Female,0,2023-12-11,20,731
+536,537,2022-06-29,Basic,PayPal,East,30,Male,0,2023-12-17,14,550
+537,538,2023-07-10,Premium,PayPal,North,30,Female,0,2023-12-11,20,174
+538,539,2022-10-10,Basic,Credit Card,West,59,Female,1,2022-11-13,413,34
+539,540,2021-03-11,Premium,Debit,North,58,Male,0,2023-12-25,6,1025
+540,541,2020-11-04,Free,Credit Card,East,59,Female,0,2023-12-24,7,1152
+541,542,2021-09-01,Premium,Debit,South,40,Male,0,2023-12-12,19,851
+542,543,2021-09-03,Premium,PayPal,South,40,Female,0,2023-12-14,17,849
+543,544,2020-01-24,Basic,PayPal,East,35,Male,1,2023-04-06,269,1168
+544,545,2022-09-29,Free,PayPal,East,26,Female,1,2022-12-30,366,92
+545,546,2022-08-22,Basic,Debit,North,42,Male,0,2023-12-27,4,496
+546,547,2023-01-04,Free,PayPal,South,23,Prefer not to answer,0,2023-12-30,1,361
+547,548,2021-03-17,Basic,Debit,South,32,Female,1,2021-06-19,925,94
+548,549,2021-03-17,Basic,Credit Card,North,59,Male,1,2021-12-02,759,260
+549,550,2022-11-08,Premium,Debit,West,31,Male,0,2023-12-06,25,418
+550,551,2022-08-14,Basic,Credit Card,East,47,Prefer not to answer,0,2023-12-13,18,504
+551,552,2022-04-19,Basic,Debit,East,20,Prefer not to answer,0,2023-12-21,10,621
+552,553,2021-03-30,Basic,Credit Card,West,64,Female,0,2023-12-20,11,1006
+553,554,2023-09-23,Premium,Debit,East,69,Female,1,2023-12-08,23,76
+554,555,2022-03-26,Basic,Debit,South,57,Female,0,2023-12-06,25,645
+555,556,2023-12-23,Basic,Debit,North,60,Prefer not to answer,1,2024-01-02,-2,10
+556,557,2023-03-20,Basic,Credit Card,South,29,Female,0,2023-12-08,23,286
+557,558,2023-07-20,Basic,Debit,South,48,Female,0,2023-12-15,16,164
+558,559,2020-06-08,Premium,PayPal,East,61,Male,1,2023-03-05,301,1000
+559,560,2022-10-19,Premium,PayPal,South,39,Prefer not to answer,0,2023-12-04,27,438
+560,561,2023-05-17,Basic,Debit,South,21,Female,0,2023-12-15,16,228
+561,562,2020-03-31,Premium,Debit,East,67,Female,0,2023-12-04,27,1370
+562,563,2023-12-17,Basic,Credit Card,East,35,Male,1,2023-12-29,2,12
+563,564,2020-12-23,Free,Debit,West,24,Female,0,2023-12-06,25,1103
+564,565,2023-06-07,Basic,PayPal,East,19,Female,0,2023-12-16,15,207
+565,566,2023-08-25,Basic,Debit,North,20,Male,0,2023-12-19,12,128
+566,567,2022-10-07,Premium,PayPal,East,56,Prefer not to answer,0,2023-12-03,28,450
+567,568,2021-01-11,Basic,PayPal,East,60,Prefer not to answer,1,2023-01-07,358,726
+568,569,2022-07-22,Free,PayPal,East,22,Prefer not to answer,0,2023-12-30,1,527
+569,570,2022-11-11,Premium,Credit Card,East,41,Male,0,2023-12-03,28,415
+570,571,2021-07-22,Free,PayPal,North,64,Male,0,2023-12-12,19,892
+571,572,2021-05-05,Premium,PayPal,South,64,Female,0,2023-12-27,4,970
+572,573,2023-09-07,Premium,Credit Card,West,46,Prefer not to answer,0,2023-12-05,26,115
+573,574,2023-11-18,Premium,Credit Card,North,40,Prefer not to answer,1,2023-12-04,27,16
+574,575,2022-03-12,Free,Debit,West,67,Male,0,2023-12-16,15,659
+575,576,2021-06-12,Basic,PayPal,West,33,Female,0,2023-12-03,28,932
+576,577,2022-04-05,Premium,Credit Card,East,22,Male,1,2022-11-20,406,229
+577,578,2023-09-12,Basic,Debit,East,18,Male,0,2023-12-27,4,110
+578,579,2022-12-12,Basic,Credit Card,West,20,Female,0,2023-12-20,11,384
+579,580,2020-03-25,Premium,Debit,North,67,Prefer not to answer,0,2023-12-02,29,1376
+580,581,2022-04-24,Premium,Debit,East,47,Prefer not to answer,0,2023-12-21,10,616
+581,582,2021-12-23,Premium,Credit Card,East,63,Female,0,2023-12-25,6,738
+582,583,2022-10-21,Free,Credit Card,East,42,Male,0,2023-12-11,20,436
+583,584,2021-01-03,Premium,Debit,West,44,Female,0,2023-12-03,28,1092
+584,585,2022-12-22,Free,PayPal,South,59,Prefer not to answer,0,2023-12-08,23,374
+585,586,2022-09-22,Free,PayPal,North,40,Prefer not to answer,0,2023-12-10,21,465
+586,587,2021-10-09,Premium,Debit,South,42,Male,0,2023-12-10,21,813
+587,588,2021-09-15,Basic,Debit,North,42,Female,0,2023-12-27,4,837
+588,589,2023-11-02,Basic,Debit,East,38,Prefer not to answer,1,2023-11-12,49,10
+589,590,2021-09-14,Basic,Debit,South,40,Male,0,2023-12-19,12,838
+590,591,2020-01-09,Premium,Debit,South,33,Female,0,2023-12-07,24,1452
+591,592,2023-02-24,Premium,Credit Card,West,39,Male,1,2023-07-02,182,128
+592,593,2022-08-11,Premium,Credit Card,West,30,Prefer not to answer,1,2023-07-06,178,329
+593,594,2022-02-02,Premium,Debit,North,32,Male,1,2022-07-28,521,176
+594,595,2023-10-08,Free,PayPal,South,34,Female,1,2023-12-12,19,65
+595,596,2020-12-23,Basic,Debit,South,35,Male,1,2022-10-11,446,657
+596,597,2022-09-07,Basic,PayPal,North,33,Female,1,2023-07-23,161,319
+597,598,2022-07-15,Basic,PayPal,East,45,Prefer not to answer,0,2023-12-06,25,534
+598,599,2021-05-30,Free,Debit,West,48,Female,0,2023-12-18,13,945
+599,600,2021-12-13,Free,PayPal,West,51,Male,0,2023-12-16,15,748
+600,601,2022-09-17,Premium,PayPal,East,46,Male,0,2023-12-18,13,470
+601,602,2021-08-08,Basic,PayPal,North,61,Prefer not to answer,0,2023-12-19,12,875
+602,603,2023-03-08,Basic,Credit Card,East,54,Female,0,2023-12-11,20,298
+603,604,2021-03-13,Free,Credit Card,South,36,Male,1,2023-06-01,213,810
+604,605,2023-11-20,Basic,Credit Card,West,35,Prefer not to answer,1,2023-12-13,18,23
+605,606,2021-06-23,Premium,PayPal,North,62,Female,0,2023-12-29,2,921
+606,607,2021-01-13,Free,PayPal,South,52,Male,0,2023-12-20,11,1082
+607,608,2023-09-02,Basic,Debit,West,60,Prefer not to answer,1,2023-10-25,67,53
+608,609,2021-05-26,Free,Credit Card,West,38,Female,0,2023-12-27,4,949
+609,610,2020-12-25,Basic,PayPal,North,64,Male,0,2023-12-03,28,1101
+610,611,2020-09-12,Basic,PayPal,North,48,Prefer not to answer,1,2020-12-21,1105,100
+611,612,2021-08-21,Basic,Debit,North,58,Prefer not to answer,1,2023-02-15,319,543
+612,613,2023-05-21,Basic,Debit,South,64,Male,1,2023-10-03,89,135
+613,614,2021-03-03,Premium,Debit,South,68,Female,0,2023-12-07,24,1033
+614,615,2020-04-29,Premium,Credit Card,West,23,Male,0,2023-12-14,17,1341
+615,616,2023-04-02,Premium,PayPal,West,48,Male,1,2023-05-14,231,42
+616,617,2021-05-26,Free,Debit,South,38,Prefer not to answer,0,2023-12-04,27,949
+617,618,2022-11-18,Basic,Debit,West,35,Prefer not to answer,0,2023-12-12,19,408
+618,619,2020-04-25,Premium,Credit Card,North,50,Male,0,2023-12-24,7,1345
+619,620,2020-10-02,Free,Credit Card,West,55,Male,0,2023-12-12,19,1185
+620,621,2020-06-01,Premium,Credit Card,West,27,Female,0,2023-12-08,23,1308
+621,622,2023-09-28,Premium,PayPal,South,58,Male,1,2023-12-14,17,77
+622,623,2022-12-28,Premium,PayPal,North,42,Prefer not to answer,0,2023-12-13,18,368
+623,624,2020-08-19,Basic,Debit,North,22,Female,0,2023-12-07,24,1229
+624,625,2021-10-23,Basic,Debit,East,41,Female,1,2022-06-15,564,235
+625,626,2021-05-14,Premium,PayPal,West,35,Female,0,2023-12-27,4,961
+626,627,2020-11-05,Free,Debit,South,35,Male,0,2023-12-08,23,1151
+627,628,2022-03-30,Basic,Debit,South,69,Prefer not to answer,0,2023-12-05,26,641
+628,629,2020-04-26,Premium,PayPal,West,21,Female,1,2023-04-30,245,1099
+629,630,2022-01-01,Premium,Credit Card,South,23,Female,0,2023-12-24,7,729
+630,631,2021-12-25,Free,Credit Card,South,40,Female,0,2023-12-16,15,736
+631,632,2021-11-06,Basic,Debit,West,69,Prefer not to answer,0,2023-12-13,18,785
+632,633,2023-11-10,Premium,Debit,North,28,Female,0,2023-12-23,8,51
+633,634,2021-07-17,Premium,Debit,South,57,Female,1,2022-10-15,442,455
+634,635,2023-01-07,Basic,Debit,West,69,Male,1,2023-10-30,62,296
+635,636,2023-05-18,Basic,Credit Card,South,18,Male,0,2023-12-06,25,227
+636,637,2023-03-22,Basic,Credit Card,South,66,Prefer not to answer,0,2023-12-29,2,284
+637,638,2020-04-10,Basic,Credit Card,South,20,Prefer not to answer,0,2023-12-20,11,1360
+638,639,2023-02-02,Basic,PayPal,North,33,Female,1,2023-11-27,34,298
+639,640,2023-03-13,Basic,Credit Card,North,27,Prefer not to answer,1,2023-10-11,81,212
+640,641,2021-12-22,Premium,Credit Card,North,21,Female,1,2022-11-26,400,339
+641,642,2020-09-25,Basic,Credit Card,North,45,Male,0,2023-12-02,29,1192
+642,643,2021-08-02,Basic,Credit Card,East,19,Male,0,2023-12-22,9,881
+643,644,2020-05-24,Basic,Debit,South,53,Prefer not to answer,0,2023-12-22,9,1316
+644,645,2022-03-29,Premium,Credit Card,West,37,Prefer not to answer,1,2023-09-09,113,529
+645,646,2021-03-28,Basic,Debit,South,31,Prefer not to answer,0,2023-12-14,17,1008
+646,647,2022-01-03,Basic,PayPal,North,33,Female,0,2023-12-06,25,727
+647,648,2021-04-15,Basic,Debit,North,51,Male,0,2023-12-20,11,990
+648,649,2020-12-30,Premium,Credit Card,North,36,Female,1,2022-02-23,676,420
+649,650,2022-05-27,Premium,PayPal,North,34,Prefer not to answer,0,2023-12-11,20,583
+650,651,2023-07-07,Basic,PayPal,North,35,Male,0,2023-12-11,20,177
+651,652,2022-12-19,Basic,Debit,East,59,Female,0,2023-12-08,23,377
+652,653,2020-02-17,Basic,Credit Card,East,20,Male,0,2023-12-19,12,1413
+653,654,2020-06-06,Free,Credit Card,West,67,Prefer not to answer,0,2023-12-03,28,1303
+654,655,2021-06-13,Free,Debit,West,28,Female,0,2023-12-01,30,931
+655,656,2020-09-21,Basic,Debit,East,41,Prefer not to answer,0,2023-12-11,20,1196
+656,657,2021-09-29,Premium,PayPal,South,57,Prefer not to answer,0,2023-12-30,1,823
+657,658,2022-12-03,Basic,Credit Card,East,45,Female,0,2023-12-23,8,393
+658,659,2023-04-14,Basic,Credit Card,North,53,Prefer not to answer,1,2023-09-23,99,162
+659,660,2023-04-15,Basic,Credit Card,North,64,Male,1,2023-04-29,246,14
+660,661,2020-01-28,Basic,Debit,North,31,Male,1,2021-10-19,803,630
+661,662,2020-10-17,Basic,PayPal,West,49,Female,0,2023-12-20,11,1170
+662,663,2021-10-12,Basic,Credit Card,North,25,Female,1,2022-06-26,553,257
+663,664,2021-12-02,Premium,PayPal,East,24,Prefer not to answer,0,2023-12-02,29,759
+664,665,2022-08-30,Basic,PayPal,West,28,Female,0,2023-12-12,19,488
+665,666,2020-06-24,Basic,Debit,East,40,Male,1,2022-05-02,608,677
+666,667,2022-05-15,Basic,Credit Card,North,37,Prefer not to answer,0,2023-12-10,21,595
+667,668,2020-01-30,Basic,Credit Card,South,55,Female,1,2021-09-20,832,599
+668,669,2023-07-03,Basic,Credit Card,East,50,Prefer not to answer,0,2023-12-02,29,181
+669,670,2020-05-26,Basic,Debit,West,33,Female,0,2023-12-31,0,1314
+670,671,2022-02-18,Free,PayPal,South,67,Male,0,2023-12-29,2,681
+671,672,2021-07-23,Basic,Debit,East,47,Prefer not to answer,0,2023-12-05,26,891
+672,673,2023-11-11,Premium,PayPal,East,44,Prefer not to answer,1,2023-12-09,22,28
+673,674,2023-03-23,Premium,Credit Card,South,47,Female,0,2023-12-23,8,283
+674,675,2023-06-06,Premium,Debit,West,58,Male,1,2023-10-24,68,140
+675,676,2022-05-01,Premium,PayPal,South,51,Female,0,2023-12-09,22,609
+676,677,2023-05-20,Basic,PayPal,South,34,Prefer not to answer,0,2023-12-12,19,225
+677,678,2020-04-03,Basic,Credit Card,West,33,Prefer not to answer,0,2023-12-13,18,1367
+678,679,2023-04-18,Premium,PayPal,North,60,Prefer not to answer,1,2023-05-17,228,29
+679,680,2022-02-01,Free,Credit Card,South,21,Female,0,2023-12-12,19,698
+680,681,2022-06-13,Premium,Credit Card,East,58,Male,0,2023-12-26,5,566
+681,682,2023-03-07,Premium,PayPal,East,49,Prefer not to answer,1,2023-08-09,144,155
+682,683,2020-03-06,Basic,PayPal,West,54,Female,0,2023-12-14,17,1395
+683,684,2020-02-18,Basic,Debit,South,36,Female,0,2023-12-07,24,1412
+684,685,2023-07-11,Basic,PayPal,South,45,Female,0,2023-12-18,13,173
+685,686,2021-03-21,Basic,Credit Card,South,69,Male,0,2023-12-21,10,1015
+686,687,2023-01-09,Premium,PayPal,South,48,Female,0,2023-12-01,30,356
+687,688,2023-05-21,Premium,PayPal,North,68,Female,0,2023-12-16,15,224
+688,689,2021-11-21,Basic,PayPal,North,22,Female,0,2023-12-31,0,770
+689,690,2021-06-06,Premium,Credit Card,East,48,Male,0,2023-12-30,1,938
+690,691,2020-09-09,Free,Credit Card,West,69,Prefer not to answer,0,2023-12-20,11,1208
+691,692,2022-05-26,Basic,Debit,North,26,Male,0,2023-12-21,10,584
+692,693,2021-09-20,Premium,Debit,North,44,Female,1,2023-04-02,273,559
+693,694,2022-04-27,Basic,Credit Card,West,47,Female,0,2023-12-27,4,613
+694,695,2023-04-13,Premium,Debit,East,20,Male,0,2023-12-22,9,262
+695,696,2023-01-11,Free,Debit,East,28,Female,0,2023-12-28,3,354
+696,697,2023-06-04,Premium,Debit,North,68,Female,0,2023-12-24,7,210
+697,698,2020-12-21,Basic,Debit,South,28,Female,0,2023-12-16,15,1105
+698,699,2023-10-15,Basic,Credit Card,North,20,Male,0,2023-12-24,7,77
+699,700,2020-11-10,Free,PayPal,North,26,Female,1,2023-08-27,126,1020
+700,701,2022-02-21,Basic,Debit,North,35,Male,1,2023-05-31,214,464
+701,702,2020-07-31,Premium,PayPal,South,46,Female,0,2023-12-29,2,1248
+702,703,2022-06-01,Premium,PayPal,West,33,Prefer not to answer,0,2023-12-03,28,578
+703,704,2023-03-06,Basic,Debit,South,57,Male,0,2023-12-15,16,300
+704,705,2020-03-15,Basic,Debit,West,58,Female,0,2023-12-02,29,1386
+705,706,2023-05-26,Free,Credit Card,South,25,Prefer not to answer,1,2023-11-05,56,163
+706,707,2023-01-04,Basic,PayPal,East,34,Female,1,2023-12-26,5,356
+707,708,2020-04-24,Free,Debit,East,31,Male,0,2023-12-12,19,1346
+708,709,2022-04-02,Premium,Credit Card,North,32,Female,1,2022-11-30,396,242
+709,710,2023-10-14,Premium,Credit Card,North,35,Male,0,2023-12-12,19,78
+710,711,2021-12-30,Free,PayPal,North,34,Male,1,2023-09-05,117,614
+711,712,2023-08-24,Free,Debit,South,23,Male,1,2023-12-17,14,115
+712,713,2023-12-06,Premium,PayPal,North,30,Female,0,2023-12-03,28,25
+713,714,2021-11-04,Basic,Debit,South,57,Male,0,2023-12-09,22,787
+714,715,2020-02-17,Free,Debit,North,54,Male,0,2023-12-30,1,1413
+715,716,2022-08-27,Basic,Credit Card,South,49,Female,0,2023-12-22,9,491
+716,717,2023-12-23,Basic,Debit,South,35,Male,1,2024-01-02,-2,10
+717,718,2023-10-03,Basic,Credit Card,North,25,Female,1,2023-10-26,66,23
+718,719,2022-09-19,Free,Credit Card,South,39,Prefer not to answer,0,2023-12-04,27,468
+719,720,2020-10-25,Free,Credit Card,East,58,Prefer not to answer,0,2023-12-22,9,1162
+720,721,2021-12-21,Basic,PayPal,North,53,Male,1,2022-07-25,524,216
+721,722,2022-05-15,Premium,Credit Card,West,32,Prefer not to answer,0,2023-12-23,8,595
+722,723,2021-08-30,Premium,Credit Card,North,43,Male,0,2023-12-26,5,853
+723,724,2022-06-30,Basic,Debit,West,41,Male,1,2022-07-28,521,28
+724,725,2021-03-31,Basic,Debit,South,27,Male,0,2023-12-29,2,1005
+725,726,2020-05-17,Basic,Credit Card,North,53,Male,0,2023-12-14,17,1323
+726,727,2023-05-18,Basic,Debit,West,44,Male,0,2023-12-28,3,227
+727,728,2023-05-16,Basic,PayPal,South,65,Female,0,2023-12-29,2,229
+728,729,2021-11-16,Premium,Debit,West,47,Prefer not to answer,0,2023-12-05,26,775
+729,730,2023-08-18,Basic,Credit Card,South,46,Prefer not to answer,0,2023-12-29,2,135
+730,731,2021-10-28,Basic,PayPal,North,41,Prefer not to answer,0,2023-12-02,29,794
+731,732,2023-05-18,Free,PayPal,West,60,Prefer not to answer,0,2023-12-28,3,227
+732,733,2022-04-15,Basic,Credit Card,North,21,Female,0,2023-12-23,8,625
+733,734,2022-08-29,Basic,PayPal,South,29,Prefer not to answer,1,2023-04-28,247,242
+734,735,2023-02-05,Basic,Credit Card,North,23,Female,0,2023-12-14,17,329
+735,736,2022-07-08,Basic,PayPal,East,56,Prefer not to answer,0,2023-12-24,7,541
+736,737,2021-10-10,Free,PayPal,South,38,Male,1,2022-11-06,420,392
+737,738,2020-02-13,Free,Credit Card,South,49,Prefer not to answer,0,2023-12-23,8,1417
+738,739,2023-11-27,Basic,Debit,West,68,Male,1,2023-12-29,2,32
+739,740,2023-08-03,Premium,Debit,West,68,Prefer not to answer,0,2023-12-01,30,150
+740,741,2022-03-29,Free,Debit,South,23,Female,1,2023-09-27,95,547
+741,742,2023-09-20,Premium,Debit,South,45,Male,1,2023-11-23,38,64
+742,743,2022-05-08,Premium,Credit Card,South,19,Male,0,2023-12-30,1,602
+743,744,2023-09-15,Basic,Debit,West,52,Prefer not to answer,1,2023-09-30,92,15
+744,745,2021-12-29,Free,PayPal,East,48,Male,0,2023-12-24,7,732
+745,746,2022-03-06,Premium,Credit Card,East,40,Male,0,2023-12-17,14,665
+746,747,2023-09-10,Premium,Credit Card,West,65,Prefer not to answer,0,2023-12-04,27,112
+747,748,2023-10-30,Premium,PayPal,West,22,Female,1,2023-11-14,47,15
+748,749,2020-08-11,Basic,Credit Card,East,49,Male,0,2023-12-24,7,1237
+749,750,2022-12-12,Basic,PayPal,East,35,Female,1,2023-09-18,104,280
+750,751,2020-11-29,Premium,PayPal,East,31,Prefer not to answer,0,2023-12-07,24,1127
+751,752,2023-11-23,Basic,Credit Card,West,18,Male,0,2023-12-02,29,38
+752,753,2021-02-17,Basic,Credit Card,North,21,Male,0,2023-12-20,11,1047
+753,754,2023-02-17,Basic,PayPal,West,39,Female,0,2023-12-20,11,317
+754,755,2022-12-10,Free,Credit Card,East,32,Male,0,2023-12-10,21,386
+755,756,2022-07-28,Premium,PayPal,East,31,Prefer not to answer,0,2023-12-01,30,521
+756,757,2023-09-01,Basic,PayPal,South,29,Female,0,2023-12-28,3,121
+757,758,2022-10-31,Free,Credit Card,North,62,Female,0,2023-12-26,5,426
+758,759,2021-02-18,Free,Debit,South,58,Male,0,2023-12-26,5,1046
+759,760,2023-02-07,Basic,Debit,West,62,Male,0,2023-12-23,8,327
+760,761,2023-03-07,Premium,Credit Card,West,38,Prefer not to answer,0,2023-12-02,29,299
+761,762,2023-07-12,Premium,Credit Card,East,26,Female,0,2023-12-28,3,172
+762,763,2022-09-24,Free,Credit Card,North,50,Male,0,2023-12-30,1,463
+763,764,2020-11-03,Basic,PayPal,West,46,Prefer not to answer,0,2023-12-08,23,1153
+764,765,2023-02-04,Premium,PayPal,West,65,Female,0,2023-12-02,29,330
+765,766,2023-08-12,Basic,PayPal,North,65,Female,0,2023-12-14,17,141
+766,767,2021-08-07,Basic,Credit Card,South,67,Male,0,2023-12-01,30,876
+767,768,2021-10-23,Premium,Debit,East,57,Male,0,2023-12-04,27,799
+768,769,2022-03-10,Free,Credit Card,East,62,Male,0,2023-12-12,19,661
+769,770,2021-03-28,Basic,Debit,North,26,Male,0,2023-12-26,5,1008
+770,771,2023-03-11,Basic,PayPal,North,21,Prefer not to answer,0,2023-12-11,20,295
+771,772,2023-08-27,Premium,Debit,North,23,Male,1,2023-11-03,58,68
+772,773,2021-02-03,Basic,Debit,East,29,Prefer not to answer,0,2023-12-09,22,1061
+773,774,2023-07-06,Basic,Debit,North,49,Male,0,2023-12-11,20,178
+774,775,2022-11-06,Basic,Credit Card,West,36,Prefer not to answer,0,2023-12-19,12,420
+775,776,2021-02-07,Premium,Credit Card,East,29,Prefer not to answer,1,2023-10-31,61,996
+776,777,2022-06-08,Basic,PayPal,South,31,Female,0,2023-12-30,1,571
+777,778,2021-02-27,Premium,PayPal,South,27,Male,0,2023-12-26,5,1037
+778,779,2020-02-20,Basic,Debit,East,49,Female,0,2023-12-14,17,1410
+779,780,2020-05-12,Premium,Debit,East,41,Prefer not to answer,0,2023-12-19,12,1328
+780,781,2020-03-26,Free,PayPal,East,63,Female,0,2023-12-30,1,1375
+781,782,2023-03-29,Basic,Credit Card,East,23,Male,0,2023-12-01,30,277
+782,783,2022-08-26,Basic,PayPal,North,43,Prefer not to answer,0,2023-12-11,20,492
+783,784,2020-12-16,Premium,PayPal,East,26,Female,0,2023-12-11,20,1110
+784,785,2020-06-23,Basic,Credit Card,North,61,Prefer not to answer,0,2023-12-20,11,1286
+785,786,2023-10-02,Free,PayPal,North,24,Female,0,2023-12-17,14,90
+786,787,2021-06-11,Basic,Debit,North,63,Male,0,2023-12-08,23,933
+787,788,2020-04-24,Basic,Debit,South,69,Male,0,2023-12-21,10,1346
+788,789,2020-11-25,Basic,Debit,East,43,Male,0,2023-12-26,5,1131
+789,790,2020-12-20,Basic,PayPal,North,51,Female,0,2023-12-10,21,1106
+790,791,2023-10-20,Basic,Credit Card,North,40,Male,1,2023-12-27,4,68
+791,792,2023-08-15,Basic,Credit Card,South,30,Male,0,2023-12-17,14,138
+792,793,2023-09-17,Basic,PayPal,South,62,Male,1,2023-10-15,77,28
+793,794,2022-12-03,Basic,Debit,West,18,Male,0,2023-12-09,22,393
+794,795,2023-10-14,Basic,Credit Card,East,52,Male,0,2023-12-02,29,78
+795,796,2021-10-14,Basic,Debit,South,50,Male,0,2023-12-27,4,808
+796,797,2023-05-31,Basic,Debit,North,56,Prefer not to answer,0,2023-12-30,1,214
+797,798,2021-04-24,Premium,Debit,East,55,Female,0,2023-12-06,25,981
+798,799,2020-03-08,Basic,Debit,South,40,Female,0,2023-12-10,21,1393
+799,800,2021-03-25,Free,Debit,East,34,Male,0,2023-12-10,21,1011
+800,801,2021-12-02,Premium,Debit,North,31,Prefer not to answer,0,2023-12-31,0,759
+801,802,2023-03-13,Basic,PayPal,South,69,Male,0,2023-12-09,22,293
+802,803,2023-12-14,Basic,Credit Card,North,51,Female,0,2023-12-22,9,17
+803,804,2022-10-04,Premium,PayPal,West,22,Male,0,2023-12-17,14,453
+804,805,2023-11-17,Premium,PayPal,West,67,Male,0,2023-12-13,18,44
+805,806,2021-03-17,Basic,PayPal,East,22,Female,1,2022-02-08,691,328
+806,807,2022-11-14,Premium,Credit Card,East,54,Prefer not to answer,0,2023-12-14,17,412
+807,808,2021-07-18,Basic,Credit Card,South,34,Male,0,2023-12-20,11,896
+808,809,2022-02-11,Basic,Credit Card,South,18,Female,0,2023-12-06,25,688
+809,810,2021-05-16,Premium,Debit,West,46,Prefer not to answer,1,2022-09-30,457,502
+810,811,2022-11-11,Free,Debit,North,45,Male,0,2023-12-30,1,415
+811,812,2021-11-26,Free,Debit,West,66,Female,0,2023-12-14,17,765
+812,813,2022-01-31,Basic,Debit,North,20,Prefer not to answer,0,2023-12-09,22,699
+813,814,2022-04-21,Premium,Debit,South,31,Prefer not to answer,0,2023-12-17,14,619
+814,815,2022-03-07,Premium,Debit,South,43,Prefer not to answer,0,2023-12-08,23,664
+815,816,2022-05-28,Free,Debit,West,19,Male,0,2023-12-19,12,582
+816,817,2021-01-27,Basic,Debit,North,50,Prefer not to answer,0,2023-12-11,20,1068
+817,818,2020-08-13,Free,Debit,East,56,Male,0,2023-12-30,1,1235
+818,819,2022-08-11,Basic,Debit,East,23,Female,0,2023-12-09,22,507
+819,820,2023-05-12,Premium,Credit Card,North,46,Male,0,2023-12-04,27,233
+820,821,2023-11-28,Free,PayPal,West,50,Female,0,2023-12-07,24,33
+821,822,2022-09-19,Basic,Debit,North,37,Male,0,2023-12-29,2,468
+822,823,2020-12-16,Basic,Credit Card,West,18,Male,1,2023-10-05,87,1023
+823,824,2021-11-30,Basic,Credit Card,South,23,Prefer not to answer,1,2022-09-08,479,282
+824,825,2023-01-03,Premium,Credit Card,South,42,Male,0,2023-12-14,17,362
+825,826,2023-05-03,Basic,Debit,West,54,Female,0,2023-12-17,14,242
+826,827,2021-09-13,Basic,Credit Card,South,63,Male,1,2022-08-14,504,335
+827,828,2023-01-01,Free,Debit,East,40,Male,0,2023-12-20,11,364
+828,829,2023-02-24,Basic,Credit Card,South,46,Prefer not to answer,1,2023-12-12,19,291
+829,830,2020-07-31,Premium,PayPal,South,42,Prefer not to answer,0,2023-12-27,4,1248
+830,831,2021-02-01,Free,Debit,North,29,Prefer not to answer,0,2023-12-28,3,1063
+831,832,2022-06-28,Premium,PayPal,West,25,Female,0,2023-12-09,22,551
+832,833,2022-06-03,Basic,Credit Card,North,34,Female,0,2023-12-13,18,576
+833,834,2022-12-10,Premium,PayPal,West,51,Prefer not to answer,0,2023-12-28,3,386
+834,835,2021-08-23,Basic,Debit,East,44,Prefer not to answer,0,2023-12-02,29,860
+835,836,2023-11-08,Premium,Debit,West,47,Male,1,2023-12-11,20,33
+836,837,2023-01-01,Premium,Credit Card,East,54,Male,0,2023-12-16,15,364
+837,838,2020-07-12,Basic,PayPal,North,61,Male,0,2023-12-27,4,1267
+838,839,2021-06-16,Basic,Credit Card,North,19,Prefer not to answer,0,2023-12-30,1,928
+839,840,2023-04-10,Basic,Credit Card,East,66,Male,0,2023-12-31,0,265
+840,841,2023-09-13,Basic,Credit Card,South,45,Prefer not to answer,1,2023-10-05,87,22
+841,842,2021-06-11,Basic,Credit Card,West,65,Male,1,2022-11-15,411,522
+842,843,2020-12-21,Premium,PayPal,West,64,Prefer not to answer,0,2023-12-24,7,1105
+843,844,2020-01-19,Premium,PayPal,West,62,Female,0,2023-12-12,19,1442
+844,845,2022-03-22,Basic,Credit Card,West,32,Male,1,2023-06-27,187,462
+845,846,2022-02-19,Premium,PayPal,South,49,Male,0,2023-12-01,30,680
+846,847,2021-01-27,Free,Credit Card,East,44,Prefer not to answer,0,2023-12-24,7,1068
+847,848,2023-09-11,Premium,PayPal,South,38,Female,1,2023-12-12,19,92
+848,849,2022-08-31,Free,PayPal,West,45,Female,0,2023-12-20,11,487
+849,850,2023-03-21,Basic,Credit Card,East,28,Male,0,2023-12-30,1,285
+850,851,2023-01-18,Basic,Debit,North,68,Prefer not to answer,0,2023-12-27,4,347
+851,852,2022-02-09,Basic,Debit,North,52,Prefer not to answer,0,2023-12-03,28,690
+852,853,2022-04-17,Premium,Credit Card,North,19,Male,0,2023-12-21,10,623
+853,854,2020-03-11,Premium,PayPal,East,38,Female,0,2023-12-18,13,1390
+854,855,2021-03-14,Basic,Credit Card,West,45,Prefer not to answer,0,2023-12-16,15,1022
+855,856,2023-09-10,Premium,Credit Card,South,48,Female,1,2023-11-28,33,79
+856,857,2020-01-18,Premium,Credit Card,West,34,Female,0,2023-12-04,27,1443
+857,858,2022-05-16,Premium,Debit,North,44,Male,0,2023-12-28,3,594
+858,859,2023-01-01,Premium,PayPal,East,61,Female,0,2023-12-14,17,364
+859,860,2021-03-23,Premium,PayPal,South,18,Female,0,2023-12-01,30,1013
+860,861,2023-12-10,Premium,PayPal,West,59,Male,0,2023-12-06,25,21
+861,862,2021-06-22,Basic,Credit Card,West,42,Male,0,2023-12-07,24,922
+862,863,2022-08-25,Basic,PayPal,West,29,Male,1,2022-10-07,450,43
+863,864,2020-06-28,Free,Debit,West,34,Female,0,2023-12-28,3,1281
+864,865,2021-12-15,Basic,PayPal,South,51,Female,0,2023-12-18,13,746
+865,866,2021-02-19,Free,Debit,East,24,Male,0,2023-12-29,2,1045
+866,867,2020-01-15,Premium,PayPal,North,22,Male,0,2023-12-01,30,1446
+867,868,2020-04-12,Basic,Debit,East,49,Prefer not to answer,0,2023-12-30,1,1358
+868,869,2020-01-16,Basic,Credit Card,South,58,Female,0,2023-12-17,14,1445
+869,870,2021-12-22,Basic,PayPal,North,22,Female,1,2023-12-24,7,732
+870,871,2022-12-07,Premium,Credit Card,East,56,Prefer not to answer,0,2023-12-26,5,389
+871,872,2022-11-21,Basic,Debit,East,40,Prefer not to answer,0,2023-12-07,24,405
+872,873,2021-02-15,Basic,Debit,West,25,Male,0,2023-12-03,28,1049
+873,874,2021-01-29,Free,PayPal,East,27,Male,0,2023-12-14,17,1066
+874,875,2022-07-21,Basic,Debit,South,18,Prefer not to answer,0,2023-12-29,2,528
+875,876,2022-08-31,Basic,PayPal,East,32,Male,0,2023-12-01,30,487
+876,877,2022-02-05,Basic,Debit,South,48,Male,0,2023-12-22,9,694
+877,878,2023-08-24,Premium,Debit,West,36,Female,0,2023-12-21,10,129
+878,879,2021-07-05,Basic,PayPal,North,43,Male,0,2023-12-28,3,909
+879,880,2022-06-19,Basic,Credit Card,North,68,Prefer not to answer,0,2023-12-23,8,560
+880,881,2021-12-13,Basic,PayPal,South,19,Female,0,2023-12-17,14,748
+881,882,2020-05-23,Premium,PayPal,West,34,Prefer not to answer,0,2023-12-21,10,1317
+882,883,2023-02-13,Basic,PayPal,East,55,Prefer not to answer,0,2023-12-18,13,321
+883,884,2020-07-03,Free,Debit,West,62,Male,0,2023-12-10,21,1276
+884,885,2022-09-12,Basic,PayPal,West,44,Male,1,2023-08-18,135,340
+885,886,2023-08-06,Premium,Credit Card,West,64,Female,1,2023-11-01,60,87
+886,887,2022-08-06,Premium,Credit Card,South,26,Female,1,2022-08-28,490,22
+887,888,2022-02-21,Premium,Debit,South,45,Female,1,2023-05-04,241,437
+888,889,2021-05-08,Premium,Debit,South,42,Prefer not to answer,0,2023-12-25,6,967
+889,890,2021-06-28,Free,Debit,West,44,Prefer not to answer,0,2023-12-11,20,916
+890,891,2022-08-30,Basic,Credit Card,South,20,Female,0,2023-12-04,27,488
+891,892,2020-07-21,Basic,PayPal,East,30,Prefer not to answer,0,2023-12-10,21,1258
+892,893,2023-08-14,Premium,Debit,North,38,Female,1,2023-10-30,62,77
+893,894,2020-02-22,Basic,Credit Card,East,68,Female,1,2023-08-24,129,1279
+894,895,2022-07-09,Premium,PayPal,West,42,Male,0,2023-12-16,15,540
+895,896,2021-12-08,Basic,Debit,South,36,Prefer not to answer,0,2023-12-16,15,753
+896,897,2023-08-29,Premium,Debit,North,36,Male,0,2023-12-17,14,124
+897,898,2020-11-10,Premium,Credit Card,East,43,Female,0,2023-12-14,17,1146
+898,899,2021-09-19,Basic,Credit Card,South,31,Male,0,2023-12-03,28,833
+899,900,2023-04-22,Basic,Credit Card,West,46,Female,0,2023-12-24,7,253
+900,901,2022-02-15,Premium,PayPal,South,44,Female,0,2023-12-01,30,684
+901,902,2022-06-27,Basic,Credit Card,East,36,Male,0,2023-12-03,28,552
+902,903,2020-08-08,Basic,Debit,South,48,Prefer not to answer,0,2023-12-29,2,1240
+903,904,2021-09-19,Basic,PayPal,North,26,Prefer not to answer,0,2023-12-08,23,833
+904,905,2022-12-28,Basic,Credit Card,North,45,Prefer not to answer,0,2023-12-08,23,368
+905,906,2021-11-17,Free,Debit,North,47,Male,0,2023-12-05,26,774
+906,907,2020-11-27,Basic,PayPal,East,19,Male,0,2023-12-02,29,1129
+907,908,2023-04-26,Premium,Credit Card,North,20,Female,1,2023-11-29,32,217
+908,909,2020-03-15,Premium,PayPal,South,69,Male,1,2022-01-23,707,679
+909,910,2020-05-05,Premium,Credit Card,East,41,Male,0,2023-12-14,17,1335
+910,911,2020-07-05,Premium,Credit Card,East,23,Male,0,2023-12-26,5,1274
+911,912,2021-07-31,Basic,Credit Card,North,26,Male,0,2023-12-17,14,883
+912,913,2022-05-29,Basic,Debit,North,69,Male,1,2022-11-01,425,156
+913,914,2022-09-07,Basic,Debit,East,37,Female,0,2023-12-26,5,480
+914,915,2021-06-14,Premium,Credit Card,North,23,Prefer not to answer,0,2023-12-15,16,930
+915,916,2022-02-25,Premium,PayPal,South,47,Prefer not to answer,0,2023-12-01,30,674
+916,917,2023-12-19,Free,PayPal,East,61,Male,0,2023-12-18,13,12
+917,918,2020-03-03,Premium,Debit,West,68,Female,0,2023-12-24,7,1398
+918,919,2023-10-15,Free,PayPal,West,68,Prefer not to answer,0,2023-12-05,26,77
+919,920,2021-11-13,Basic,Credit Card,South,27,Male,0,2023-12-19,12,778
+920,921,2022-05-16,Basic,Debit,South,57,Female,0,2023-12-18,13,594
+921,922,2020-05-20,Premium,PayPal,South,39,Prefer not to answer,0,2023-12-31,0,1320
+922,923,2023-10-05,Basic,PayPal,West,67,Female,0,2023-12-06,25,87
+923,924,2023-09-05,Premium,Credit Card,South,18,Female,1,2023-11-01,60,57
+924,925,2023-07-16,Premium,Credit Card,North,22,Male,1,2023-09-14,108,60
+925,926,2023-09-02,Basic,Credit Card,East,33,Female,0,2023-12-13,18,120
+926,927,2022-10-12,Premium,PayPal,West,26,Male,0,2023-12-15,16,445
+927,928,2020-10-05,Basic,Debit,South,52,Prefer not to answer,1,2023-04-21,254,928
+928,929,2023-09-07,Basic,Credit Card,North,29,Prefer not to answer,0,2023-12-19,12,115
+929,930,2020-02-13,Free,Credit Card,South,53,Female,0,2023-12-14,17,1417
+930,931,2022-01-15,Premium,Debit,North,26,Prefer not to answer,0,2023-12-06,25,715
+931,932,2022-04-08,Premium,Credit Card,North,55,Male,0,2023-12-20,11,632
+932,933,2023-01-29,Basic,PayPal,North,46,Male,0,2023-12-19,12,336
+933,934,2021-09-09,Basic,Credit Card,South,20,Male,0,2023-12-13,18,843
+934,935,2022-07-12,Basic,PayPal,East,67,Female,0,2023-12-01,30,537
+935,936,2022-11-10,Basic,PayPal,East,25,Male,0,2023-12-26,5,416
+936,937,2023-06-19,Premium,Credit Card,North,24,Male,0,2023-12-31,0,195
+937,938,2021-05-19,Free,Credit Card,North,20,Prefer not to answer,0,2023-12-04,27,956
+938,939,2022-03-22,Premium,Credit Card,West,62,Prefer not to answer,0,2023-12-13,18,649
+939,940,2022-12-17,Basic,Credit Card,North,24,Male,0,2023-12-14,17,379
+940,941,2020-09-04,Basic,PayPal,South,45,Female,0,2023-12-15,16,1213
+941,942,2020-01-05,Basic,Debit,North,41,Female,0,2023-12-02,29,1456
+942,943,2021-10-24,Premium,Debit,North,41,Prefer not to answer,0,2023-12-03,28,798
+943,944,2021-12-26,Premium,Credit Card,West,52,Male,1,2023-02-06,328,407
+944,945,2020-03-18,Basic,Credit Card,East,32,Female,0,2023-12-09,22,1383
+945,946,2020-04-05,Free,Debit,North,67,Prefer not to answer,1,2023-01-11,354,1011
+946,947,2022-03-20,Free,PayPal,South,30,Female,0,2023-12-25,6,651
+947,948,2021-03-01,Free,Credit Card,North,36,Female,0,2023-12-25,6,1035
+948,949,2021-12-17,Basic,Debit,South,60,Male,0,2023-12-11,20,744
+949,950,2020-09-06,Premium,Credit Card,South,45,Prefer not to answer,0,2023-12-17,14,1211
+950,951,2021-11-14,Free,PayPal,West,41,Female,0,2023-12-31,0,777
+951,952,2020-05-27,Basic,Credit Card,North,47,Male,1,2022-05-20,590,723
+952,953,2020-09-23,Basic,Credit Card,South,62,Prefer not to answer,1,2021-09-23,829,365
+953,954,2020-10-05,Basic,Credit Card,South,29,Female,0,2023-12-14,17,1182
+954,955,2021-09-15,Basic,PayPal,West,52,Prefer not to answer,0,2023-12-04,27,837
+955,956,2023-07-30,Free,PayPal,West,58,Female,0,2023-12-10,21,154
+956,957,2020-12-19,Free,Debit,South,24,Male,1,2023-09-22,100,1007
+957,958,2022-02-03,Free,Debit,East,34,Prefer not to answer,0,2023-12-29,2,696
+958,959,2023-02-13,Basic,Credit Card,East,52,Male,0,2023-12-25,6,321
+959,960,2023-05-28,Basic,PayPal,East,51,Prefer not to answer,0,2023-12-11,20,217
+960,961,2023-11-21,Premium,PayPal,North,49,Male,1,2023-12-27,4,36
+961,962,2023-09-28,Basic,Debit,South,64,Prefer not to answer,0,2023-12-01,30,94
+962,963,2020-01-14,Basic,Debit,South,41,Female,0,2023-12-02,29,1447
+963,964,2022-10-28,Basic,Credit Card,East,43,Female,1,2023-06-28,186,243
+964,965,2020-12-13,Basic,Debit,North,58,Prefer not to answer,0,2023-12-04,27,1113
+965,966,2021-09-19,Basic,Credit Card,East,60,Female,0,2023-12-17,14,833
+966,967,2022-10-25,Free,Debit,West,54,Prefer not to answer,0,2023-12-06,25,432
+967,968,2023-10-21,Basic,Debit,West,42,Prefer not to answer,0,2023-12-08,23,71
+968,969,2020-03-21,Free,PayPal,East,58,Female,0,2023-12-10,21,1380
+969,970,2020-06-20,Premium,Debit,South,69,Prefer not to answer,0,2023-12-28,3,1289
+970,971,2022-03-04,Basic,Credit Card,North,59,Male,0,2023-12-02,29,667
+971,972,2022-11-14,Free,PayPal,West,62,Female,0,2023-12-30,1,412
+972,973,2020-11-05,Premium,Debit,West,52,Prefer not to answer,1,2021-11-28,763,388
+973,974,2020-06-11,Free,PayPal,East,36,Prefer not to answer,0,2023-12-25,6,1298
+974,975,2021-07-29,Free,Credit Card,North,59,Female,0,2023-12-29,2,885
+975,976,2023-05-30,Basic,PayPal,East,37,Female,0,2023-12-12,19,215
+976,977,2021-09-25,Basic,Debit,North,44,Prefer not to answer,0,2023-12-03,28,827
+977,978,2023-08-04,Basic,Credit Card,South,28,Female,1,2023-08-14,139,10
+978,979,2020-10-20,Premium,Credit Card,North,29,Prefer not to answer,0,2023-12-03,28,1167
+979,980,2020-12-04,Basic,Credit Card,North,55,Male,1,2023-01-07,358,764
+980,981,2023-08-09,Premium,PayPal,East,53,Female,0,2023-12-28,3,144
+981,982,2020-10-25,Basic,Debit,East,55,Female,0,2023-12-12,19,1162
+982,983,2020-04-11,Basic,Debit,North,23,Male,0,2023-12-02,29,1359
+983,984,2022-04-27,Basic,Debit,West,20,Male,0,2023-12-28,3,613
+984,985,2023-10-31,Premium,PayPal,East,20,Male,0,2023-12-21,10,61
+985,986,2020-05-13,Premium,Debit,West,47,Male,1,2020-08-14,1234,93
+986,987,2023-02-12,Premium,PayPal,South,55,Female,0,2023-12-03,28,322
+987,988,2022-01-09,Free,Credit Card,South,56,Female,0,2023-12-23,8,721
+988,989,2022-03-14,Basic,Credit Card,East,68,Prefer not to answer,0,2023-12-17,14,657
+989,990,2020-05-05,Basic,Credit Card,North,54,Male,1,2020-11-10,1146,189
+990,991,2021-09-30,Basic,PayPal,East,48,Female,1,2023-02-01,333,489
+991,992,2021-08-27,Basic,PayPal,North,63,Prefer not to answer,0,2023-12-31,0,856
+992,993,2022-09-20,Free,Credit Card,West,53,Female,1,2023-10-01,91,376
+993,994,2022-12-23,Premium,Credit Card,South,60,Female,1,2023-10-15,77,296
+994,995,2023-09-04,Basic,PayPal,West,38,Female,1,2023-10-14,78,40
+995,996,2022-06-08,Premium,PayPal,West,69,Female,1,2023-03-11,295,276
+996,997,2022-05-10,Basic,Credit Card,South,29,Male,0,2023-12-17,14,600
+997,998,2021-09-18,Basic,PayPal,East,25,Prefer not to answer,0,2023-12-03,28,834
+998,999,2023-05-09,Premium,Credit Card,South,22,Prefer not to answer,0,2023-12-16,15,236
+999,1000,2021-08-01,Basic,Credit Card,South,19,Prefer not to answer,0,2023-12-24,7,882

@@ -12,7 +12,7 @@ today = pd.to_datetime('2023-12-31')
 
 customers = pd.DataFrame({
     'customer_id': range(1, n+1)
-    , 'join_date': pd.to_datetime('2020-01-01') + pd.to_timedelta(np.random.randint(0, 365*3, size = n), unit = 'D') # 'app launch date' plus random number of days
+    , 'join_date': pd.to_datetime('2020-01-01') + pd.to_timedelta(np.random.randint(0, 365*4, size = n), unit = 'D') # 'app launch date' plus random number of days
     , 'subscription_plan': np.random.choice(plans, size = n, p = [0.2, 0.5, 0.3])
     , 'payment_method': np.random.choice(['Credit Card', 'PayPal', 'Debit'], size = n)
     , 'region': np.random.choice(regions, size = n)
